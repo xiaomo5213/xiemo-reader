@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="天赋与技能的区别">
+<title>天赋与技能的区别</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="866.0" cy="154.0" r="50.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="163.0" cy="113.0" r="26.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="878.0" cy="384.0" r="26.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="262.0" cy="116.0" rx="47.8" ry="27.0" fill="#ffffff"/><ellipse cx="222.5" cy="124.3" rx="31.2" ry="20.8" fill="#ffffff"/><ellipse cx="303.6" cy="124.3" rx="33.3" ry="21.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="696.0" cy="119.0" rx="38.0" ry="21.5" fill="#ffffff"/><ellipse cx="664.6" cy="125.6" rx="24.8" ry="16.5" fill="#ffffff"/><ellipse cx="729.0" cy="125.6" rx="26.4" ry="17.3" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<circle cx="700.0" cy="176.0" r="62.0" fill="#e0913c"/>
+<path d="M 300 400 q 180 -70 360 0 Z" fill="#0f7d5c"/>
+<rect x="300.0" y="396.0" width="360.0" height="14.0" rx="6.0" fill="#0f7d5c"/>
+<path d="M 480 390 C 480 330 470 290 480 250" fill="none" stroke="#17a67a" stroke-width="10" stroke-linecap="round"/>
+<path d="M 480 320 C 420 320 396 286 404 258 C 442 254 476 286 480 320 Z" fill="#17a67a"/>
+<path d="M 482 288 C 540 288 566 254 558 226 C 520 222 486 254 482 288 Z" fill="#c4e8da"/>
+<ellipse cx="360.0" cy="376.0" rx="26.0" ry="18.0" fill="#e0913c"/>
+<ellipse cx="612.0" cy="380.0" rx="22.0" ry="15.0" fill="#e0913c"/>
+<polygon points="760.0,230.0 754.7,242.7 741.0,243.8 751.4,252.8 748.2,266.2 760.0,259.0 771.8,266.2 768.6,252.8 779.0,243.8 765.3,242.7" fill="#e0913c"/>
+<path d="M 672 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 170 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 201 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

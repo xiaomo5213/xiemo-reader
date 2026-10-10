@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="批判性阅读">
+<title>批判性阅读</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="718.0" cy="92.0" r="33.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="153.0" cy="110.0" r="40.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="795.0" cy="374.0" r="24.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="182.0" cy="102.0" rx="38.0" ry="21.5" fill="#ffffff"/><ellipse cx="150.6" cy="108.6" rx="24.8" ry="16.5" fill="#ffffff"/><ellipse cx="215.1" cy="108.6" rx="26.5" ry="17.4" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="761.0" cy="138.0" rx="37.8" ry="21.3" fill="#ffffff"/><ellipse cx="729.8" cy="144.6" rx="24.6" ry="16.4" fill="#ffffff"/><ellipse cx="793.8" cy="144.6" rx="26.3" ry="17.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<path d="M 250 350 L 470 318 L 470 400 L 250 424 Z" fill="#17a67a"/>
+<path d="M 710 350 L 490 318 L 490 400 L 710 424 Z" fill="#17a67a"/>
+<path d="M 470 318 L 490 318 L 490 400 L 470 400 Z" fill="#0f7d5c"/>
+<path d="M 250 424 L 470 400 L 710 424 L 710 436 L 250 460 Z" fill="#0f7d5c"/>
+<rect x="276.0" y="356.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<rect x="534.0" y="356.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<rect x="276.0" y="378.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<rect x="534.0" y="378.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<rect x="276.0" y="400.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<rect x="534.0" y="400.0" width="150.0" height="7.0" rx="3.5" fill="#ffffff" opacity="0.7"/>
+<path d="M 470 300 C 430 240 500 210 470 160" fill="none" stroke="#e0913c" stroke-width="5"/>
+<polygon points="470.0,120.0 464.7,132.7 451.0,133.8 461.4,142.8 458.2,156.2 470.0,149.0 481.8,156.2 478.6,142.8 489.0,133.8 475.3,132.7" fill="#e0913c"/>
+<circle cx="596.0" cy="232.0" r="56.0" fill="#ffffff" stroke="#0f7d5c" stroke-width="6"/>
+<line x1="636.0" y1="272.0" x2="686.0" y2="322.0" stroke="#0f7d5c" stroke-width="12.0" stroke-linecap="round"/>
+<path d="M 817 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 868 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 185 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

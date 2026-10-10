@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="如何创业">
+<title>如何创业</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="805.0" cy="112.0" r="49.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="136.0" cy="176.0" r="32.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="881.0" cy="349.0" r="21.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="300.0" cy="98.0" rx="44.0" ry="24.9" fill="#ffffff"/><ellipse cx="263.6" cy="105.7" rx="28.7" ry="19.1" fill="#ffffff"/><ellipse cx="338.3" cy="105.7" rx="30.6" ry="20.1" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="643.0" cy="144.0" rx="35.6" ry="20.1" fill="#ffffff"/><ellipse cx="613.6" cy="150.2" rx="23.2" ry="15.5" fill="#ffffff"/><ellipse cx="674.0" cy="150.2" rx="24.8" ry="16.3" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<path d="M 480 150 C 540 200 546 300 540 360 L 420 360 C 414 300 420 200 480 150 Z" fill="#17a67a"/>
+<path d="M 480 150 C 540 200 546 300 540 360 L 480 360 Z" fill="#0f7d5c" opacity="0.25"/>
+<circle cx="480.0" cy="268.0" r="34.0" fill="#eaf6fb" stroke="#0f7d5c" stroke-width="5"/>
+<path d="M 420 300 L 386 380 L 420 362 Z" fill="#e0913c"/>
+<path d="M 540 300 L 574 380 L 540 362 Z" fill="#e0913c"/>
+<path d="M 440 360 q 40 70 80 0 q -40 34 -80 0 Z" fill="#e0913c"/>
+<circle cx="480.0" cy="396.0" r="16.0" fill="#f3e6b8"/>
+<circle cx="420.0" cy="420.0" r="20.0" fill="#c4e8da" opacity="0.75"/>
+<circle cx="460.0" cy="438.0" r="17.0" fill="#c4e8da" opacity="0.75"/>
+<circle cx="500.0" cy="420.0" r="14.0" fill="#c4e8da" opacity="0.75"/>
+<circle cx="540.0" cy="438.0" r="11.0" fill="#c4e8da" opacity="0.75"/>
+<polygon points="700.0,140.2 694.8,152.8 681.2,153.9 691.5,162.8 688.4,176.0 700.0,168.9 711.6,176.0 708.5,162.8 718.8,153.9 705.2,152.8" fill="#e0913c"/>
+<polygon points="270.0,174.6 265.9,184.4 255.4,185.2 263.4,192.1 260.9,202.5 270.0,196.9 279.1,202.5 276.6,192.1 284.6,185.2 274.1,184.4" fill="#e0913c"/>
+<polygon points="760.0,247.9 756.8,255.6 748.5,256.3 754.8,261.7 752.9,269.8 760.0,265.4 767.1,269.8 765.2,261.7 771.5,256.3 763.2,255.6" fill="#e0913c"/>
+<g opacity="0.85"><ellipse cx="230.0" cy="320.0" rx="39.1" ry="22.1" fill="#ffffff"/><ellipse cx="197.7" cy="326.8" rx="25.5" ry="17.0" fill="#ffffff"/><ellipse cx="264.0" cy="326.8" rx="27.2" ry="17.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="760.0" cy="340.0" rx="32.2" ry="18.2" fill="#ffffff"/><ellipse cx="733.4" cy="345.6" rx="21.0" ry="14.0" fill="#ffffff"/><ellipse cx="788.0" cy="345.6" rx="22.4" ry="14.7" fill="#ffffff"/></g>
+<path d="M 126 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 405 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 656 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

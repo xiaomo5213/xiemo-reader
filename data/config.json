@@ -1,0 +1,6 @@
+{
+  "_说明": "可选配置。默认完全离线运行；如需在线兜底查词，把 enableOnline 设为 true 并填写一个返回 JSON 的代理地址（{w} 会被替换为要查的单词）。",
+  "enableOnline": false,
+  "onlineEndpoint": "",
+  "audioEndpoint": "https://dict.youdao.com/dictvoice?audio={w}&type={t}"
+}

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="个人理财">
+<title>个人理财</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="719.0" cy="111.0" r="52.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="122.0" cy="157.0" r="26.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="808.0" cy="390.0" r="22.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="189.0" cy="105.0" rx="38.0" ry="21.5" fill="#ffffff"/><ellipse cx="157.6" cy="111.6" rx="24.8" ry="16.5" fill="#ffffff"/><ellipse cx="222.0" cy="111.6" rx="26.4" ry="17.3" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="755.0" cy="113.0" rx="39.0" ry="22.0" fill="#ffffff"/><ellipse cx="722.8" cy="119.8" rx="25.4" ry="16.9" fill="#ffffff"/><ellipse cx="788.9" cy="119.8" rx="27.1" ry="17.8" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<ellipse cx="470.0" cy="320.0" rx="150.0" ry="108.0" fill="#17a67a"/>
+<path d="M 340 288 L 300 238 L 356 254 Z" fill="#17a67a"/>
+<rect x="430.0" y="246.0" width="80.0" height="14.0" rx="6.0" fill="#0f7d5c"/>
+<circle cx="588.0" cy="330.0" r="20.0" fill="#0f7d5c"/>
+<circle cx="596.0" cy="330.0" r="8.0" fill="#c4e8da"/>
+<rect x="392.0" y="372.0" width="34.0" height="44.0" rx="12.0" fill="#0f7d5c"/>
+<rect x="514.0" y="372.0" width="34.0" height="44.0" rx="12.0" fill="#0f7d5c"/>
+<path d="M 348 424 q 10 -22 34 -14" fill="none" stroke="#0f7d5c" stroke-width="6"/>
+<circle cx="470.0" cy="190.0" r="44.0" fill="#fbe4c2" stroke="#e0913c" stroke-width="3"/>
+<line x1="451.5" y1="176.8" x2="470.0" y2="190.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="488.5" y1="176.8" x2="470.0" y2="190.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="470.0" y1="190.0" x2="470.0" y2="208.5" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="451.5" y1="195.3" x2="488.5" y2="195.3" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="451.5" y1="212.9" x2="488.5" y2="212.9" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="220.0" cy="380.0" r="34.0" fill="#fbe4c2" stroke="#e0913c" stroke-width="3"/>
+<line x1="205.7" y1="369.8" x2="220.0" y2="380.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="234.3" y1="369.8" x2="220.0" y2="380.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="220.0" y1="380.0" x2="220.0" y2="394.3" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="205.7" y1="384.1" x2="234.3" y2="384.1" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="205.7" y1="397.7" x2="234.3" y2="397.7" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="720.0" cy="380.0" r="30.0" fill="#fbe4c2" stroke="#e0913c" stroke-width="3"/>
+<line x1="707.4" y1="371.0" x2="720.0" y2="380.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="732.6" y1="371.0" x2="720.0" y2="380.0" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="720.0" y1="380.0" x2="720.0" y2="392.6" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="707.4" y1="383.6" x2="732.6" y2="383.6" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/><line x1="707.4" y1="395.6" x2="732.6" y2="395.6" stroke="#e0913c" stroke-width="3.0" stroke-linecap="round"/>
+<path d="M 607 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 131 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 588 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="第一次约会的四种结局">
+<title>第一次约会的四种结局</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="843.0" cy="149.0" r="52.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="102.0" cy="148.0" r="37.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="814.0" cy="397.0" r="30.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="208.0" cy="97.0" rx="41.1" ry="23.2" fill="#ffffff"/><ellipse cx="174.0" cy="104.1" rx="26.8" ry="17.9" fill="#ffffff"/><ellipse cx="243.7" cy="104.1" rx="28.6" ry="18.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="736.0" cy="144.0" rx="39.9" ry="22.5" fill="#ffffff"/><ellipse cx="703.1" cy="150.9" rx="26.0" ry="17.3" fill="#ffffff"/><ellipse cx="770.7" cy="150.9" rx="27.7" ry="18.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="350.0" width="380.0" height="16.0" rx="6.0" fill="#b25f1c"/>
+<rect x="322.0" y="366.0" width="14.0" height="62.0" rx="5.0" fill="#b25f1c"/>
+<rect x="644.0" y="366.0" width="14.0" height="62.0" rx="5.0" fill="#b25f1c"/>
+<rect x="283.7" y="403.9" width="12.0" height="24.1" rx="6.0" fill="#b25f1c"/>
+<rect x="304.3" y="403.9" width="12.0" height="24.1" rx="6.0" fill="#b25f1c"/>
+<rect x="265.6" y="357.5" width="18.9" height="10.3" rx="5.2" fill="#e0822f"/>
+<rect x="315.5" y="357.5" width="18.9" height="10.3" rx="5.2" fill="#e0822f"/>
+<rect x="275.9" y="345.4" width="48.2" height="65.4" rx="13.8" fill="#e0822f"/>
+<circle cx="300.0" cy="320.5" r="23.2" fill="#f8d3ae"/>
+<rect x="683.7" y="403.9" width="12.0" height="24.1" rx="6.0" fill="#b25f1c"/>
+<rect x="704.3" y="403.9" width="12.0" height="24.1" rx="6.0" fill="#b25f1c"/>
+<rect x="665.6" y="357.5" width="18.9" height="10.3" rx="5.2" fill="#17a67a"/>
+<rect x="715.5" y="357.5" width="18.9" height="10.3" rx="5.2" fill="#17a67a"/>
+<path d="M 677.6 345.4 L 722.4 345.4 L 732.7 410.8 L 667.3 410.8 Z" fill="#17a67a"/>
+<circle cx="700.0" cy="320.5" r="23.2" fill="#f8d3ae"/>
+<rect x="470.0" y="288.0" width="22.0" height="62.0" rx="6.0" fill="#ffffff" stroke="#f7dcb6" stroke-width="3"/>
+<path d="M 481 288 c -14 -12 0 -22 0 -34 c 0 12 14 22 0 34 Z" fill="#17a67a"/>
+<rect x="410.0" y="320.0" width="34.0" height="30.0" rx="6.0" fill="#f7dcb6"/>
+<rect x="520.0" y="320.0" width="34.0" height="30.0" rx="6.0" fill="#f7dcb6"/>
+<path d="M 560.0 183.8 C 547.6 171.4 535.2 183.8 535.2 193.1 C 535.2 203.6 547.6 211.1 560.0 219.8 C 572.4 211.1 584.8 203.6 584.8 193.1 C 584.8 183.8 572.4 171.4 560.0 183.8 Z" fill="#e05a5a"/>
+<circle cx="398.0" cy="214.0" r="12.0" fill="#17a67a" opacity="0.7"/>
+<circle cx="586.0" cy="250.0" r="9.0" fill="#17a67a" opacity="0.6"/>
+<path d="M 826 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 674 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 273 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

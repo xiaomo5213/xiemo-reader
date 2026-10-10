@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="网络无处不在">
+<title>网络无处不在</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="795.0" cy="128.0" r="30.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="139.0" cy="149.0" r="33.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="822.0" cy="384.0" r="20.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="267.0" cy="110.0" rx="41.9" ry="23.7" fill="#ffffff"/><ellipse cx="232.4" cy="117.3" rx="27.3" ry="18.2" fill="#ffffff"/><ellipse cx="303.5" cy="117.3" rx="29.2" ry="19.1" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="652.0" cy="135.0" rx="34.3" ry="19.4" fill="#ffffff"/><ellipse cx="623.6" cy="141.0" rx="22.4" ry="14.9" fill="#ffffff"/><ellipse cx="681.8" cy="141.0" rx="23.9" ry="15.7" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<circle cx="480.0" cy="288.0" r="132.0" fill="#7b5ea7" opacity="0.18"/>
+<circle cx="480.0" cy="288.0" r="112.0" fill="none" stroke="#7b5ea7" stroke-width="6"/>
+<ellipse cx="480.0" cy="288.0" rx="112.0" ry="42.0" fill="none" stroke="#7b5ea7" stroke-width="5"/>
+<ellipse cx="480.0" cy="288.0" rx="42.0" ry="112.0" fill="none" stroke="#7b5ea7" stroke-width="5"/>
+<line x1="368.0" y1="288.0" x2="592.0" y2="288.0" stroke="#7b5ea7" stroke-width="5.0" stroke-linecap="round"/>
+<line x1="480.0" y1="288.0" x2="300.0" y2="200.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="300.0" cy="200.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="300.0" cy="200.0" r="7.0" fill="#ffffff"/>
+<line x1="480.0" y1="288.0" x2="660.0" y2="196.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="660.0" cy="196.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="660.0" cy="196.0" r="7.0" fill="#ffffff"/>
+<line x1="480.0" y1="288.0" x2="250.0" y2="360.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="250.0" cy="360.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="250.0" cy="360.0" r="7.0" fill="#ffffff"/>
+<line x1="480.0" y1="288.0" x2="700.0" y2="356.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="700.0" cy="356.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="700.0" cy="356.0" r="7.0" fill="#ffffff"/>
+<line x1="480.0" y1="288.0" x2="480.0" y2="140.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="480.0" cy="140.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="480.0" cy="140.0" r="7.0" fill="#ffffff"/>
+<line x1="480.0" y1="288.0" x2="480.0" y2="440.0" stroke="#ded3f0" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="480.0" cy="440.0" r="17.0" fill="#7b5ea7"/>
+<circle cx="480.0" cy="440.0" r="7.0" fill="#ffffff"/>
+<path d="M 233 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 333 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 524 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

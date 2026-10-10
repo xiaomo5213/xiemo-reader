@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="内心的声音">
+<title>内心的声音</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="843.0" cy="149.0" r="52.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="102.0" cy="148.0" r="37.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="814.0" cy="397.0" r="30.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="208.0" cy="97.0" rx="41.1" ry="23.2" fill="#ffffff"/><ellipse cx="174.0" cy="104.1" rx="26.8" ry="17.9" fill="#ffffff"/><ellipse cx="243.7" cy="104.1" rx="28.6" ry="18.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="736.0" cy="144.0" rx="39.9" ry="22.5" fill="#ffffff"/><ellipse cx="703.1" cy="150.9" rx="26.0" ry="17.3" fill="#ffffff"/><ellipse cx="770.7" cy="150.9" rx="27.7" ry="18.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="410.1" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#5a4180"/>
+<rect x="435.2" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#5a4180"/>
+<rect x="388.0" y="341.9" width="23.1" height="12.6" rx="6.3" fill="#7b5ea7"/>
+<rect x="448.9" y="341.9" width="23.1" height="12.6" rx="6.3" fill="#7b5ea7"/>
+<rect x="400.6" y="327.2" width="58.8" height="79.8" rx="16.8" fill="#7b5ea7"/>
+<circle cx="430.0" cy="296.8" r="28.4" fill="#f8d3ae"/>
+<path d="M 401.6 294.6 a 28.4 28.4 0 0 1 56.7 0 Z" fill="#4a3b32"/>
+<ellipse cx="710.0" cy="205.0" rx="150.0" ry="75.0" fill="#ffffff" stroke="#7b5ea7" stroke-width="3.5"/>
+<path d="M 566.0 260.0 L 534.0 302.0 L 606.0 276.0 Z" fill="#ffffff"/>
+<path d="M 640 220 a 30 30 0 0 1 0 60" fill="none" stroke="#e0822f" stroke-width="4" opacity="0.75"/>
+<path d="M 640 206 a 44 44 0 0 1 0 88" fill="none" stroke="#e0822f" stroke-width="4" opacity="0.5700000000000001"/>
+<path d="M 640 192 a 58 58 0 0 1 0 116" fill="none" stroke="#e0822f" stroke-width="4" opacity="0.39"/>
+<rect x="600.0" y="172.0" width="200.0" height="8.0" rx="4.0" fill="#ded3f0" opacity="0.75"/>
+<rect x="600.0" y="206.0" width="144.0" height="8.0" rx="4.0" fill="#ded3f0" opacity="0.75"/>
+<circle cx="280.0" cy="250.0" r="18.0" fill="#e0822f" opacity="0.6"/>
+<circle cx="240.0" cy="300.0" r="12.0" fill="#e0822f" opacity="0.45"/>
+<path d="M 826 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 674 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 273 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

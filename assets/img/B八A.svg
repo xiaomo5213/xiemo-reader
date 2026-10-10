@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="假如生来没有双臂">
+<title>假如生来没有双臂</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="701.0" cy="123.0" r="32.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="127.0" cy="132.0" r="34.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="783.0" cy="346.0" r="18.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="244.0" cy="110.0" rx="50.1" ry="28.3" fill="#ffffff"/><ellipse cx="202.6" cy="118.7" rx="32.7" ry="21.8" fill="#ffffff"/><ellipse cx="287.6" cy="118.7" rx="34.8" ry="22.9" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="666.0" cy="120.0" rx="38.8" ry="21.9" fill="#ffffff"/><ellipse cx="634.0" cy="126.7" rx="25.3" ry="16.9" fill="#ffffff"/><ellipse cx="699.7" cy="126.7" rx="27.0" ry="17.7" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<rect x="449.1" y="397.2" width="15.4" height="30.8" rx="7.7" fill="#0f7d5c"/>
+<rect x="475.5" y="397.2" width="15.4" height="30.8" rx="7.7" fill="#0f7d5c"/>
+<rect x="439.2" y="322.4" width="61.6" height="83.6" rx="17.6" fill="#17a67a"/>
+<circle cx="470.0" cy="290.5" r="29.7" fill="#f8d3ae"/>
+<path d="M 440.3 288.3 a 29.7 29.7 0 0 1 59.4 0 Z" fill="#4a3b32"/>
+<path d="M 400 300 C 320 280 280 320 300 372 C 340 356 372 340 400 330 Z" fill="#e0913c" opacity="0.9"/>
+<path d="M 540 300 C 620 280 660 320 640 372 C 600 356 568 340 540 330 Z" fill="#e0913c" opacity="0.9"/>
+<path d="M 700.0 183.0 C 686.0 169.0 672.0 183.0 672.0 193.5 C 672.0 205.4 686.0 213.8 700.0 223.6 C 714.0 213.8 728.0 205.4 728.0 193.5 C 728.0 183.0 714.0 169.0 700.0 183.0 Z" fill="#e05a5a"/>
+<path d="M 250.0 204.5 C 239.0 193.5 228.0 204.5 228.0 212.8 C 228.0 222.1 239.0 228.7 250.0 236.4 C 261.0 228.7 272.0 222.1 272.0 212.8 C 272.0 204.5 261.0 193.5 250.0 204.5 Z" fill="#e05a5a"/>
+<line x1="648.2" y1="127.4" x2="676.7" y2="115.6" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="592.6" y1="73.6" x2="612.2" y2="53.0" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="513.6" y1="43.9" x2="520.6" y2="18.5" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="426.4" y1="43.9" x2="419.4" y2="18.5" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="347.4" y1="73.6" x2="327.8" y2="53.0" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="291.8" y1="127.4" x2="263.3" y2="115.6" stroke="#e0913c" stroke-width="6.0" stroke-linecap="round"/>
+<path d="M 371 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 153 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 518 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

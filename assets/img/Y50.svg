@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="与自己相处的时间最长">
+<title>与自己相处的时间最长</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0faf9"/><stop offset="1" stop-color="#dff2f0"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="719.0" cy="111.0" r="52.0" fill="#c6e6e4" opacity="0.55"/>
+<circle cx="122.0" cy="157.0" r="26.0" fill="#c6e6e4" opacity="0.45"/>
+<circle cx="808.0" cy="390.0" r="22.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="189.0" cy="105.0" rx="38.0" ry="21.5" fill="#ffffff"/><ellipse cx="157.6" cy="111.6" rx="24.8" ry="16.5" fill="#ffffff"/><ellipse cx="222.0" cy="111.6" rx="26.4" ry="17.3" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="755.0" cy="113.0" rx="39.0" ry="22.0" fill="#ffffff"/><ellipse cx="722.8" cy="119.8" rx="25.4" ry="16.9" fill="#ffffff"/><ellipse cx="788.9" cy="119.8" rx="27.1" ry="17.8" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c6e6e4" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#1f8b8b" stroke-width="3" opacity="0.35"/>
+<rect x="330.0" y="150.0" width="300.0" height="250.0" rx="18.0" fill="#ffffff" stroke="#1f8b8b" stroke-width="6"/>
+<path d="M 356 380 L 604 190 L 630 210 L 382 400 Z" fill="#c6e6e4" opacity="0.55"/>
+<rect x="461.4" y="372.6" width="13.7" height="27.4" rx="6.9" fill="#146666"/>
+<rect x="484.9" y="372.6" width="13.7" height="27.4" rx="6.9" fill="#146666"/>
+<rect x="440.8" y="319.6" width="21.6" height="11.8" rx="5.9" fill="#1f8b8b"/>
+<rect x="497.6" y="319.6" width="21.6" height="11.8" rx="5.9" fill="#1f8b8b"/>
+<rect x="452.6" y="305.9" width="54.9" height="74.5" rx="15.7" fill="#1f8b8b"/>
+<circle cx="480.0" cy="277.5" r="26.5" fill="#f8d3ae"/>
+<path d="M 453.5 275.5 a 26.5 26.5 0 0 1 52.9 0 Z" fill="#4a3b32"/>
+<rect x="390.0" y="400.0" width="180.0" height="16.0" rx="6.0" fill="#146666"/>
+<circle cx="760.0" cy="220.0" r="22.0" fill="#e0822f" opacity="0.8"/>
+<circle cx="812.0" cy="268.0" r="14.0" fill="#e0822f" opacity="0.6"/>
+<path d="M 607 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 131 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 588 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

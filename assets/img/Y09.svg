@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="如何买到可靠的二手车">
+<title>如何买到可靠的二手车</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="854.0" cy="98.0" r="46.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="99.0" cy="155.0" r="32.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="883.0" cy="362.0" r="27.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="285.0" cy="123.0" rx="47.0" ry="26.6" fill="#ffffff"/><ellipse cx="246.2" cy="131.2" rx="30.6" ry="20.4" fill="#ffffff"/><ellipse cx="325.9" cy="131.2" rx="32.7" ry="21.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="733.0" cy="144.0" rx="37.2" ry="21.0" fill="#ffffff"/><ellipse cx="702.3" cy="150.5" rx="24.2" ry="16.2" fill="#ffffff"/><ellipse cx="765.3" cy="150.5" rx="25.8" ry="17.0" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="300.0" width="380.0" height="96.0" rx="18.0" fill="#e0822f"/>
+<path d="M 372 300 L 420 246 L 566 246 L 614 300 Z" fill="#e0822f"/>
+<path d="M 392 300 L 424 258 L 508 258 L 540 300 Z" fill="#eaf6fb"/>
+<path d="M 520 300 L 552 258 L 566 258 L 590 300 Z" fill="#eaf6fb"/>
+<circle cx="392.0" cy="412.0" r="40.0" fill="#3b4a52"/>
+<circle cx="392.0" cy="412.0" r="17.0" fill="#f7dcb6"/>
+<circle cx="620.0" cy="412.0" r="40.0" fill="#3b4a52"/>
+<circle cx="620.0" cy="412.0" r="17.0" fill="#f7dcb6"/>
+<rect x="300.0" y="348.0" width="380.0" height="14.0" rx="6.0" fill="#b25f1c"/>
+<path d="M 700 210 l 130 0 l 0 66 l -40 40 l -90 0 Z" fill="#17a67a"/>
+<circle cx="716.0" cy="243.0" r="9.0" fill="#ffffff"/>
+<line x1="734.0" y1="236.0" x2="800.0" y2="236.0" stroke="#ffffff" stroke-width="7.0" stroke-linecap="round"/>
+<line x1="734.0" y1="256.0" x2="786.0" y2="256.0" stroke="#ffffff" stroke-width="7.0" stroke-linecap="round"/>
+<path d="M 479 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 443 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 206 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

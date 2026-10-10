@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="公共交通比开车更好吗">
+<title>公共交通比开车更好吗</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0faf9"/><stop offset="1" stop-color="#dff2f0"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="838.0" cy="91.0" r="32.0" fill="#c6e6e4" opacity="0.55"/>
+<circle cx="100.0" cy="112.0" r="26.0" fill="#c6e6e4" opacity="0.45"/>
+<circle cx="854.0" cy="345.0" r="16.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="254.0" cy="127.0" rx="43.1" ry="24.4" fill="#ffffff"/><ellipse cx="218.4" cy="134.5" rx="28.1" ry="18.7" fill="#ffffff"/><ellipse cx="291.5" cy="134.5" rx="30.0" ry="19.7" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="672.0" cy="147.0" rx="42.0" ry="23.7" fill="#ffffff"/><ellipse cx="637.3" cy="154.3" rx="27.4" ry="18.3" fill="#ffffff"/><ellipse cx="708.5" cy="154.3" rx="29.2" ry="19.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c6e6e4" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#1f8b8b" stroke-width="3" opacity="0.35"/>
+<rect x="320.0" y="250.0" width="400.0" height="150.0" rx="16.0" fill="#1f8b8b"/>
+<rect x="340.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="454.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="568.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="340.0" y="350.0" width="328.0" height="26.0" rx="6.0" fill="#146666"/>
+<circle cx="398.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="398.0" cy="416.0" r="15.0" fill="#c6e6e4"/>
+<circle cx="672.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="672.0" cy="416.0" r="15.0" fill="#c6e6e4"/>
+<rect x="760.0" y="300.0" width="12.0" height="60.0" rx="4.0" fill="#146666"/>
+<rect x="180.0" y="322.0" width="210.0" height="66.0" rx="14.0" fill="#e0822f"/>
+<path d="M 224 322 L 256 284 L 322 284 L 350 322 Z" fill="#e0822f"/>
+<circle cx="240.0" cy="400.0" r="30.0" fill="#3b4a52"/>
+<circle cx="240.0" cy="400.0" r="12.0" fill="#c6e6e4"/>
+<circle cx="340.0" cy="400.0" r="30.0" fill="#3b4a52"/>
+<circle cx="340.0" cy="400.0" r="12.0" fill="#c6e6e4"/>
+<line x1="460.0" y1="250.0" x2="460.0" y2="400.0" stroke="#146666" stroke-width="5.0" stroke-linecap="round"/>
+<circle cx="460.0" cy="325.0" r="40.0" fill="#ffffff" stroke="#146666" stroke-width="4"/>
+<line x1="444.0" y1="310.0" x2="476.0" y2="340.0" stroke="#146666" stroke-width="5.0" stroke-linecap="round"/>
+<line x1="476.0" y1="310.0" x2="444.0" y2="340.0" stroke="#146666" stroke-width="5.0" stroke-linecap="round"/>
+<path d="M 885 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 288 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 750 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

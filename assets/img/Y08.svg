@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="成功者&quot;向前失败&quot;的四种能力">
+<title>成功者&quot;向前失败&quot;的四种能力</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2f8fd"/><stop offset="1" stop-color="#e4eef9"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="843.0" cy="149.0" r="52.0" fill="#cfe0f2" opacity="0.55"/>
+<circle cx="102.0" cy="148.0" r="37.0" fill="#cfe0f2" opacity="0.45"/>
+<circle cx="814.0" cy="397.0" r="30.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="208.0" cy="97.0" rx="41.1" ry="23.2" fill="#ffffff"/><ellipse cx="174.0" cy="104.1" rx="26.8" ry="17.9" fill="#ffffff"/><ellipse cx="243.7" cy="104.1" rx="28.6" ry="18.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="736.0" cy="144.0" rx="39.9" ry="22.5" fill="#ffffff"/><ellipse cx="703.1" cy="150.9" rx="26.0" ry="17.3" fill="#ffffff"/><ellipse cx="770.7" cy="150.9" rx="27.7" ry="18.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#cfe0f2" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#2f6fb5" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="392.0" width="120.0" height="40.0" rx="5.0" fill="#2f6fb5"/>
+<rect x="300.0" y="392.0" width="120.0" height="8.0" rx="3.0" fill="#ffffff" opacity="0.5"/>
+<rect x="368.0" y="356.0" width="120.0" height="40.0" rx="5.0" fill="#cfe0f2"/>
+<rect x="368.0" y="356.0" width="120.0" height="8.0" rx="3.0" fill="#ffffff" opacity="0.5"/>
+<rect x="436.0" y="320.0" width="120.0" height="40.0" rx="5.0" fill="#2f6fb5"/>
+<rect x="436.0" y="320.0" width="120.0" height="8.0" rx="3.0" fill="#ffffff" opacity="0.5"/>
+<rect x="504.0" y="284.0" width="120.0" height="40.0" rx="5.0" fill="#cfe0f2"/>
+<rect x="504.0" y="284.0" width="120.0" height="8.0" rx="3.0" fill="#ffffff" opacity="0.5"/>
+<rect x="572.0" y="248.0" width="120.0" height="40.0" rx="5.0" fill="#2f6fb5"/>
+<rect x="572.0" y="248.0" width="120.0" height="8.0" rx="3.0" fill="#ffffff" opacity="0.5"/>
+<rect x="260.0" y="392.0" width="44.0" height="40.0" rx="5.0" fill="#1e4d83"/>
+<rect x="481.0" y="220.0" width="14.0" height="28.0" rx="7.0" fill="#1e4d83"/>
+<rect x="505.0" y="220.0" width="14.0" height="28.0" rx="7.0" fill="#1e4d83"/>
+<rect x="456.0" y="126.0" width="12.0" height="62.0" rx="6.0" fill="#2f6fb5" transform="rotate(25 462.0 158.0)"/>
+<rect x="532.0" y="126.0" width="12.0" height="62.0" rx="6.0" fill="#2f6fb5" transform="rotate(-25 538.0 158.0)"/>
+<rect x="472.0" y="152.0" width="56.0" height="76.0" rx="16.0" fill="#2f6fb5"/>
+<circle cx="500.0" cy="123.0" r="27.0" fill="#f8d3ae"/>
+<path d="M 473.0 121.0 a 27.0 27.0 0 0 1 54.0 0 Z" fill="#4a3b32"/>
+<polygon points="700.0,128.0 694.2,142.0 679.1,143.2 690.6,153.1 687.1,167.8 700.0,159.9 712.9,167.8 709.4,153.1 720.9,143.2 705.8,142.0" fill="#17a67a"/>
+<polygon points="748.0,182.0 744.3,190.9 734.7,191.7 742.0,197.9 739.8,207.3 748.0,202.3 756.2,207.3 754.0,197.9 761.3,191.7 751.7,190.9" fill="#17a67a"/>
+<path d="M 826 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 674 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 273 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

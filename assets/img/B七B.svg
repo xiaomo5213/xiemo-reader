@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="留下良好的第一印象">
+<title>留下良好的第一印象</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="746.0" cy="92.0" r="46.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="146.0" cy="159.0" r="38.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="824.0" cy="366.0" r="23.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="210.0" cy="128.0" rx="44.6" ry="25.2" fill="#ffffff"/><ellipse cx="173.1" cy="135.8" rx="29.1" ry="19.4" fill="#ffffff"/><ellipse cx="248.8" cy="135.8" rx="31.0" ry="20.4" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="680.0" cy="117.0" rx="34.7" ry="19.6" fill="#ffffff"/><ellipse cx="651.3" cy="123.0" rx="22.6" ry="15.1" fill="#ffffff"/><ellipse cx="710.2" cy="123.0" rx="24.1" ry="15.8" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="331.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#5a4180"/>
+<rect x="355.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#5a4180"/>
+<rect x="310.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#7b5ea7"/>
+<rect x="368.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#7b5ea7"/>
+<rect x="322.0" y="332.0" width="56.0" height="76.0" rx="16.0" fill="#7b5ea7"/>
+<circle cx="350.0" cy="303.0" r="27.0" fill="#f8d3ae"/>
+<rect x="601.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#b25f1c"/>
+<rect x="625.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#b25f1c"/>
+<rect x="580.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#e0822f"/>
+<rect x="638.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#e0822f"/>
+<rect x="592.0" y="332.0" width="56.0" height="76.0" rx="16.0" fill="#e0822f"/>
+<circle cx="620.0" cy="303.0" r="27.0" fill="#f8d3ae"/>
+<rect x="430.0" y="300.0" width="110.0" height="34.0" rx="16.0" fill="#f8d3ae"/>
+<line x1="430.0" y1="312.0" x2="540.0" y2="312.0" stroke="#5a4180" stroke-width="4.0" stroke-linecap="round"/>
+<path d="M 279 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 88 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 561 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="语言的力量">
+<title>语言的力量</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="787.0" cy="143.0" r="45.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="178.0" cy="167.0" r="23.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="840.0" cy="345.0" r="16.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="205.0" cy="117.0" rx="44.5" ry="25.1" fill="#ffffff"/><ellipse cx="168.3" cy="124.7" rx="29.0" ry="19.3" fill="#ffffff"/><ellipse cx="243.7" cy="124.7" rx="30.9" ry="20.3" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="733.0" cy="132.0" rx="32.7" ry="18.5" fill="#ffffff"/><ellipse cx="706.0" cy="137.7" rx="21.3" ry="14.2" fill="#ffffff"/><ellipse cx="761.4" cy="137.7" rx="22.7" ry="14.9" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<rect x="249.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#0f7d5c"/>
+<rect x="273.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#0f7d5c"/>
+<rect x="228.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#17a67a"/>
+<rect x="286.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#17a67a"/>
+<rect x="240.0" y="332.0" width="56.0" height="76.0" rx="16.0" fill="#17a67a"/>
+<circle cx="268.0" cy="303.0" r="27.0" fill="#f8d3ae"/>
+<ellipse cx="595.0" cy="203.0" rx="165.0" ry="75.0" fill="#ffffff" stroke="#17a67a" stroke-width="3.5"/>
+<path d="M 436.0 258.0 L 404.0 300.0 L 476.0 274.0 Z" fill="#ffffff"/>
+<rect x="470.0" y="168.0" width="240.0" height="7.0" rx="3.5" fill="#c4e8da" opacity="0.75"/>
+<rect x="470.0" y="202.0" width="172.8" height="7.0" rx="3.5" fill="#c4e8da" opacity="0.75"/>
+<rect x="470.0" y="236.0" width="240.0" height="7.0" rx="3.5" fill="#c4e8da" opacity="0.75"/>
+<ellipse cx="745.0" cy="346.0" rx="105.0" ry="46.0" fill="#c4e8da" stroke="#17a67a" stroke-width="3.5"/>
+<path d="M 844.0 372.0 L 876.0 416.0 L 804.0 388.0 Z" fill="#c4e8da"/>
+<rect x="672.0" y="326.0" width="140.0" height="6.0" rx="3.0" fill="#ffffff" opacity="0.75"/>
+<rect x="672.0" y="352.0" width="100.8" height="6.0" rx="3.0" fill="#ffffff" opacity="0.75"/>
+<path d="M 836 192 A 40 40 0 0 1 836 272" fill="none" stroke="#e0913c" stroke-width="5" opacity="0.6"/>
+<path d="M 836 170 A 62 62 0 0 1 836 294" fill="none" stroke="#e0913c" stroke-width="5" opacity="0.44999999999999996"/>
+<path d="M 836 148 A 84 84 0 0 1 836 316" fill="none" stroke="#e0913c" stroke-width="5" opacity="0.3"/>
+<path d="M 462 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 541 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 752 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

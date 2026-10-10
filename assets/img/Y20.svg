@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="沃尔特·迪士尼的名言与梦想">
+<title>沃尔特·迪士尼的名言与梦想</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="789.0" cy="150.0" r="46.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="99.0" cy="184.0" r="20.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="884.0" cy="400.0" r="19.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="243.0" cy="125.0" rx="47.2" ry="26.7" fill="#ffffff"/><ellipse cx="204.0" cy="133.2" rx="30.8" ry="20.5" fill="#ffffff"/><ellipse cx="284.1" cy="133.2" rx="32.9" ry="21.6" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="662.0" cy="147.0" rx="37.4" ry="21.1" fill="#ffffff"/><ellipse cx="631.1" cy="153.5" rx="24.4" ry="16.2" fill="#ffffff"/><ellipse cx="694.5" cy="153.5" rx="26.0" ry="17.1" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="278.0" width="90.0" height="150.0" rx="6.0" fill="#7b5ea7"/>
+<path d="M 300 278 L 315 238 L 330 278 Z" fill="#5a4180"/>
+<path d="M 330 278 L 345 238 L 360 278 Z" fill="#5a4180"/>
+<path d="M 360 278 L 375 238 L 390 278 Z" fill="#5a4180"/>
+<rect x="400.0" y="218.0" width="120.0" height="210.0" rx="6.0" fill="#7b5ea7"/>
+<path d="M 400 218 L 420 178 L 440 218 Z" fill="#5a4180"/>
+<path d="M 440 218 L 460 178 L 480 218 Z" fill="#5a4180"/>
+<path d="M 480 218 L 500 178 L 520 218 Z" fill="#5a4180"/>
+<rect x="540.0" y="278.0" width="90.0" height="150.0" rx="6.0" fill="#7b5ea7"/>
+<path d="M 540 278 L 555 238 L 570 278 Z" fill="#5a4180"/>
+<path d="M 570 278 L 585 238 L 600 278 Z" fill="#5a4180"/>
+<path d="M 600 278 L 615 238 L 630 278 Z" fill="#5a4180"/>
+<path d="M 400 128 L 460 48 L 460 128 L 400 128 Z" fill="#e0822f"/>
+<path d="M 460 128 L 520 68 L 520 128 L 460 128 Z" fill="#e0822f"/>
+<rect x="430.0" y="268.0" width="18.0" height="26.0" rx="4.0" fill="#f3e6b8"/>
+<rect x="460.0" y="268.0" width="18.0" height="26.0" rx="4.0" fill="#f3e6b8"/>
+<rect x="490.0" y="268.0" width="18.0" height="26.0" rx="4.0" fill="#f3e6b8"/>
+<rect x="520.0" y="268.0" width="18.0" height="26.0" rx="4.0" fill="#f3e6b8"/>
+<polygon points="680.0,128.0 674.2,142.0 659.1,143.2 670.6,153.1 667.1,167.8 680.0,159.9 692.9,167.8 689.4,153.1 700.9,143.2 685.8,142.0" fill="#e0822f"/>
+<polygon points="760.0,194.6 755.9,204.4 745.4,205.2 753.4,212.1 750.9,222.5 760.0,216.9 769.1,222.5 766.6,212.1 774.6,205.2 764.1,204.4" fill="#e0822f"/>
+<polygon points="240.0,186.8 236.5,195.2 227.4,195.9 234.4,201.8 232.2,210.7 240.0,205.9 247.8,210.7 245.6,201.8 252.6,195.9 243.5,195.2" fill="#e0822f"/>
+<circle cx="820.0" cy="300.0" r="12.0" fill="#e0822f" opacity="0.7"/>
+<path d="M 284 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 399 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 304 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

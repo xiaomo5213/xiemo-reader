@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="胡萝卜、鸡蛋与咖啡豆">
+<title>胡萝卜、鸡蛋与咖啡豆</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="795.0" cy="128.0" r="30.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="139.0" cy="149.0" r="33.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="822.0" cy="384.0" r="20.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="267.0" cy="110.0" rx="41.9" ry="23.7" fill="#ffffff"/><ellipse cx="232.4" cy="117.3" rx="27.3" ry="18.2" fill="#ffffff"/><ellipse cx="303.5" cy="117.3" rx="29.2" ry="19.1" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="652.0" cy="135.0" rx="34.3" ry="19.4" fill="#ffffff"/><ellipse cx="623.6" cy="141.0" rx="22.4" ry="14.9" fill="#ffffff"/><ellipse cx="681.8" cy="141.0" rx="23.9" ry="15.7" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<path d="M 330 300 L 640 300 L 620 420 L 350 420 Z" fill="#8f9aa4"/>
+<ellipse cx="485.0" cy="300.0" rx="155.0" ry="30.0" fill="#a8b3bb"/>
+<path d="M 640 316 q 60 10 54 52" fill="none" stroke="#8f9aa4" stroke-width="14" stroke-linecap="round"/>
+<path d="M 410 268 c -20 -26 16 -40 -4 -66" fill="none" stroke="#c0cbd2" stroke-width="6"/>
+<path d="M 470 268 c -20 -26 16 -40 -4 -66" fill="none" stroke="#c0cbd2" stroke-width="6"/>
+<path d="M 530 268 c -20 -26 16 -40 -4 -66" fill="none" stroke="#c0cbd2" stroke-width="6"/>
+<path d="M 250 210 L 300 320 L 272 330 L 226 226 Z" fill="#e0822f"/>
+<path d="M 238 210 l -20 -46 l 44 22 Z" fill="#4e9a52"/>
+<path d="M 258 212 l 4 -52 l 30 34 Z" fill="#4e9a52"/>
+<ellipse cx="480.0" cy="236.0" rx="40.0" ry="50.0" fill="#ffffff" stroke="#f7dcb6" stroke-width="4"/>
+<ellipse cx="690.0" cy="232.0" rx="34.0" ry="24.0" fill="#7a4a2b"/>
+<path d="M 662 232 q 28 -18 56 0" fill="none" stroke="#5b3620" stroke-width="5"/>
+<ellipse cx="730.0" cy="268.0" rx="26.0" ry="18.0" fill="#7a4a2b"/>
+<path d="M 710 268 q 20 -14 40 0" fill="none" stroke="#5b3620" stroke-width="4"/>
+<path d="M 233 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 333 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 524 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

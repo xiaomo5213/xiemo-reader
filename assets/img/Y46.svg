@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="网络电视">
+<title>网络电视</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2f8fd"/><stop offset="1" stop-color="#e4eef9"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="852.0" cy="140.0" r="29.0" fill="#cfe0f2" opacity="0.55"/>
+<circle cx="162.0" cy="135.0" r="26.0" fill="#cfe0f2" opacity="0.45"/>
+<circle cx="830.0" cy="340.0" r="26.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="218.0" cy="108.0" rx="46.7" ry="26.4" fill="#ffffff"/><ellipse cx="179.4" cy="116.1" rx="30.5" ry="20.3" fill="#ffffff"/><ellipse cx="258.6" cy="116.1" rx="32.5" ry="21.3" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="707.0" cy="125.0" rx="32.9" ry="18.6" fill="#ffffff"/><ellipse cx="679.8" cy="130.7" rx="21.5" ry="14.3" fill="#ffffff"/><ellipse cx="735.6" cy="130.7" rx="22.9" ry="15.0" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#cfe0f2" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#2f6fb5" stroke-width="3" opacity="0.35"/>
+<rect x="280.0" y="170.0" width="400.0" height="230.0" rx="14.0" fill="#ffffff" stroke="#2f6fb5" stroke-width="6"/>
+<rect x="300.0" y="190.0" width="360.0" height="176.0" rx="8.0" fill="#cfe0f2"/>
+<circle cx="480.0" cy="278.0" r="48.0" fill="#ffffff" opacity="0.95"/>
+<path d="M 462 254 L 510 278 L 462 302 Z" fill="#2f6fb5"/>
+<rect x="438.0" y="400.0" width="84.0" height="12.0" rx="5.0" fill="#1e4d83"/>
+<rect x="456.0" y="340.0" width="48.0" height="62.0" rx="6.0" fill="#1e4d83"/>
+<rect x="676.0" y="200.0" width="14.0" height="60.0" rx="5.0" fill="#17a67a"/>
+<rect x="268.0" y="200.0" width="14.0" height="60.0" rx="5.0" fill="#17a67a"/>
+<path d="M 790 190 a 30 30 0 0 1 0 60" fill="none" stroke="#17a67a" stroke-width="4" opacity="0.5"/>
+<path d="M 790 234 a 44 44 0 0 1 0 88" fill="none" stroke="#17a67a" stroke-width="4" opacity="0.38"/>
+<path d="M 790 278 a 58 58 0 0 1 0 116" fill="none" stroke="#17a67a" stroke-width="4" opacity="0.26"/>
+<path d="M 585 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 501 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 856 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

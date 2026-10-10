@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="质疑自身存在的时刻">
+<title>质疑自身存在的时刻</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="880.0" cy="118.0" r="36.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="197.0" cy="110.0" r="27.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="789.0" cy="364.0" r="22.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="213.0" cy="118.0" rx="40.9" ry="23.1" fill="#ffffff"/><ellipse cx="179.2" cy="125.1" rx="26.7" ry="17.8" fill="#ffffff"/><ellipse cx="248.6" cy="125.1" rx="28.5" ry="18.7" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="649.0" cy="116.0" rx="32.5" ry="18.4" fill="#ffffff"/><ellipse cx="622.2" cy="121.7" rx="21.2" ry="14.1" fill="#ffffff"/><ellipse cx="677.3" cy="121.7" rx="22.6" ry="14.8" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="410.1" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#5a4180"/>
+<rect x="435.2" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#5a4180"/>
+<rect x="388.0" y="341.9" width="23.1" height="12.6" rx="6.3" fill="#7b5ea7"/>
+<rect x="448.9" y="341.9" width="23.1" height="12.6" rx="6.3" fill="#7b5ea7"/>
+<rect x="400.6" y="327.2" width="58.8" height="79.8" rx="16.8" fill="#7b5ea7"/>
+<circle cx="430.0" cy="296.8" r="28.4" fill="#f8d3ae"/>
+<path d="M 401.6 294.6 a 28.4 28.4 0 0 1 56.7 0 Z" fill="#4a3b32"/>
+<ellipse cx="710.0" cy="205.0" rx="150.0" ry="75.0" fill="#ffffff" stroke="#7b5ea7" stroke-width="3.5"/>
+<path d="M 566.0 260.0 L 534.0 302.0 L 606.0 276.0 Z" fill="#ffffff"/>
+<polygon points="700.0,174.0 693.1,190.5 675.3,192.0 688.9,203.6 684.7,221.0 700.0,211.7 715.3,221.0 711.1,203.6 724.7,192.0 706.9,190.5" fill="#e0822f"/>
+<polygon points="760.0,221.0 756.0,230.5 745.7,231.4 753.6,238.1 751.2,248.1 760.0,242.8 768.8,248.1 766.4,238.1 774.3,231.4 764.0,230.5" fill="#e0822f"/>
+<rect x="600.0" y="172.0" width="200.0" height="8.0" rx="4.0" fill="#ded3f0" opacity="0.75"/>
+<rect x="600.0" y="206.0" width="144.0" height="8.0" rx="4.0" fill="#ded3f0" opacity="0.75"/>
+<circle cx="280.0" cy="250.0" r="18.0" fill="#e0822f" opacity="0.6"/>
+<circle cx="240.0" cy="300.0" r="12.0" fill="#e0822f" opacity="0.45"/>
+<path d="M 580 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 795 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 571 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

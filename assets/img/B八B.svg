@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="不被期待的婴儿：乔布斯">
+<title>不被期待的婴儿：乔布斯</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="793.0" cy="98.0" r="28.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="190.0" cy="144.0" r="31.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="791.0" cy="395.0" r="20.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="197.0" cy="126.0" rx="49.3" ry="27.9" fill="#ffffff"/><ellipse cx="156.3" cy="134.6" rx="32.1" ry="21.4" fill="#ffffff"/><ellipse cx="239.9" cy="134.6" rx="34.3" ry="22.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="722.0" cy="144.0" rx="35.2" ry="19.9" fill="#ffffff"/><ellipse cx="693.0" cy="150.1" rx="22.9" ry="15.3" fill="#ffffff"/><ellipse cx="752.6" cy="150.1" rx="24.5" ry="16.0" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<path d="M 470 190 C 520 150 600 168 604 224 C 660 236 668 330 620 372 C 580 410 520 404 486 380 C 452 404 392 410 352 372 C 304 330 312 236 368 224 C 372 168 420 150 470 190 Z" fill="#7b5ea7"/>
+<path d="M 604 224 C 640 210 660 216 668 226 C 656 240 630 244 612 238 Z" fill="#4e9a52"/>
+<path d="M 470 190 C 480 160 500 148 512 148 C 508 172 492 186 470 190 Z" fill="#4e9a52"/>
+<circle cx="536.0" cy="250.0" r="26.0" fill="#f8f5fc" opacity="0.55"/>
+<rect x="203.8" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="224.2" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="186.0" y="358.3" width="18.7" height="10.2" rx="5.1" fill="#e0822f"/>
+<rect x="235.3" y="358.3" width="18.7" height="10.2" rx="5.1" fill="#e0822f"/>
+<rect x="196.2" y="346.4" width="47.6" height="64.6" rx="13.6" fill="#e0822f"/>
+<circle cx="220.0" cy="321.8" r="22.9" fill="#f8d3ae"/>
+<path d="M 197.1 320.1 a 22.9 22.9 0 0 1 45.9 0 Z" fill="#3b2f28"/>
+<rect x="743.9" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#7b5ea7"/>
+<rect x="764.2" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#7b5ea7"/>
+<rect x="726.0" y="358.3" width="18.7" height="10.2" rx="5.1" fill="#ded3f0"/>
+<rect x="775.3" y="358.3" width="18.7" height="10.2" rx="5.1" fill="#ded3f0"/>
+<rect x="736.2" y="346.4" width="47.6" height="64.6" rx="13.6" fill="#ded3f0"/>
+<circle cx="760.0" cy="321.8" r="22.9" fill="#f8d3ae"/>
+<polygon points="700.0,144.0 695.8,154.2 684.8,155.1 693.2,162.2 690.6,172.9 700.0,167.2 709.4,172.9 706.8,162.2 715.2,155.1 704.2,154.2" fill="#e0822f"/>
+<polygon points="200.0,158.0 196.8,165.6 188.6,166.3 194.9,171.7 192.9,179.7 200.0,175.4 207.1,179.7 205.1,171.7 211.4,166.3 203.2,165.6" fill="#e0822f"/>
+<polygon points="800.0,230.0 797.4,236.4 790.5,236.9 795.7,241.4 794.1,248.1 800.0,244.5 805.9,248.1 804.3,241.4 809.5,236.9 802.6,236.4" fill="#e0822f"/>
+<path d="M 242 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 467 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 176 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

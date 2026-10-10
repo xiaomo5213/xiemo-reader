@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="生活给你负数也能变美景">
+<title>生活给你负数也能变美景</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="732.0" cy="107.0" r="45.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="163.0" cy="164.0" r="35.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="864.0" cy="340.0" r="26.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="258.0" cy="97.0" rx="47.8" ry="27.0" fill="#ffffff"/><ellipse cx="218.5" cy="105.3" rx="31.2" ry="20.8" fill="#ffffff"/><ellipse cx="299.6" cy="105.3" rx="33.3" ry="21.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="723.0" cy="126.0" rx="37.7" ry="21.3" fill="#ffffff"/><ellipse cx="691.9" cy="132.6" rx="24.6" ry="16.4" fill="#ffffff"/><ellipse cx="755.8" cy="132.6" rx="26.2" ry="17.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="150.0" width="380.0" height="270.0" rx="10.0" fill="#ffffff" stroke="#e0822f" stroke-width="8"/>
+<rect x="314.0" y="164.0" width="176.0" height="242.0" rx="6.0" fill="#3b4a52"/>
+<circle cx="400.0" cy="250.0" r="42.0" fill="#6b7b8a" opacity="0.8"/>
+<path d="M 340 330 L 400 280 L 470 330 Z" fill="#55646c"/>
+<rect x="504.0" y="164.0" width="162.0" height="242.0" rx="6.0" fill="#f7dcb6"/>
+<circle cx="600.0" cy="220.0" r="30.0" fill="#f3e6b8"/>
+<path d="M 504 340 L 570 270 L 630 330 L 666 300 L 666 406 L 504 406 Z" fill="#17a67a"/>
+<path d="M 504 406 L 666 406 L 666 380 L 504 366 Z" fill="#e0822f"/>
+<line x1="470.0" y1="180.0" x2="500.0" y2="240.0" stroke="#17a67a" stroke-width="6.0" stroke-linecap="round"/>
+<path d="M 500 240 l -26 4 l 12 -22 Z" fill="#17a67a"/>
+<rect x="390.0" y="420.0" width="200.0" height="14.0" rx="6.0" fill="#b25f1c"/>
+<path d="M 829 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 328 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 152 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

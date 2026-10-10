@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="乘坐公共交通的个人好处">
+<title>乘坐公共交通的个人好处</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0faf9"/><stop offset="1" stop-color="#dff2f0"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="803.0" cy="98.0" r="48.0" fill="#c6e6e4" opacity="0.55"/>
+<circle cx="101.0" cy="112.0" r="32.0" fill="#c6e6e4" opacity="0.45"/>
+<circle cx="865.0" cy="354.0" r="16.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="252.0" cy="112.0" rx="38.2" ry="21.6" fill="#ffffff"/><ellipse cx="220.4" cy="118.6" rx="24.9" ry="16.6" fill="#ffffff"/><ellipse cx="285.2" cy="118.6" rx="26.6" ry="17.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="753.0" cy="138.0" rx="40.6" ry="22.9" fill="#ffffff"/><ellipse cx="719.5" cy="145.1" rx="26.5" ry="17.6" fill="#ffffff"/><ellipse cx="788.3" cy="145.1" rx="28.2" ry="18.5" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c6e6e4" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#1f8b8b" stroke-width="3" opacity="0.35"/>
+<rect x="320.0" y="250.0" width="400.0" height="150.0" rx="16.0" fill="#1f8b8b"/>
+<rect x="340.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="454.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="568.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="340.0" y="350.0" width="328.0" height="26.0" rx="6.0" fill="#146666"/>
+<circle cx="398.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="398.0" cy="416.0" r="15.0" fill="#c6e6e4"/>
+<circle cx="672.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="672.0" cy="416.0" r="15.0" fill="#c6e6e4"/>
+<rect x="760.0" y="300.0" width="12.0" height="60.0" rx="4.0" fill="#146666"/>
+<rect x="240.0" y="200.0" width="12.0" height="230.0" rx="4.0" fill="#146666"/>
+<rect x="190.0" y="190.0" width="112.0" height="62.0" rx="8.0" fill="#e0822f"/>
+<rect x="204.0" y="206.0" width="84.0" height="8.0" rx="4.0" fill="#ffffff"/>
+<rect x="204.0" y="224.0" width="60.0" height="8.0" rx="4.0" fill="#ffffff"/>
+<rect x="743.9" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="764.2" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="726.9" y="353.2" width="10.2" height="47.6" rx="5.1" fill="#e0822f"/>
+<rect x="783.0" y="353.2" width="10.2" height="47.6" rx="5.1" fill="#e0822f"/>
+<rect x="736.2" y="346.4" width="47.6" height="64.6" rx="13.6" fill="#e0822f"/>
+<circle cx="760.0" cy="321.8" r="22.9" fill="#f8d3ae"/>
+<path d="M 765 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 471 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 271 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#1f8b8b" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="打翻的牛奶">
+<title>打翻的牛奶</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="809.0" cy="100.0" r="48.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="134.0" cy="117.0" r="37.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="831.0" cy="377.0" r="19.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="210.0" cy="103.0" rx="39.3" ry="22.2" fill="#ffffff"/><ellipse cx="177.5" cy="109.8" rx="25.7" ry="17.1" fill="#ffffff"/><ellipse cx="244.2" cy="109.8" rx="27.4" ry="18.0" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="750.0" cy="146.0" rx="35.6" ry="20.1" fill="#ffffff"/><ellipse cx="720.6" cy="152.2" rx="23.2" ry="15.5" fill="#ffffff"/><ellipse cx="781.0" cy="152.2" rx="24.8" ry="16.3" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="200.0" y="400.0" width="560.0" height="16.0" rx="6.0" fill="#b25f1c"/>
+<g transform="rotate(38 400 350)">
+<rect x="352.0" y="300.0" width="96.0" height="110.0" rx="10.0" fill="#ffffff" stroke="#e0822f" stroke-width="5"/>
+<rect x="352.0" y="340.0" width="96.0" height="70.0" rx="8.0" fill="#f7dcb6"/>
+</g>
+<path d="M 452 388 C 520 372 560 402 620 384 C 680 366 720 400 780 388 L 780 400 L 452 400 Z" fill="#ffffff" stroke="#f7dcb6" stroke-width="4"/>
+<circle cx="600.0" cy="356.0" r="16.0" fill="#ffffff" stroke="#f7dcb6" stroke-width="3"/>
+<circle cx="660.0" cy="330.0" r="11.0" fill="#ffffff" stroke="#f7dcb6" stroke-width="3"/>
+<circle cx="540.0" cy="344.0" r="9.0" fill="#ffffff" stroke="#f7dcb6" stroke-width="3"/>
+<rect x="230.0" y="356.0" width="90.0" height="44.0" rx="12.0" fill="#17a67a"/>
+<line x1="240.0" y1="370.0" x2="310.0" y2="370.0" stroke="#ffffff" stroke-width="5.0" stroke-linecap="round"/>
+<line x1="240.0" y1="386.0" x2="296.0" y2="386.0" stroke="#ffffff" stroke-width="5.0" stroke-linecap="round"/>
+<path d="M 620 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 141 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 68 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

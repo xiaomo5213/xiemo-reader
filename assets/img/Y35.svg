@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="职场中的恐惧与自我怀疑">
+<title>职场中的恐惧与自我怀疑</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="843.0" cy="149.0" r="52.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="102.0" cy="148.0" r="37.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="814.0" cy="397.0" r="30.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="208.0" cy="97.0" rx="41.1" ry="23.2" fill="#ffffff"/><ellipse cx="174.0" cy="104.1" rx="26.8" ry="17.9" fill="#ffffff"/><ellipse cx="243.7" cy="104.1" rx="28.6" ry="18.8" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="736.0" cy="144.0" rx="39.9" ry="22.5" fill="#ffffff"/><ellipse cx="703.1" cy="150.9" rx="26.0" ry="17.3" fill="#ffffff"/><ellipse cx="770.7" cy="150.9" rx="27.7" ry="18.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<ellipse cx="700.0" cy="300.0" rx="96.0" ry="130.0" fill="#8f9aa4" opacity="0.35"/>
+<rect x="680.0" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#77828b"/>
+<rect x="705.2" y="398.6" width="14.7" height="29.4" rx="7.4" fill="#77828b"/>
+<rect x="659.0" y="335.6" width="12.6" height="58.8" rx="6.3" fill="#8f9aa4"/>
+<rect x="728.4" y="335.6" width="12.6" height="58.8" rx="6.3" fill="#8f9aa4"/>
+<rect x="670.6" y="327.2" width="58.8" height="79.8" rx="16.8" fill="#8f9aa4"/>
+<circle cx="700.0" cy="296.8" r="28.4" fill="#e3e8ea"/>
+<rect x="250.0" y="372.0" width="460.0" height="18.0" rx="6.0" fill="#5a4180"/>
+<rect x="288.0" y="390.0" width="16.0" height="40.0" rx="5.0" fill="#5a4180"/>
+<rect x="656.0" y="390.0" width="16.0" height="40.0" rx="5.0" fill="#5a4180"/>
+<rect x="392.0" y="246.0" width="176.0" height="116.0" rx="10.0" fill="#ffffff" stroke="#7b5ea7" stroke-width="5"/>
+<rect x="462.0" y="362.0" width="36.0" height="12.0" rx="4.0" fill="#7b5ea7"/>
+<rect x="408.0" y="262.0" width="144.0" height="12.0" rx="6.0" fill="#ded3f0"/>
+<rect x="408.0" y="286.0" width="110.0" height="9.0" rx="4.5" fill="#ded3f0" opacity="0.8"/>
+<rect x="408.0" y="304.0" width="130.0" height="9.0" rx="4.5" fill="#ded3f0" opacity="0.8"/>
+<rect x="408.0" y="322.0" width="84.0" height="9.0" rx="4.5" fill="#ded3f0" opacity="0.8"/>
+<rect x="682.5" y="402.2" width="12.9" height="25.8" rx="6.4" fill="#5a4180"/>
+<rect x="704.6" y="402.2" width="12.9" height="25.8" rx="6.4" fill="#5a4180"/>
+<rect x="663.2" y="352.6" width="20.2" height="11.0" rx="5.5" fill="#7b5ea7"/>
+<rect x="716.6" y="352.6" width="20.2" height="11.0" rx="5.5" fill="#7b5ea7"/>
+<rect x="674.2" y="339.7" width="51.5" height="69.9" rx="14.7" fill="#7b5ea7"/>
+<circle cx="700.0" cy="313.0" r="24.8" fill="#f8d3ae"/>
+<rect x="300.0" y="344.0" width="44.0" height="28.0" rx="6.0" fill="#ffffff" stroke="#7b5ea7" stroke-width="4"/>
+<rect x="310.0" y="336.0" width="24.0" height="10.0" rx="5.0" fill="#ded3f0"/>
+<path d="M 826 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 674 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 273 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

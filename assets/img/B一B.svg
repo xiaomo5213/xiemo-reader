@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="自信的语言">
+<title>自信的语言</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="704.0" cy="134.0" r="52.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="132.0" cy="147.0" r="22.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="841.0" cy="347.0" r="19.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="291.0" cy="105.0" rx="49.1" ry="27.8" fill="#ffffff"/><ellipse cx="250.4" cy="113.5" rx="32.0" ry="21.4" fill="#ffffff"/><ellipse cx="333.7" cy="113.5" rx="34.2" ry="22.4" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="699.0" cy="114.0" rx="40.8" ry="23.1" fill="#ffffff"/><ellipse cx="665.3" cy="121.1" rx="26.6" ry="17.8" fill="#ffffff"/><ellipse cx="734.5" cy="121.1" rx="28.4" ry="18.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="249.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#5a4180"/>
+<rect x="273.0" y="400.0" width="14.0" height="28.0" rx="7.0" fill="#5a4180"/>
+<rect x="228.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#7b5ea7"/>
+<rect x="286.0" y="346.0" width="22.0" height="12.0" rx="6.0" fill="#7b5ea7"/>
+<rect x="240.0" y="332.0" width="56.0" height="76.0" rx="16.0" fill="#7b5ea7"/>
+<circle cx="268.0" cy="303.0" r="27.0" fill="#f8d3ae"/>
+<ellipse cx="595.0" cy="203.0" rx="165.0" ry="75.0" fill="#ffffff" stroke="#7b5ea7" stroke-width="3.5"/>
+<path d="M 436.0 258.0 L 404.0 300.0 L 476.0 274.0 Z" fill="#ffffff"/>
+<rect x="470.0" y="168.0" width="240.0" height="7.0" rx="3.5" fill="#ded3f0" opacity="0.75"/>
+<rect x="470.0" y="202.0" width="172.8" height="7.0" rx="3.5" fill="#ded3f0" opacity="0.75"/>
+<rect x="470.0" y="236.0" width="240.0" height="7.0" rx="3.5" fill="#ded3f0" opacity="0.75"/>
+<ellipse cx="745.0" cy="346.0" rx="105.0" ry="46.0" fill="#ded3f0" stroke="#7b5ea7" stroke-width="3.5"/>
+<path d="M 844.0 372.0 L 876.0 416.0 L 804.0 388.0 Z" fill="#ded3f0"/>
+<rect x="672.0" y="326.0" width="140.0" height="6.0" rx="3.0" fill="#ffffff" opacity="0.75"/>
+<rect x="672.0" y="352.0" width="100.8" height="6.0" rx="3.0" fill="#ffffff" opacity="0.75"/>
+<path d="M 836 192 A 40 40 0 0 1 836 272" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.6"/>
+<path d="M 836 170 A 62 62 0 0 1 836 294" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.44999999999999996"/>
+<path d="M 836 148 A 84 84 0 0 1 836 316" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.3"/>
+<path d="M 140 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 660 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 525 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

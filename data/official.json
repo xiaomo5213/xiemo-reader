@@ -1,0 +1,5570 @@
+{
+ "B一A": {
+  "title_en": "Critical Reading",
+  "title_zh": "批判阅读",
+  "en": [
+   "Critical reading applies to non-fiction writing in which the author puts forth a position or seeks to make a statement. Critical reading is active reading. It involves more than just understanding what an author is saying. Critical reading involves questioning and evaluateing what the author is saying, and forming your own opinions about what the author is saying. Here are the things you should do to be a critical reader.",
+   "Consider the context of what is written. You may be reading something that was written by an author from a different cultural context than yours. Or, you may be reading something written some time ago in a different time context than yours. In either case, you must recognize and take into account any differences between your values and attitudes and those represented by the author.",
+   "Question assertions made by the author. Don't accept what is written at face value what is written. Before accepting what is written, be certain that the author provides sufficient support for any assertions made. Look for facts, examples, and statistics that provide support. Also, look to see if the author has integrated the work of authorityies.",
+   "Compare what is written with other written work on the subject. Look to see that what is written is consistent with what others have written about the subject. If there are inconsistencyies, carefully evaluate the support the author provides for the inconsistencies.",
+   "Analyze assumptions made by the author. Assumptions are whatever the author must believe is true in order to make assertions. In many cases, the author's assumptions are not directly stated. This means you must read carefully in order to identify any assumptions. Once you identify an assumption, you must decide whether or not the assumption is valid.",
+   "Evaluate the sources the author uses. In doing this, be certain that the sources are credible. For example, Einstein is a credible source if the author is writing about landmark achievements in physics. Also be certain that the sources are relevant. Einstein is not a relevant source when the subject is poetry. Finally if the author is writing about a subject in its current state, be sure that the sources are current. For example, studies done by Einstein in the early 20th century may not be appropriate if the writer is discussing the current state of knowledge in physics.",
+   "Identify any possible author bias. A written discussion of American politics will likely look considerably different depending on whether the writer is a Democrat or a Republican. What is written may very well reflect a biased position. You need to take this possible bias into account when reading what the author has written with a grain of salt.",
+   "By being a critical reader, you will become better informed and may change your views as appropriate."
+  ],
+  "zh": [
+   "批判性(critical)阅读适用(apply to)于纪实文学(non-fiction)，在这类作品中，作者常常会提出(put forth)某种观点(position)或是寻求作者的态度。批评性的阅读方法是一种主动性很强的阅读方法。它涉及到的不仅仅是理解作者所说的话。质疑(question)和评估(evaluate)作者所说的话，涉及到对于作者所说的话要形成你自己的观点。如果你想要成为一名有批评性思维的读者，在这里我列出一些你应该做到的。",
+   "仔细思考作者的写作背景(context)。你可能正在读一篇与你的文化背景截然不同的作者所写的文章。或者，你可能正在读一篇写于不同于你所处的时代的文章。不论哪种情况(case)，你必须能搞清楚同时好好考虑(take into account)你的价值观(value)和态度与作者的不同之处(represent)。",
+   "合理质疑(question)作者所做出的论断(assertion)。对于作者写出来的不要全盘接受(accept at face value)。你在接受作者的观点之前，要确保作者提供了足够多的(sufficient)论据来支持其论点。你要仔细查看支持论断的事实、举例和统计数据(statistic)。同时，你要查看作者是否参考了权威专家(authority)的著作。",
+   "把(compare)作者所写的内容和该题材(subject)其他著作做对比。看看作者所写的内容与该题材领域其他人所写的是否一致(consistent)。如果有不一致之处(inconsistency)，要仔细评估该处作者提供的论据。",
+   "认真分析作者所做的假设(assumption)。假设指的是作者为了提出其论断所必须相信是正确的那些观点。在许多情况下，作者的假设都不是直接陈述(directly)出来的。这就意味着你必须通过仔细地阅读来找到(identify)作者的所做的那些假定。一旦你找到一个假设，你必须判断一下这个假设是否是合理的(valid)。",
+   "评估作者的引用来源。评估时，要确定这些来源是可靠的(credible)。举例来说，如果作者写的是关于物理学上里程碑式的(landmark)成就，那么爱因斯坦就是一个可靠的引用。第二,要确定这些引用是相关的(relevant)。如果文章主题是诗歌，那么爱因斯坦这个例子就是不相关的。最后，如果作者所写的主题是当今(current)局势，那就一定要确保引用来源也是当前的。例如，如果作者讨论的是物理学当今的学科知识情况，那么20世纪早期爱因斯坦的研究可能就不太适合(appropriate)了。",
+   "识别作者可能带有的偏见(bias)。有关美国政治的书面论述可能因作者是共和党人或是民主党人迥然(considerably)不同。写出来的文章可能会很好地反映出(reflect)作者的偏见态度和立场。你需要在阅读作者的文章的过程中考虑到其可能带有的偏见。这也就是说，要有持保留态度(with a grain of salt)看待作者所写的文章。",
+   "通过做一个有批判性的读者，你会成为一个更加有见识的(informed)人，并可能适当的改变你自己的观念。"
+  ],
+  "vocab": [
+   {
+    "w": "critical",
+    "ph": "[ˈkrɪtɪkl]",
+    "pos": "adj.",
+    "d": "有判断力的；判断公正（或审慎）的"
+   },
+   {
+    "w": "non-fiction",
+    "ph": "[nɒn ˈfɪkʃn]",
+    "pos": "n.",
+    "d": "纪实文学"
+   },
+   {
+    "w": "position",
+    "ph": "[pəˈzɪʃn]",
+    "pos": "n.",
+    "d": "观点；态度；立场"
+   },
+   {
+    "w": "statement",
+    "ph": "[ˈsteɪtmənt]",
+    "pos": "n.",
+    "d": "说明；说法；表态"
+   },
+   {
+    "w": "question",
+    "ph": "[ˈkwestʃən]",
+    "pos": "v.",
+    "d": "表示疑问；怀疑"
+   },
+   {
+    "w": "evaluate",
+    "ph": "[ɪˈvæljueɪt]",
+    "pos": "v.",
+    "d": "估计；评价；评估"
+   },
+   {
+    "w": "context",
+    "ph": "[ˈkɒntekst]",
+    "pos": "n.",
+    "d": "事情发生的背景，环境，来龙去脉"
+   },
+   {
+    "w": "value",
+    "ph": "[ˈvæljuː]",
+    "pos": "n.",
+    "d": "values [pl.]是非标准；价值观"
+   },
+   {
+    "w": "represent",
+    "ph": "[ˌreprɪˈzent]",
+    "pos": "v.",
+    "d": "描述；表现"
+   },
+   {
+    "w": "assertion",
+    "ph": "[əˈsɜːʃn]",
+    "pos": "n.",
+    "d": "明确肯定；断言"
+   },
+   {
+    "w": "sufficient",
+    "ph": "[səˈfɪʃnt]",
+    "pos": "adj.",
+    "d": "足够的；充足的"
+   },
+   {
+    "w": "statistic",
+    "ph": "[stəˈtɪstɪk]",
+    "pos": "n.",
+    "d": "statistics [pl.]统计数字；统计资料"
+   },
+   {
+    "w": "integrate",
+    "ph": "[ˈɪntɪɡreɪt]",
+    "pos": "v.",
+    "d": "（使）合并，成为一体"
+   },
+   {
+    "w": "authority",
+    "ph": "[ɔːˈθɒrəti]",
+    "pos": "n.",
+    "d": "专家；学术权威；泰斗"
+   },
+   {
+    "w": "compare",
+    "ph": "[kəmˈpeə(r)]",
+    "pos": "v.",
+    "d": "比较；对比"
+   },
+   {
+    "w": "subject",
+    "ph": "[ˈsʌbdʒɪkt]",
+    "pos": "n.",
+    "d": "主题；题目；题材"
+   },
+   {
+    "w": "consistent",
+    "ph": "[kənˈsɪstənt]",
+    "pos": "adj.",
+    "d": "相符的；符合的"
+   },
+   {
+    "w": "inconsistency",
+    "ph": "[ˌɪnkənˈsɪstənsi]",
+    "pos": "n.",
+    "d": "不一致"
+   },
+   {
+    "w": "assumption",
+    "ph": "[əˈsʌmpʃn]",
+    "pos": "n.",
+    "d": "假定；假设"
+   },
+   {
+    "w": "case",
+    "ph": "[keɪs]",
+    "pos": "n.",
+    "d": "具体情况；事例"
+   },
+   {
+    "w": "directly",
+    "ph": "[dəˈrektli]",
+    "pos": "adv.",
+    "d": "直接地；径直地"
+   },
+   {
+    "w": "identify",
+    "ph": "[aɪˈdentɪfaɪ]",
+    "pos": "v.",
+    "d": "找到；发现"
+   },
+   {
+    "w": "valid",
+    "ph": "[ˈvælɪd]",
+    "pos": "adj.",
+    "d": "符合逻辑的；合理的；确凿的"
+   },
+   {
+    "w": "credible",
+    "ph": "[ˈkredəbl]",
+    "pos": "adj.",
+    "d": "可信的；可靠的"
+   },
+   {
+    "w": "landmark",
+    "ph": "[ˈlændmɑːk]",
+    "pos": "n.",
+    "d": "（标志重要阶段的）里程碑"
+   },
+   {
+    "w": "relevant",
+    "ph": "[ˈreləvənt]",
+    "pos": "adj.",
+    "d": "紧密相关的；切题的"
+   },
+   {
+    "w": "current",
+    "ph": "[ˈkʌrənt]",
+    "pos": "adj.",
+    "d": "现时发生的；当前的"
+   },
+   {
+    "w": "appropriate",
+    "ph": "[əˈprəʊpriət]",
+    "pos": "adj.",
+    "d": "合适的；恰当的"
+   },
+   {
+    "w": "bias",
+    "ph": "[ˈbaɪəs]",
+    "pos": "n.",
+    "d": "偏见；偏心；偏向"
+   },
+   {
+    "w": "considerably",
+    "ph": "[kənˈsɪdərəbli]",
+    "pos": "adv.",
+    "d": "非常；很；相当多地"
+   },
+   {
+    "w": "Democrat",
+    "ph": "[ˈdeməkræt]",
+    "pos": "n.",
+    "d": "（美国）民主党党员，民主党支持者"
+   },
+   {
+    "w": "Republican",
+    "ph": "[rɪˈpʌblɪkən]",
+    "pos": "n.",
+    "d": "（美国）共和党党员，共和党支持者"
+   },
+   {
+    "w": "reflect",
+    "ph": "[rɪˈflekt]",
+    "pos": "v.",
+    "d": "显示；表明；表达"
+   },
+   {
+    "w": "informed",
+    "ph": "[ɪnˈfɔːmd]",
+    "pos": "adj.",
+    "d": "有学问的；有见识的"
+   },
+   {
+    "w": "apply to",
+    "ph": "[əˈplaɪ tuː]",
+    "pos": "phr.",
+    "d": "使用；应用"
+   },
+   {
+    "w": "put forth",
+    "ph": "[pʊt fɔːθ]",
+    "pos": "phr.",
+    "d": "提出；产生"
+   },
+   {
+    "w": "take into account",
+    "ph": "[teɪk ˈɪntə əˈkaʊnt]",
+    "pos": "phr.",
+    "d": "考虑到；顾及"
+   },
+   {
+    "w": "accept at face value",
+    "ph": "[əkˈsept æt feɪs ˈvæljuː]",
+    "pos": "phr.",
+    "d": "相信表面；信以为真"
+   },
+   {
+    "w": "with a grain of salt",
+    "ph": "[wɪð ə ɡreɪn əv sɔːlt]",
+    "pos": "phr.",
+    "d": "有保留地；持怀疑态度地"
+   }
+  ]
+ },
+ "B一B": {
+  "title_en": "The Language of Confidence",
+  "title_zh": "自信的语言",
+  "en": [
+   "The language we use programs our brains. Mastering our language gives us a great degree of mastery over our lives and our destinys. It is important to use the language in the best way possible in order to dramatically improve our quality of life.",
+   "Even the smallest of words can have the deepest effect on our subconscious mind, which is like a child, and it doesn't really understand the difference between what really happens and what you imagine. It is eager to please and willing to carry out any commands that you give it - whether you do this knowingly or not is entirely be up to you.",
+   "\"Try\"",
+   "It is a small word yet it has an amazing impact upon us. If someone says, \"I'll try to do that\" you know that they are not going to be putting their whole heart into it, and may not even do it at all. How often do you use the word try when talking about the things that matter to you? Do you say \"I'll try to be more confident\" or \"I'll try to do that\" or \"I'll try to call\"?",
+   "Think about something that you would like to achieve, and say it to yourself in two different ways. Firstly say, \"I'll try to ...\" and notice how you feel. Next say, \"I will do ...\" and see how you feel.",
+   "The latter makes you feel better than the first one, doesn't it? It gives you a sense of determination, a feeling that it will be done. Listen to the people around you and when they say they will try notice if it gets done or not. Eliminate the word try from your dictionary and see how your life improves.",
+   "\"Can't\"",
+   "This is another small word with a big impact. It disempowers us, makes us feel weak and helpless, and damages our self-esteem. It limits our infinite abilities and stifles creativity. Rub it out from your internal dictionary and replace it with something that makes you feel great.",
+   "Instead of saying you can't, why not say something like \"I choose ...\" or \"I choose not to ...\". Using words like this allows you to take back your power and to be in control of your life.",
+   "Words may appear small and insignificant, yet they can have an impact on us. Mastering your language gives you the power to live whatever life you desire.",
+   "What words do you use a lot that disempower you? Make a list of words you commonly use and then write next to them some alternatives you can use. Make these alternatives words that make you feel fabulous, not only about yourself, but about life and what you are doing!"
+  ],
+  "zh": [
+   "我们使用的语言训练(program)我们的大脑。掌握我们的语言给了我们对自身生活和命运(destiny)以很大程度上的驾驭权(mastery)。尽可能地用最好的方式使用语言对显著(dramatically)改善我们的生活品质(quality)是很重要的。",
+   "甚至是最小的那些单词也会对我们的潜意识(subconscious)产生深刻的影响，这就好比对于一个孩子来说，他并不真正理解正在发生的事与你想象到的东西有什么区别。他渴望取悦(please)你，乐意听从(carry out)你给他下的任何命令(command)，而你是有意还是无意地做这些完全取决于(be up to)你。",
+   "\"尝试/努力\"(try)",
+   "这虽然是一个很小的单词，但却会对我们产生巨大的影响(impact)。如果有人说\"我会努力去做\"，你就知道他们并不准备全身心地去做，甚至可能根本不去做。当对你很重要的事情(matter)的时候，你使用\"尝试/努力(try)\"这个单词的频率如何？你会不会说\"我会努力变得更有自信心(confident)\"或是\"我会努力去做\"亦或是\"我会尝试去打电话\"。",
+   "请思考一下你想要达成的目标，然后用两种不同的方式说给你自己听听。第一种方式，你说：\"我会努力去做......\"，并同时注意你自己的感觉。接下来用第二种方式对自己说：\"我将要去做......\"，并感受一下自己的感觉。",
+   "你会感觉第二种方式比第一种要好，是不是？它给你一种有决心的感觉(sense)，一种你想做的事情将要被达成的感觉。你可以观察一下你周围的人们，他们说他们会尝试做某事的时候，你注意一下看他们是否做成了。请把(eliminate)\"尝试/努力\"(try)这个单词从你的字典里清除掉，然后看看你的生活改善了多少。",
+   "\"不能\"(Can't)",
+   "这也是一个很小却有很大影响力的单词。它削弱(disempower)我们的自信心，令我们感觉软弱、无助，并且损伤我们的自尊心(self-esteem)。它限制(limit)了我们的潜能(infinite)，扼杀(stifle)了我们的创造力(creativity)。请把这个词从(rub out)我们头脑里(internal)擦掉，并替换成使我们感觉很棒的单词。",
+   "与其说你\"不能\"(Can't),为什么不说\"我选择做...\"或者\"我选择不去做...\"使用那些能够让你找回力量的词语，并掌控(be in control of)你自己的人生。",
+   "单词表面看起来很小，貌似微不足道(insignificant)，但是它们却可以对我们产生(have an impact on)深刻而持久的影响。掌控你的话语会给你带来更大的力量以便让你能过上渴望的生活。",
+   "你所经常使用的词语中哪些削弱了你的力量？请列一个清单，写出你常使用的(commonly)单词，然后在它们旁边写出你可以用来替换掉它们的单词(alternative)。让这些替代词不仅使你自己感觉很妙(fabulous)，而且使你对生活，对你所做的事情感觉无限美好吧！"
+  ],
+  "vocab": [
+   {
+    "w": "confidence",
+    "ph": "[ˈkɒnfɪdəns]",
+    "pos": "n.",
+    "d": "自信心；把握"
+   },
+   {
+    "w": "program",
+    "ph": "[ˈprəʊɡræm]",
+    "pos": "v.",
+    "d": "训练；培养"
+   },
+   {
+    "w": "mastery",
+    "ph": "[ˈmɑːstəri]",
+    "pos": "n.",
+    "d": "控制；驾驭"
+   },
+   {
+    "w": "destiny",
+    "ph": "[ˈdestəni]",
+    "pos": "n.",
+    "d": "命运；天命；天数"
+   },
+   {
+    "w": "dramatically",
+    "ph": "[drəˈmætɪkli]",
+    "pos": "adv.",
+    "d": "巨大地；惊人地；显著地"
+   },
+   {
+    "w": "quality",
+    "ph": "[ˈkwɒləti]",
+    "pos": "n.",
+    "d": "质量；品质"
+   },
+   {
+    "w": "subconscious",
+    "ph": "[ˌsʌbˈkɒnʃəs]",
+    "pos": "adj.",
+    "d": "下意识的；潜意识的"
+   },
+   {
+    "w": "please",
+    "ph": "[pliːz]",
+    "pos": "v.",
+    "d": "使满意；使愉快"
+   },
+   {
+    "w": "command",
+    "ph": "[kəˈmɑːnd]",
+    "pos": "n.",
+    "d": "（给人或动物的）命令"
+   },
+   {
+    "w": "knowingly",
+    "ph": "[ˈnəʊɪŋli]",
+    "pos": "adv.",
+    "d": "故意地；蓄意地"
+   },
+   {
+    "w": "impact",
+    "ph": "[ˈɪmpækt]",
+    "pos": "n.",
+    "d": "巨大影响；强大作用"
+   },
+   {
+    "w": "matter",
+    "ph": "[ˈmætə(r)]",
+    "pos": "v.",
+    "d": "事关紧要；有重大影响"
+   },
+   {
+    "w": "confident",
+    "ph": "[ˈkɒnfɪdənt]",
+    "pos": "adj.",
+    "d": "自信的；有自信心的"
+   },
+   {
+    "w": "sense",
+    "ph": "[sens]",
+    "pos": "n.",
+    "d": "（对重大事情的）感觉，意识"
+   },
+   {
+    "w": "eliminate",
+    "ph": "[ɪˈlɪmɪneɪt]",
+    "pos": "v.",
+    "d": "排除；清除；消除"
+   },
+   {
+    "w": "disempower",
+    "ph": "[ˌdɪsɪmˈpaʊə(r)]",
+    "pos": "v.",
+    "d": "剥夺；使失去权利；剥夺力量"
+   },
+   {
+    "w": "self-esteem",
+    "ph": "[ˌself ɪˈstiːm]",
+    "pos": "n.",
+    "d": "自尊（心）"
+   },
+   {
+    "w": "limit",
+    "ph": "[ˈlɪmɪt]",
+    "pos": "v.",
+    "d": "限制；限定"
+   },
+   {
+    "w": "infinite",
+    "ph": "[ˈɪnfɪnət]",
+    "pos": "adj.",
+    "d": "极大的；无法衡量的"
+   },
+   {
+    "w": "stifle",
+    "ph": "[ˈstaɪfl]",
+    "pos": "v.",
+    "d": "压制；扼杀；阻止"
+   },
+   {
+    "w": "creativity",
+    "ph": "[ˌkriːeɪˈtɪvəti]",
+    "pos": "n.",
+    "d": "创造力"
+   },
+   {
+    "w": "internal",
+    "ph": "[ɪnˈtɜːnl]",
+    "pos": "adj.",
+    "d": "内心的；头脑中的"
+   },
+   {
+    "w": "insignificant",
+    "ph": "[ˌɪnsɪɡˈnɪfɪkənt]",
+    "pos": "adj.",
+    "d": "微不足道的；无足轻重的"
+   },
+   {
+    "w": "commonly",
+    "ph": "[ˈkɒmənli]",
+    "pos": "adv.",
+    "d": "通常；常常"
+   },
+   {
+    "w": "alternative",
+    "ph": "[ɔːlˈtɜːnətɪv]",
+    "pos": "n.",
+    "d": "可供选择的事物，替代物"
+   },
+   {
+    "w": "fabulous",
+    "ph": "[ˈfæbjələs]",
+    "pos": "adj.",
+    "d": "极好的；绝妙的"
+   },
+   {
+    "w": "carry out",
+    "ph": "[ˈkæri aʊt]",
+    "pos": "phr.",
+    "d": "完成（任务）"
+   },
+   {
+    "w": "be up to",
+    "ph": "[biː ʌp tuː]",
+    "pos": "phr.",
+    "d": "取决于"
+   },
+   {
+    "w": "have an impact on",
+    "ph": "[hæv ən ˈɪmpækt ɒn]",
+    "pos": "phr.",
+    "d": "对...产生巨大影响"
+   },
+   {
+    "w": "rub out",
+    "ph": "[rʌb aʊt]",
+    "pos": "phr.",
+    "d": "用橡皮擦掉（字迹等）"
+   },
+   {
+    "w": "be in control of",
+    "ph": "[biː ɪn kənˈtrəʊl əv]",
+    "pos": "phr.",
+    "d": "掌管；管理；控制"
+   }
+  ]
+ },
+ "B二A": {
+  "title_en": "Spilt Milk",
+  "title_zh": "洒了的牛奶",
+  "en": [
+   "Have you heard of the story about spillt milk? Well, we all know there is no use crying over spillt milk. But this story is different. I would hope all parents would respond in this manner.",
+   "I recently heard a story about a famous research scientist who had made several very important medical breakthroughs. He was interviewed by a newspaper reporter who asked him why he was so much more creative than the average person; what set...apart from others?",
+   "He responded that, in his opinion, it all came from an experience with his mother that occured when he was about two years old. He had been trying to remove a bottle of milk from the refrigerator when he lost his grip on the slippery bottle and it fell, spilling its contents all over the kitchen floor - a veritable sea of milk!",
+   "When his mother came into the kitchen, instead of yelling at him, giving him a lecture, or punishing him, she said...",
+   "Indeed, he did. After a few minutes, his mother said, \"You know, Robert, whenever you make a mess like this, eventually you have to clean it up and restore everything to its proper order. So, how would you like to do that? We could use a sponge, a towel, or a mop. Which do you prefer?\" he chose the sponge and together they cleaned up the spilt milk.",
+   "The little boy learned that if he grasped the bottle at the top near the lip with both hands, he could carry it without dropping it. What a wonderful lesson!",
+   "The renowned scientist remarked that it was at that moment that he knew he didn't need to be afraid to make mistakes. Instead, he learned that mistakes were just opportunitys for learning something new, which is, after all, what scientific experiments are all about. Even if the experiment \"doesn't work,\" we usually learn something valuable from it.",
+   "Wouldn't it be great if all parents would respond the way Robert's mother responded to him?"
+  ],
+  "zh": [
+   "你听说过洒出的(spill)牛奶这个故事吗？我们都知道，牛奶洒出去了我们哭也没有用。但是这里我要说的故事不一样。我希望所有的父母以这种方式(in this manner)作出反应(respond)。",
+   "最近我听说了一个在医学领域颇有成就的著名科学家的故事。他接受一家报纸记者的采访(interview)，记者问他为何他比常人更赋有创造性(creative)，是什么使他如此与众不同(set apart from)呢?",
+   "他回答说(respond)，在他看来，这都源于自己两岁多的时候和妈妈的一次经历(occur)。他试图从冰箱里取出(remove)一瓶牛奶，却没有抓住光滑的(slippery)瓶子(refrigerator)，瓶子(grip)掉了，牛奶洒得(spill)厨房满地都是----白花花的一片(veritable)。",
+   "当他妈妈赶到厨房，非但没有朝他喊叫(yell)，训斥(lecture)他或是责罚他，反而说...",
+   "事实上，他真那么做了。几分钟之后，他妈妈说：\"罗伯特，你要知道，不管你弄得多么脏乱，最终(eventually)你都要把它清扫干净，并恢复(restore)它原本的秩序。所以，你愿意这么做吗？我们可以用海绵块(sponge),毛巾，或是拖把。你更喜欢用哪个？\"他选择用海绵块，然后他们一起把洒掉的牛奶清理干净。",
+   "小男孩明白了，如果他用双手抓住(grasp)瓶子上部靠近瓶边(lip)的地方，他就能拿住瓶子不掉下来。这是多棒的一课啊!",
+   "这位知名(renowned)科学家评论道(remark)，就是在那一刻，他懂得了你没必要害怕做错事。相反的，他认识到了这些错误正是从中学习新知识的机会(opportunity)，毕竟，任何科学(scientific)实验都是如此。即使实验\"没有成功\"，我们通常也能从中得到宝贵的(valuable)经验教训。",
+   "如果所有的父母都能像罗伯特的母亲做法一样，岂不是很伟大吗？"
+  ],
+  "vocab": [
+   {
+    "w": "spill",
+    "ph": "[spɪl]",
+    "pos": "v.",
+    "d": "（使）洒出，泼出，溢出"
+   },
+   {
+    "w": "respond",
+    "ph": "[rɪˈspɒnd]",
+    "pos": "v.",
+    "d": "作出反应；响应"
+   },
+   {
+    "w": "interview",
+    "ph": "[ˈɪntəvjuː]",
+    "pos": "v.",
+    "d": "（媒体）采访，访问"
+   },
+   {
+    "w": "creative",
+    "ph": "[kriˈeɪtɪv]",
+    "pos": "adj.",
+    "d": "创作的；有创造力的"
+   },
+   {
+    "w": "occur",
+    "ph": "[əˈkɜː(r)]",
+    "pos": "v.",
+    "d": "发生；出现"
+   },
+   {
+    "w": "remove",
+    "ph": "[rɪˈmuːv]",
+    "pos": "v.",
+    "d": "拿开；去掉"
+   },
+   {
+    "w": "refrigerator",
+    "ph": "[rɪˈfrɪdʒəreɪtə(r)]",
+    "pos": "n.",
+    "d": "冰箱"
+   },
+   {
+    "w": "grip",
+    "ph": "[ɡrɪp]",
+    "pos": "n.",
+    "d": "紧握；紧抓"
+   },
+   {
+    "w": "slippery",
+    "ph": "[ˈslɪpəri]",
+    "pos": "adj.",
+    "d": "滑的；滑得抓不住（或站不稳、难以行走）"
+   },
+   {
+    "w": "content",
+    "ph": "[ˈkɒntent]",
+    "pos": "n.",
+    "d": "所容纳之物；所含之物"
+   },
+   {
+    "w": "veritable",
+    "ph": "[ˈverɪtəbl]",
+    "pos": "adj.",
+    "d": "十足的；名副其实的；不折不扣的"
+   },
+   {
+    "w": "yell",
+    "ph": "[jel]",
+    "pos": "v.",
+    "d": "叫喊；大喊；吼叫"
+   },
+   {
+    "w": "lecture",
+    "ph": "[ˈlektʃə(r)]",
+    "pos": "n.",
+    "d": "（冗长的）教训，训斥，谴责"
+   },
+   {
+    "w": "mess",
+    "ph": "[mes]",
+    "pos": "n.",
+    "d": "肮脏；杂乱；不整洁"
+   },
+   {
+    "w": "rarely",
+    "ph": "[ˈreəli]",
+    "pos": "adv.",
+    "d": "罕有；很少；不常"
+   },
+   {
+    "w": "puddle",
+    "ph": "[ˈpʌdl]",
+    "pos": "n.",
+    "d": "水洼；小水坑"
+   },
+   {
+    "w": "eventually",
+    "ph": "[ɪˈventʃuəli]",
+    "pos": "adv.",
+    "d": "最后；终于"
+   },
+   {
+    "w": "restore",
+    "ph": "[rɪˈstɔː(r)]",
+    "pos": "v.",
+    "d": "使复原；使复位；使复职"
+   },
+   {
+    "w": "sponge",
+    "ph": "[spʌndʒ]",
+    "pos": "n.",
+    "d": "海绵块"
+   },
+   {
+    "w": "effectively",
+    "ph": "[ɪˈfektɪvli]",
+    "pos": "adv.",
+    "d": "有效地"
+   },
+   {
+    "w": "tiny",
+    "ph": "[ˈtaɪni]",
+    "pos": "adj.",
+    "d": "极小的；微小的"
+   },
+   {
+    "w": "discover",
+    "ph": "[dɪˈskʌvə(r)]",
+    "pos": "v.",
+    "d": "了解到；认识到；查明"
+   },
+   {
+    "w": "grasp",
+    "ph": "[ɡrɑːsp]",
+    "pos": "v.",
+    "d": "抓紧；抓牢"
+   },
+   {
+    "w": "lip",
+    "ph": "[lɪp]",
+    "pos": "n.",
+    "d": "（容器或凹陷地方的）边，边沿"
+   },
+   {
+    "w": "renowned",
+    "ph": "[rɪˈnaʊnd]",
+    "pos": "adj.",
+    "d": "有名的；闻名的；受尊敬的"
+   },
+   {
+    "w": "remark",
+    "ph": "[rɪˈmɑːk]",
+    "pos": "v.",
+    "d": "谈论；评论"
+   },
+   {
+    "w": "opportunity",
+    "ph": "[ˌɒpəˈtjuːnəti]",
+    "pos": "n.",
+    "d": "机会；时机"
+   },
+   {
+    "w": "scientific",
+    "ph": "[ˌsaɪənˈtɪfɪk]",
+    "pos": "adj.",
+    "d": "科学（上）的；关于科学的"
+   },
+   {
+    "w": "valuable",
+    "ph": "[ˈvæljuəbl]",
+    "pos": "adj.",
+    "d": "很有用的；很重要的；宝贵的"
+   },
+   {
+    "w": "in this manner",
+    "ph": "[ɪn ðɪs ˈmænə(r)]",
+    "pos": "phr.",
+    "d": "用这种方式"
+   },
+   {
+    "w": "set apart from",
+    "ph": "[set əˈpɑːt frɒm]",
+    "pos": "phr.",
+    "d": "区别；使与众不同"
+   },
+   {
+    "w": "It occurred to me that...",
+    "ph": "[ɪt əˈkɜːd tuː miː ðæt]",
+    "pos": "phr.",
+    "d": "我突然想到..."
+   }
+  ]
+ },
+ "B二B": {
+  "title_en": "The Cake Disaster",
+  "title_zh": "蛋糕灾难",
+  "en": [
+   "With a quick glance at her watch, Sarah realized she had only two hours left. She wanted to make the perfect birthday cake from scratch for her mother's 50th anniversary. She had planned everything with great aesthetic care, wanting this to be a culinary triumph.",
+   "She gathered all the requisite fixings and utensils from the kitchen clutter. The blender was positioned on the counter, ready to mix the batter. She started with enthusiasm, but soon encountered her first problem.",
+   "As she was adding the final touch of vanilla, she realized she had run out of sugar. \"Oh no!\" she moaned. Her brother, who was watching, interjected gently, \"Maybe we can use honey instead?\"",
+   "Sarah continued, determined not to let this small issue ruin her plans. She decided to stay up late to complete the cake. The batter was lumpy, but she hoped it would smooth out in the oven.",
+   "After baking, she began to frost the cake. The frosting was supposed to be smooth, but it came out thick and uneven. With a sigh, she tried to slide the cake onto a presentation plate, but it slipped from her hands.",
+   "Sarah stormed out of the kitchen and slammed the door behind her. She sat silently in her room, her eyes becoming moist with tears. \"I suffered so much for this,\" she thought, feeling that all her effort was in vain.",
+   "After a few minutes, her brother entered occasionally. \"Sarah,\" he said softly, \"I know this seems awfully troublesome, but every great baker has occasional failures. This doesn't diminish the significance of your effort.\"",
+   "He continued, \"All this stuff on the floor - it's just a minor setback. You deserve to succeed because of your dedication.\"",
+   "Sarah looked at the mess. A strange feeling began to emerge within her. She stood up with new dignity, realizing that this was just part of the learning process. \"You're right,\" she said. \"This frustration is temporary. Let's clean up and start again.\"",
+   "They worked together on the sanitation of the kitchen. Sarah understood that sometimes we must make sacrifices for things we care about. Her tender feelings were now mixed with a new sense of responsibility.",
+   "As they cleaned, her brother gestured toward the oven. \"Look,\" he said grandly, \"like a phoenix rising from ashes, we can create something beautiful from this mess.\"",
+   "Sarah smiled slightly. She flipped the light switch, and the kitchen was filled with light. She felt no longer off-balance, but centered and determined.",
+   "With a new layer of confidence, she began again. After a thorough inspection of her ingredients, she presented her brother with a new plan. \"This time,\" she said, \"I'll measure everything precisely.\"",
+   "The second attempt went much better. As the cake baked perfectly, a sense of accomplishment flashed through her. When she finally trumpeted her success, it wasn't with loud boasting but with quiet satisfaction.",
+   "Later that evening, as she served the beautiful cake to her mother, she realized that the real gift wasn't the cake itself, but the lesson learned through the process. Every consequence, even the difficult ones, taught her something valuable about perseverance and resilience."
+  ],
+  "zh": [
+   "莎拉匆匆瞥了一眼(glance)手表，意识到只剩下两个小时了。她想从头开始(from scratch)为母亲的50岁生日(anniversary)制作完美的蛋糕。她以极大的审美(aesthetic)关怀计划了一切，希望这能成为一次烹饪上的胜利(triumph)。",
+   "她从厨房的杂物(clutter)中收集了所有必需的(requisite)配料(fixings)和用具(utensils)。食物搅拌器(blender)已经安置在(position)柜台上，准备搅拌面糊。她满怀热情地开始，但很快就遇到了第一个问题。",
+   "当她正在添加最后的香草点缀(touch)时，她意识到自己已经用完(run out of)了糖。\"哦不！\"她抱怨道(moan)。正在观看的哥哥插话(interject)温和地(gently)说：\"也许我们可以用蜂蜜代替？\"",
+   "莎拉继续下去，决心不让这个小小的问题(issue)毁掉她的计划。她决定熬夜(stay up)完成蛋糕。面糊很粗糙(lumpy)，但她希望在烤箱里能变得光滑。",
+   "烘烤后，她开始给蛋糕覆盖糖霜(frost)。糖霜(frosting)本应是光滑的，但结果却厚而不均匀。她叹了口气，试图将蛋糕滑到(slide)展示盘上，但蛋糕从她手中滑落(slip)了。",
+   "莎拉气呼呼地冲出(storm)厨房，砰地关上(slam)了身后的门。她静静地(silently)坐在房间里，眼睛湿润(moist)了。\"我为了这个受了多少苦(suffer)，\"她想，觉得所有的努力都白费了。",
+   "几分钟后，她的哥哥偶尔(occasionally)走了进来。\"莎拉，\"他温柔地说，\"我知道这看起来非常(awfully)令人烦恼(troublesome)，但每个伟大的面包师都有偶然的(occasional)失败。这并不会减少你努力的重要性(significance)。\"",
+   "他继续说：\"地板上所有这些东西(stuff)——这只是一个小小的挫折。因为你的奉献，你值得(deserve)成功。\"",
+   "莎拉看着这一团糟。一种奇怪的感觉开始在她内心显现(emerge)。她带着新的尊严(dignity)站起来，意识到这只是学习过程的一部分。\"你说得对，\"她说。\"这种挫败感(frustration)是暂时的。让我们清理干净，重新开始。\"",
+   "他们一起进行厨房的清洁(sanitation)工作。莎拉明白，有时候我们必须为自己关心的事情做出牺牲(sacrifice)。她脆弱的(tender)感情现在混合着一种新的责任感(responsibility)。",
+   "当他们清理时，她的哥哥做手势(gesture)指向烤箱。\"看，\"他骄傲地说(grandly)，\"就像凤凰(phoenix)从灰烬中重生一样，我们可以从这混乱中创造出美丽的东西。\"",
+   "莎拉微微(slightly)一笑。她按下(flip)电灯开关，厨房充满了灯光。她不再感到不稳定(off-balance)，而是镇定而坚定。",
+   "带着新的一层(layer)信心，她重新开始。在对食材进行彻底检查(inspection)后，她向哥哥提出了(present)一个新计划。\"这次，\"她说，\"我会精确测量一切。\"",
+   "第二次尝试顺利多了。当蛋糕完美烘烤时，一种成就感在她心中闪现(flash)。当她最终宣告(trumpet)成功时，不是通过大声吹嘘，而是通过安静的满足。",
+   "那天晚上晚些时候，当她向母亲端上美丽的蛋糕时，她意识到真正的礼物不是蛋糕本身，而是通过这个过程学到的教训。每一个结果(consequence)，甚至是困难的结果，都教会了她关于毅力和韧性的宝贵东西。"
+  ],
+  "vocab": [
+   {
+    "w": "glance",
+    "ph": "[ɡlɑːns]",
+    "pos": "n.",
+    "d": "瞥一眼；匆匆一看；扫视"
+   },
+   {
+    "w": "touch",
+    "ph": "[tʌtʃ]",
+    "pos": "n.",
+    "d": "修饰；润色；装点"
+   },
+   {
+    "w": "frost",
+    "ph": "[frɒst]",
+    "pos": "v.",
+    "d": "给（糕饼）覆上糖霜"
+   },
+   {
+    "w": "aesthetic",
+    "ph": "[iːsˈθetɪk]",
+    "pos": "adj.",
+    "d": "审美的；有审美观点的；美学的"
+   },
+   {
+    "w": "triumph",
+    "ph": "[ˈtraɪʌmf]",
+    "pos": "n.",
+    "d": "巨大成功；伟大胜利"
+   },
+   {
+    "w": "lumpy",
+    "ph": "[ˈlʌmpi]",
+    "pos": "adj.",
+    "d": "多块状物的；为块状物覆盖的"
+   },
+   {
+    "w": "frosting",
+    "ph": "[ˈfrɒstɪŋ]",
+    "pos": "n.",
+    "d": "糖霜（用以装饰糕饼等）"
+   },
+   {
+    "w": "blender",
+    "ph": "[ˈblendə(r)]",
+    "pos": "n.",
+    "d": "（电动）食物搅拌器"
+   },
+   {
+    "w": "fixings",
+    "ph": "[ˈfɪksɪŋz]",
+    "pos": "n.",
+    "d": "（菜肴的）配料"
+   },
+   {
+    "w": "requisite",
+    "ph": "[ˈrekwɪzɪt]",
+    "pos": "adj.",
+    "d": "必需的；必备的；必不可少的"
+   },
+   {
+    "w": "utensil",
+    "ph": "[juːˈtensl]",
+    "pos": "n.",
+    "d": "（家庭）用具，器皿"
+   },
+   {
+    "w": "phoenix",
+    "ph": "[ˈfiːnɪks]",
+    "pos": "n.",
+    "d": "（传说中的）凤凰，长生鸟"
+   },
+   {
+    "w": "clutter",
+    "ph": "[ˈklʌtə(r)]",
+    "pos": "n.",
+    "d": "杂乱的东西（尤指不需要的或无用的）；杂乱"
+   },
+   {
+    "w": "present",
+    "ph": "[prɪˈzent]",
+    "pos": "v.",
+    "d": "把...交给；颁发；授予"
+   },
+   {
+    "w": "anniversary",
+    "ph": "[ˌænɪˈvɜːsəri]",
+    "pos": "n.",
+    "d": "周年纪念日"
+   },
+   {
+    "w": "flash",
+    "ph": "[flæʃ]",
+    "pos": "n.",
+    "d": "闪光；闪耀"
+   },
+   {
+    "w": "position",
+    "ph": "[pəˈzɪʃn]",
+    "pos": "v.",
+    "d": "安装；安置；使处于"
+   },
+   {
+    "w": "slide",
+    "ph": "[slaɪd]",
+    "pos": "v.",
+    "d": "（使）快捷而悄声地移动"
+   },
+   {
+    "w": "explode",
+    "ph": "[ɪkˈspləʊd]",
+    "pos": "v.",
+    "d": "突然爆发，迸发（感情）"
+   },
+   {
+    "w": "slip",
+    "ph": "[slɪp]",
+    "pos": "v.",
+    "d": "悄悄疾行；溜"
+   },
+   {
+    "w": "flip",
+    "ph": "[flɪp]",
+    "pos": "v.",
+    "d": "（开）；按（按钮）"
+   },
+   {
+    "w": "trumpet",
+    "ph": "[ˈtrʌmpɪt]",
+    "pos": "v.",
+    "d": "发出喇叭声"
+   },
+   {
+    "w": "gesture",
+    "ph": "[ˈdʒestʃə(r)]",
+    "pos": "v.",
+    "d": "做手势；用手势表示"
+   },
+   {
+    "w": "grandly",
+    "ph": "[ˈɡrændli]",
+    "pos": "adv.",
+    "d": "骄傲地；自负地"
+   },
+   {
+    "w": "slightly",
+    "ph": "[ˈslaɪtli]",
+    "pos": "adv.",
+    "d": "略微；稍微"
+   },
+   {
+    "w": "off-balance",
+    "ph": "[ɒf ˈbæləns]",
+    "pos": "adj.",
+    "d": "不平衡的；不稳定的"
+   },
+   {
+    "w": "layer",
+    "ph": "[ˈleɪə(r)]",
+    "pos": "n.",
+    "d": "层；表层"
+   },
+   {
+    "w": "inspection",
+    "ph": "[ɪnˈspekʃn]",
+    "pos": "n.",
+    "d": "检查；查看；审视"
+   },
+   {
+    "w": "moan",
+    "ph": "[məʊn]",
+    "pos": "v.",
+    "d": "抱怨"
+   },
+   {
+    "w": "interject",
+    "ph": "[ˌɪntəˈdʒekt]",
+    "pos": "v.",
+    "d": "打断（别人的讲话）；插话"
+   },
+   {
+    "w": "gently",
+    "ph": "[ˈdʒentli]",
+    "pos": "adv.",
+    "d": "温柔地；温和地；和缓地"
+   },
+   {
+    "w": "disaster",
+    "ph": "[dɪˈzɑːstə(r)]",
+    "pos": "n.",
+    "d": "灾难；不幸；彻底失败"
+   },
+   {
+    "w": "storm",
+    "ph": "[stɔːm]",
+    "pos": "v.",
+    "d": "气呼呼地疾走"
+   },
+   {
+    "w": "slam",
+    "ph": "[slæm]",
+    "pos": "v.",
+    "d": "（使...）砰地关上"
+   },
+   {
+    "w": "silently",
+    "ph": "[ˈsaɪləntli]",
+    "pos": "adv.",
+    "d": "悄悄地；静静地"
+   },
+   {
+    "w": "moist",
+    "ph": "[mɔɪst]",
+    "pos": "adj.",
+    "d": "微湿的；湿润的"
+   },
+   {
+    "w": "suffer",
+    "ph": "[ˈsʌfə(r)]",
+    "pos": "v.",
+    "d": "（因疾病、痛苦、悲伤等）受苦，受难，受折磨"
+   },
+   {
+    "w": "occasional",
+    "ph": "[əˈkeɪʒənl]",
+    "pos": "adj.",
+    "d": "偶然的；临时的"
+   },
+   {
+    "w": "issue",
+    "ph": "[ˈɪʃuː]",
+    "pos": "n.",
+    "d": "重要议题；争论的问题"
+   },
+   {
+    "w": "significance",
+    "ph": "[sɪɡˈnɪfɪkəns]",
+    "pos": "n.",
+    "d": "（尤指对将来有影响的）重要性，意义"
+   },
+   {
+    "w": "stuff",
+    "ph": "[stʌf]",
+    "pos": "n.",
+    "d": "（事物名称不详、无关紧要或所指事物明显时用）东西，物品，玩意儿"
+   },
+   {
+    "w": "awfully",
+    "ph": "[ˈɔːfli]",
+    "pos": "adv.",
+    "d": "非常；极其"
+   },
+   {
+    "w": "troublesome",
+    "ph": "[ˈtrʌblsəm]",
+    "pos": "adj.",
+    "d": "令人烦恼的；令人痛苦的"
+   },
+   {
+    "w": "deserve",
+    "ph": "[dɪˈzɜːv]",
+    "pos": "v.",
+    "d": "值得；应得；应受"
+   },
+   {
+    "w": "frustration",
+    "ph": "[frʌˈstreɪʃn]",
+    "pos": "n.",
+    "d": "令人懊丧（或懊恼、沮丧）的事物"
+   },
+   {
+    "w": "carpet",
+    "ph": "[ˈkɑːpɪt]",
+    "pos": "n.",
+    "d": "地毯"
+   },
+   {
+    "w": "emerge",
+    "ph": "[iˈmɜːdʒ]",
+    "pos": "v.",
+    "d": "露头；显现"
+   },
+   {
+    "w": "dignity",
+    "ph": "[ˈdɪɡnəti]",
+    "pos": "n.",
+    "d": "自豪；自尊；自重"
+   },
+   {
+    "w": "sanitation",
+    "ph": "[ˌsænɪˈteɪʃn]",
+    "pos": "n.",
+    "d": "环境卫生"
+   },
+   {
+    "w": "sacrifice",
+    "ph": "[ˈsækrɪfaɪs]",
+    "pos": "n.",
+    "d": "牺牲；舍弃"
+   },
+   {
+    "w": "tender",
+    "ph": "[ˈtendə(r)]",
+    "pos": "adj.",
+    "d": "易损坏的；纤弱的；脆弱的"
+   },
+   {
+    "w": "responsibility",
+    "ph": "[rɪˌspɒnsəˈbɪləti]",
+    "pos": "n.",
+    "d": "责任；负责"
+   },
+   {
+    "w": "occasionally",
+    "ph": "[əˈkeɪʒənəli]",
+    "pos": "adv.",
+    "d": "偶然；偶尔；有时候"
+   },
+   {
+    "w": "consequence",
+    "ph": "[ˈkɒnsɪkwəns]",
+    "pos": "n.",
+    "d": "结果；后果"
+   },
+   {
+    "w": "from scratch",
+    "ph": "[frɒm skrætʃ]",
+    "pos": "phr.",
+    "d": "从头开始，从零开始"
+   },
+   {
+    "w": "run out of",
+    "ph": "[rʌn aʊt əv]",
+    "pos": "phr.",
+    "d": "用完，耗尽"
+   },
+   {
+    "w": "stay up",
+    "ph": "[steɪ ʌp]",
+    "pos": "phr.",
+    "d": "熬夜"
+   }
+  ]
+ },
+ "B三A": {
+  "title_en": "Reflections: Friendship and Loyalty",
+  "title_zh": "友谊与忠诚",
+  "en": [
+   "How many of us recognize true loyalty in a friend? Loyalty consists of a friend, who will stick by you, through thick and thin. A friend who is always honest with you and never betrays the friendship with lies is a loyal friend. If you have a loyal friend, you have indeed found a true virtue in that friend.",
+   "The current trend on the internet is befriending anyone who requests to be your friend. However, this new trend may lead to disasters. It may be popular and trendy to have a network filled with a multitude of mutual friends. However, one true loyal friend may be the only friend you need.",
+   "A term used on the popular Facebook site is B.F.F. This acronym means best friends forever. Are they really your best friends forever? You might ask yourself this question, \"Will they share my private matters with others on the pages of Facebook, or perish the thought, engage in gossip about me with others?\" If the answer to that is, \"I don't know\", more than likely, they will not be your best friends forever. Maybe not, even for a day.",
+   "I choose to have a B.L.F., a best loyal friend, for those of you who may be challenged by the use of acronyms during this age of technology and fast-talking.",
+   "Loyalty found in a friend is akin to making a deposit in a bank account. More often than not, your deposits gain interest, an interest in your well-being and welfare. A loyal friend attracts another loyal friend. In essence, water does seek its own level.",
+   "If you were a B.L.F. way before Facebook gained notoriety, then I'm sure you understand the premise of loyalty in a friend. You should never exploit your B.L.F. to gain more friends or make yourself seem more important to others. These are not the traits of a best loyal friend.",
+   "A best loyal friend does not care who is invited to your party. They will attend your party and celebrate you, just in the way a best loyal friend should do.",
+   "Reconnecting with a best loyal friend is easier to do on the pages of Facebook. However, a virtual friend does not assure...of... his loyalty. My caution to you is that you'd better pay attention to the smiling faces on the Facebook pages. In the eighties we were warn...of... smiling faces in a song, which contained these lyrics, \"A smile is just a frown turned upside down, my friend.\" Now, that is the undisputed truth for my generation."
+  ],
+  "zh": [
+   "反思:友谊和忠诚",
+   "我们中有多少人意识到(recognize)朋友真正的忠诚(loyalty)？忠诚由坚持忠于(stick by)你，不畏艰难险阻都不离不弃(through thick and thin)的朋友构成。朋友始终对你诚实，从不对你撒谎，背叛(betray)友谊。如果你有一个这样忠诚的朋友，你的确(indeed)会从朋友身上发现真正的美德(virtue)。",
+   "目前互联网上有一个趋势(trend)，即你可以与任何一个请求加你为朋友的人做朋友(befriend)。然而，这种新趋势可能导致(lead to)灾祸。有大量(a multitude of)共同(mutual)好友可能是很受欢迎的很时髦的(trendy)。但是，拥有一个真正忠诚的朋友可能才是你最需要的。",
+   "一个在脸谱网站(site)上很流行的术语(term)是B.F.F.。这个首字母缩略词(acronym)的意思是永远的好朋友（best friend for-ever)。他们真的是你永远的好朋友吗？你可能会问你自己这样的问题，\"他们会将我的私事发布在脸谱网页上与他人分享吗？甚至与他人一起八卦(gossip)我的隐私吗？但愿永远不会(perish the thought)。\"如果答案是，\"我不知道，\"或是较有可能，他们就不是你永远的好朋友。可能不是，哪怕只有一天。",
+   "我选择有一个最忠诚的朋友（B.L.F.）,因为在这个技术和快速聊天的时代，你可能会被首字母缩略词的使用所考验(challenge)。",
+   "发现一个朋友的忠诚度与在银行账户里存款(deposit)相类似。更多的时候，你的本金会获利息(interest)，对你的健康和幸福(well-being)有利。一个忠诚的朋友吸引另一个忠诚的朋友。本质上(in essence)，水自然会向下流------朋友间总是惺惺相惜。",
+   "在脸谱网站名声变坏(notoriety)之前，如果你是一个最忠诚的朋友（B.L.F.），那么我确信你理解朋友忠诚的前提条件(premise)。你永远不能利用(exploit)你的最忠诚的朋友(B.L.F.)来赢得更多的朋友，或是让自己显得比他人都更为重要，这都不是最忠诚的朋友(B.L.F.)的特征。",
+   "一个最忠诚的朋友并不在意谁被邀请来参加了你的派对聚会。他们会出席你的派对并且为你庆祝，这就是一个最忠诚的朋友应该做的事情了。",
+   "与最忠诚的朋友保持联络比在脸谱网站上弄网页要容易得多。然而(reconnect)，一个虚拟的(virtual)朋友并不能向你保证(assure...of...)他的忠诚。我的告诫(caution)就是你要对脸谱网站上的笑脸表情多加注意(pay attention to)。在上世纪八十年代的时候的一首歌中，我们被警告(warn...of...)要注意人们的笑脸，歌词(lyric)是这样的，\"微笑只是把皱眉倒过来，我的朋友。\"如今，对于我们这一代人来说仍是不容置疑的(undisputed)事实。"
+  ],
+  "vocab": [
+   {
+    "w": "reflection",
+    "ph": "[rɪˈflekʃn]",
+    "pos": "n.",
+    "d": "（关于某主题的）思考，回忆"
+   },
+   {
+    "w": "loyalty",
+    "ph": "[ˈlɔɪəlti]",
+    "pos": "n.",
+    "d": "忠诚；忠实；忠心耿耿"
+   },
+   {
+    "w": "recognize",
+    "ph": "[ˈrekəɡnaɪz]",
+    "pos": "v.",
+    "d": "承认；意识到"
+   },
+   {
+    "w": "betray",
+    "ph": "[bɪˈtreɪ]",
+    "pos": "v.",
+    "d": "辜负；对...不忠"
+   },
+   {
+    "w": "indeed",
+    "ph": "[ɪnˈdiːd]",
+    "pos": "adv.",
+    "d": "其实；实际上"
+   },
+   {
+    "w": "virtue",
+    "ph": "[ˈvɜːtʃuː]",
+    "pos": "n.",
+    "d": "高尚的道德；正直的品性；德行"
+   },
+   {
+    "w": "trend",
+    "ph": "[trend]",
+    "pos": "n.",
+    "d": "趋势；趋向；倾向；动态；动向"
+   },
+   {
+    "w": "befriend",
+    "ph": "[bɪˈfrend]",
+    "pos": "v.",
+    "d": "做（尤指需要帮助者的）朋友；友善相待"
+   },
+   {
+    "w": "request",
+    "ph": "[rɪˈkwest]",
+    "pos": "v.",
+    "d": "（礼貌或正式地）请求，要求"
+   },
+   {
+    "w": "trendy",
+    "ph": "[ˈtrendi]",
+    "pos": "adj.",
+    "d": "时髦的；赶时髦的"
+   },
+   {
+    "w": "multitude",
+    "ph": "[ˈmʌltɪtjuːd]",
+    "pos": "n.",
+    "d": "众多；大量"
+   },
+   {
+    "w": "mutual",
+    "ph": "[ˈmjuːtʃuəl]",
+    "pos": "adj.",
+    "d": "共有的；共同的"
+   },
+   {
+    "w": "term",
+    "ph": "[tɜːm]",
+    "pos": "n.",
+    "d": "词语；术语；措辞"
+   },
+   {
+    "w": "site",
+    "ph": "[saɪt]",
+    "pos": "n.",
+    "d": "网站；站点"
+   },
+   {
+    "w": "acronym",
+    "ph": "[ˈækrənɪm]",
+    "pos": "n.",
+    "d": "首字母缩略词"
+   },
+   {
+    "w": "perish",
+    "ph": "[ˈperɪʃ]",
+    "pos": "v.",
+    "d": "丧失；湮灭；毁灭"
+   },
+   {
+    "w": "thought",
+    "ph": "[θɔːt]",
+    "pos": "n.",
+    "d": "想法；看法；主意；记忆"
+   },
+   {
+    "w": "gossip",
+    "ph": "[ˈɡɒsɪp]",
+    "pos": "n.",
+    "d": "流言蜚语"
+   },
+   {
+    "w": "challenge",
+    "ph": "[ˈtʃælɪndʒ]",
+    "pos": "v.",
+    "d": "考查...的能力；考验...的技巧"
+   },
+   {
+    "w": "akin",
+    "ph": "[əˈkɪn]",
+    "pos": "adj.",
+    "d": "相似的；类似的"
+   },
+   {
+    "w": "deposit",
+    "ph": "[dɪˈpɒzɪt]",
+    "pos": "n.",
+    "d": "存款"
+   },
+   {
+    "w": "account",
+    "ph": "[əˈkaʊnt]",
+    "pos": "n.",
+    "d": "账户"
+   },
+   {
+    "w": "interest",
+    "ph": "[ˈɪntrəst]",
+    "pos": "n.",
+    "d": "利息"
+   },
+   {
+    "w": "well-being",
+    "ph": "[ˌwel ˈbiːɪŋ]",
+    "pos": "n.",
+    "d": "健康；安乐；康乐"
+   },
+   {
+    "w": "welfare",
+    "ph": "[ˈwelfeə(r)]",
+    "pos": "n.",
+    "d": "（个体或群体的）幸福，安全与健康"
+   },
+   {
+    "w": "essence",
+    "ph": "[ˈesns]",
+    "pos": "n.",
+    "d": "本质；实质；精髓"
+   },
+   {
+    "w": "seek",
+    "ph": "[siːk]",
+    "pos": "v.",
+    "d": "寻找"
+   },
+   {
+    "w": "notoriety",
+    "ph": "[ˌnəʊtəˈraɪəti]",
+    "pos": "n.",
+    "d": "恶名；坏名声"
+   },
+   {
+    "w": "premise",
+    "ph": "[ˈpremɪs]",
+    "pos": "n.",
+    "d": "前提；假定"
+   },
+   {
+    "w": "exploit",
+    "ph": "[ɪkˈsplɔɪt]",
+    "pos": "v.",
+    "d": "利用（...为自己谋利）"
+   },
+   {
+    "w": "reconnect",
+    "ph": "[ˌriːkəˈnekt]",
+    "pos": "v.",
+    "d": "再联系；再联络"
+   },
+   {
+    "w": "virtual",
+    "ph": "[ˈvɜːtʃuəl]",
+    "pos": "adj.",
+    "d": "（通过计算机软件，如在因特网上）模拟的，虚拟的"
+   },
+   {
+    "w": "assure",
+    "ph": "[əˈʃʊə(r)]",
+    "pos": "v.",
+    "d": "使确信；向...保证"
+   },
+   {
+    "w": "caution",
+    "ph": "[ˈkɔːʃn]",
+    "pos": "n.",
+    "d": "警告；告诫"
+   },
+   {
+    "w": "lyric",
+    "ph": "[ˈlɪrɪk]",
+    "pos": "n.",
+    "d": "歌词"
+   },
+   {
+    "w": "undisputed",
+    "ph": "[ˌʌndɪˈspjuːtɪd]",
+    "pos": "adj.",
+    "d": "不容置疑的；毫无疑问的；不可争辩的"
+   },
+   {
+    "w": "generation",
+    "ph": "[ˌdʒenəˈreɪʃn]",
+    "pos": "n.",
+    "d": "（统称）一代人，同代人，同辈人"
+   }
+  ]
+ },
+ "B三B": {
+  "title_en": "A Tribute to the Dog",
+  "title_zh": "对狗的致敬",
+  "en": [
+   "The best friend a man has in this world may turn against him and become his enemy. His son or daughter whom he has reared with loving care may prove ungrateful. Those who are nearest and dearest to us, those whom we trust with our happiness and our good name, may become traitors to their faith.",
+   "The money that a man has he may lose. It flies away from him, perhaps when he needs it most. A man's reputation may be sacrificed in a moment of ill-considered action. The people who are be prone to fall on their knees to do us honor when success is with us may be the first to throw the stone of malice when failure settles its cloud upon our heads. The one absolute, unselfish friend a man may have in this selfish world, the one that never deserts him, the one that never proves ungrateful or treacherous, is his dog.",
+   "A man's dog stand by him in prosperity and in poverty, in health and in sickness. He will sleep on the cold ground when the wintry winds blow and the snow drives fiercely, if only he can be near his master's side. He will kiss the hand that has no food to offer. He will lick the sores and wounds that come in the encounter with the roughness of the world. He guards the sleep of his pauper master as if he were a prince.",
+   "When all other friends desert, he remains. When riches take wings and reputation fall to pieces, he is as constant in his love as the sun in its journey through the heavens. If fortune drives the master forth, an outcast in the world, friendless and homeless, the faithful dog asks no higher privilege than that of accompanying him to guard him against danger, to fight against his enemies. And when the last scene of all comes and death takes its master in its embrace and the body is laid away in the cold ground, no matter if all other friends pursue their way, there by his graveside will the noble dog be found, his head between his paws, his eyes sad but open in alert watchfulness faithful and true even to death."
+  ],
+  "zh": [
+   "这是对狗的致敬",
+   "在这个世界上，一个人最好的朋友也有可能背叛(turn against)他而成为他的敌人。他满怀爱意抚养(rear)长大的儿女可能不知感恩(ungrateful)。那些我们最近最亲的人，我们信任他们，把自己的幸福和名声都托付于他们，他们都有可能会舍弃忠诚(faith)而背叛(traitor)我们。",
+   "一个人所拥有的金钱可能会丢失，金钱也许会在他最需要的时候从他身边飞走。一个人的名望(reputation)更会仅仅因为某一次考虑不周的行为而瞬间丧失殆尽。当我们功成名就时，一些人卑躬屈膝(be prone to)极力讨好;当失败的阴云笼罩(settle)在我们的头顶时，那些人又可能会最先对我们落井下石(malice)。在这个自私(selfish)的世界上，对于一个人来说，惟一绝对(absolute)无私(unselfish)的朋友，惟一永不背弃(desert)的朋友，惟一从不忘恩负义或奸诈(treacherous)的朋友，就是他的狗。",
+   "不管主人是贫穷(poverty)或富贵(prosperity)，病弱或健康，狗都会守护在(stand by)主人的身旁。即使是在寒风凛冽(wintry)，大雪纷飞(fiercely)之时，它都愿意躺在冰凉坚硬的地面上，仅仅为了能靠近主人。哪怕主人没有任何食物喂养它，它仍会舔(lick)主人的手，为他抚平在这个冷酷的世界上受到的创伤(sore)。它忠诚地守卫(guard)着熟睡的主人，俨然这位穷主人就是一位王子。",
+   "当主人所有的朋友都掉头而去,他却义无反顾。当主人家财四散(take wings)，名誉扫地(fall to pieces)，他对主人的忠诚热爱仍宛如日升日落，亘古不变(constant)。假若因命运的捉弄，主人被世人抛弃、无家可归(homeless)时,忠心耿耿的狗也总是形影不离，对抗敌人，保护主人免遭危险，除此之外别无他求。当人生的舞台(scene)最后一场戏落幕，死神将主人抱在怀中(embrace)，尸体埋葬在冰冷的地下时，纵使所有的朋友都各奔前程(pursue)，而这只高贵的狗却会独自守卫在墓旁。它埋头于两个爪子(paw)之间，眼睛里虽然充满哀伤，却仍机警地守护着，即使阴阳相隔，仍然忠贞不渝。"
+  ],
+  "vocab": [
+   {
+    "w": "tribute",
+    "ph": "[ˈtrɪbjuːt]",
+    "pos": "n.",
+    "d": "（尤指对死者的）致敬；悼念；吊唁礼物"
+   },
+   {
+    "w": "rear",
+    "ph": "[rɪə(r)]",
+    "pos": "v.",
+    "d": "抚养；养育；培养"
+   },
+   {
+    "w": "ungrateful",
+    "ph": "[ʌnˈɡreɪtfl]",
+    "pos": "adj.",
+    "d": "不领情的；忘恩负义的"
+   },
+   {
+    "w": "traitor",
+    "ph": "[ˈtreɪtə(r)]",
+    "pos": "n.",
+    "d": "背叛者；叛徒；卖国贼"
+   },
+   {
+    "w": "faith",
+    "ph": "[feɪθ]",
+    "pos": "n.",
+    "d": "信任；相信；信心"
+   },
+   {
+    "w": "reputation",
+    "ph": "[ˌrepjuˈteɪʃn]",
+    "pos": "n.",
+    "d": "名誉；名声"
+   },
+   {
+    "w": "prone",
+    "ph": "[prəʊn]",
+    "pos": "adj.",
+    "d": "易于发生某事的；很可能...的"
+   },
+   {
+    "w": "malice",
+    "ph": "[ˈmælɪs]",
+    "pos": "n.",
+    "d": "恶意；怨恨"
+   },
+   {
+    "w": "settle",
+    "ph": "[ˈsetl]",
+    "pos": "v.",
+    "d": "把...放好；安放"
+   },
+   {
+    "w": "absolute",
+    "ph": "[ˈæbsəluːt]",
+    "pos": "adj.",
+    "d": "肯定的；无疑的；明确的"
+   },
+   {
+    "w": "unselfish",
+    "ph": "[ʌnˈselfɪʃ]",
+    "pos": "adj.",
+    "d": "无私的；忘我的；不谋私利的"
+   },
+   {
+    "w": "selfish",
+    "ph": "[ˈselfɪʃ]",
+    "pos": "adj.",
+    "d": "自私的"
+   },
+   {
+    "w": "desert",
+    "ph": "[dɪˈzɜːt]",
+    "pos": "v.",
+    "d": "抛弃，离弃，遗弃（某人）"
+   },
+   {
+    "w": "treacherous",
+    "ph": "[ˈtretʃərəs]",
+    "pos": "adj.",
+    "d": "不可信任的；背叛的；奸诈的"
+   },
+   {
+    "w": "prosperity",
+    "ph": "[prɒˈsperəti]",
+    "pos": "n.",
+    "d": "兴旺；繁荣；成功；昌盛"
+   },
+   {
+    "w": "poverty",
+    "ph": "[ˈpɒvəti]",
+    "pos": "n.",
+    "d": "贫穷；贫困"
+   },
+   {
+    "w": "sickness",
+    "ph": "[ˈsɪknəs]",
+    "pos": "n.",
+    "d": "疾病；不健康"
+   },
+   {
+    "w": "wintry",
+    "ph": "[ˈwɪntri]",
+    "pos": "adj.",
+    "d": "冬天的；寒冷的"
+   },
+   {
+    "w": "fiercely",
+    "ph": "[ˈfɪəsli]",
+    "pos": "adv.",
+    "d": "猛烈地"
+   },
+   {
+    "w": "lick",
+    "ph": "[lɪk]",
+    "pos": "v.",
+    "d": "舔"
+   },
+   {
+    "w": "sore",
+    "ph": "[sɔː(r)]",
+    "pos": "n.",
+    "d": "痛处；伤处；疮"
+   },
+   {
+    "w": "wound",
+    "ph": "[wuːnd]",
+    "pos": "n.",
+    "d": "（心灵上的）伤，创伤"
+   },
+   {
+    "w": "roughness",
+    "ph": "[ˈrʌfnəs]",
+    "pos": "n.",
+    "d": "艰辛；艰难"
+   },
+   {
+    "w": "guard",
+    "ph": "[ɡɑːd]",
+    "pos": "n./v.",
+    "d": "警卫；守卫；保卫"
+   },
+   {
+    "w": "pauper",
+    "ph": "[ˈpɔːpə(r)]",
+    "pos": "n.",
+    "d": "穷人；贫民；乞丐"
+   },
+   {
+    "w": "constant",
+    "ph": "[ˈkɒnstənt]",
+    "pos": "adj.",
+    "d": "不变的；固定的；恒定的"
+   },
+   {
+    "w": "journey",
+    "ph": "[ˈdʒɜːni]",
+    "pos": "n.",
+    "d": "（尤指长途）旅行，行程"
+   },
+   {
+    "w": "heaven",
+    "ph": "[ˈhevn]",
+    "pos": "n.",
+    "d": "the heavens [pl.]天空"
+   },
+   {
+    "w": "outcast",
+    "ph": "[ˈaʊtkɑːst]",
+    "pos": "n.",
+    "d": "被抛弃者；被排斥者"
+   },
+   {
+    "w": "friendless",
+    "ph": "[ˈfrendləs]",
+    "pos": "adj.",
+    "d": "没有朋友的"
+   },
+   {
+    "w": "homeless",
+    "ph": "[ˈhəʊmləs]",
+    "pos": "adj.",
+    "d": "无家的"
+   },
+   {
+    "w": "faithful",
+    "ph": "[ˈfeɪθfl]",
+    "pos": "adj.",
+    "d": "忠实的；忠诚的"
+   },
+   {
+    "w": "privilege",
+    "ph": "[ˈprɪvəlɪdʒ]",
+    "pos": "n.",
+    "d": "特殊利益；优惠待遇"
+   },
+   {
+    "w": "accompany",
+    "ph": "[əˈkʌmpəni]",
+    "pos": "v.",
+    "d": "陪同；陪伴"
+   },
+   {
+    "w": "scene",
+    "ph": "[siːn]",
+    "pos": "n.",
+    "d": "事件；场面；情景"
+   },
+   {
+    "w": "embrace",
+    "ph": "[ɪmˈbreɪs]",
+    "pos": "n.",
+    "d": "拥抱"
+   },
+   {
+    "w": "pursue",
+    "ph": "[pəˈsjuː]",
+    "pos": "v.",
+    "d": "追求；致力于"
+   },
+   {
+    "w": "paw",
+    "ph": "[pɔː]",
+    "pos": "n.",
+    "d": "（动物的）爪"
+   },
+   {
+    "w": "alert",
+    "ph": "[əˈlɜːt]",
+    "pos": "adj.",
+    "d": "警觉的；警惕的；戒备的"
+   },
+   {
+    "w": "watchfulness",
+    "ph": "[ˈwɒtʃflnəs]",
+    "pos": "n.",
+    "d": "警惕"
+   }
+  ]
+ },
+ "B四A": {
+  "title_en": "Work Is a Blessing",
+  "title_zh": "工作是福",
+  "en": [
+   "I grew up in Lakeland, Louisiana, one of 12 children. We all lived on my parents' subsistence farm. We grew cotton, sugar cane, corn, hogs, chickens and had a large garden, but it didn't bring in much cash. So when I was 12, I got a part-time job on a dairy farm down the road, helping to milk cows. We milked 65 cows at 5 in the morning, and again at 2 in the afternoon, seven days a week.",
+   "In the kitchen one Saturday before daylight, I remember complaining to my father and grandfather about having to go milk those cows. My father said, \"Ya know, boy, to work is a blessing.\"",
+   "I looked at those two men who'd worked harder than I ever had - my father eking out a living on that farm, and my grandfather farming and working as a carpenter during the Depression. I had a feeling I had been told something really important, but it took many years before it sank in.",
+   "Going to college was a rare privilege for a kid from Lakeland, Louisiana. My father told me if I picked something to study that I liked doing, I'd always look forward to my work. But he also added, \"Even having a job you hate is better than not having a job at all.\" I wanted to be a farmer, but I joined the ROTC program to help pay for college. And what started out as an obligation to the Army became a way of life that I stayed committed to for 37 years, three months and three days.",
+   "In the late 1980s, during a visit to Bangladesh, I saw a woman with her baby on her back, breaking bricks with a hammer. I asked a Bangladesh military escort why they weren't using a machine, which would have been a lot easier. He told me a machine would put that lady out of work. Breaking those bricks meant she'd earn enough money to feed herself and her baby that day. And as bad as that woman's job was, it was enough to keep a small family alive. It reminded me of my father's words: to work is a blessing.",
+   "Serving in the United States Army overseas, I saw a lot of people like that woman in Bangladesh. And I've come to believe that people without jobs are not free. They're victims of crime, the ideology of terrorism, poor health, depression and social unrest. These victims become the illegal immigrants, the slaves of human trafficking, the drug dealers, and the street gang members. I've seen it over and over again on the U.S. border, in Somalia, the Congo, Afghanistan and in New Orleans. People who have jobs can have a home, send their kids to school, develop a sense of pride, contribute to the good of the community and even help others. When we can work, we are free. We are blessed.",
+   "I don't think I'll ever quit working. I'm retired from the Army, but I'm still working to help people be prepared for disasters. And I may get to do a little farming someday, too. I'm not going to stop. I believe in my father's words. I believe in the blessing of work."
+  ],
+  "zh": [
+   "我在路易斯安那州的莱克兰长大,是家里12个孩子之一。我们所有人都依赖父母自给自足的农场(subsistence)过活。我们种棉花、甘蔗(sugar cane)、玉米(corn),养猪(hog)、养鸡,还有一个大花园，但农场并不能给让我们带来(bring in)多少收入(cash),所以当我12岁时，在马路前面不远的一个奶牛场(dairy)里找了一份兼职工作，帮忙挤牛奶。我们要在早晨5点钟为65头奶牛挤奶，下午2点钟还要挤一次,一周七天不休息。",
+   "在一个周六的黎明之前，我记得我在厨房里跟父亲和爷爷抱怨(complain)自己一大早还要去给那些奶牛挤奶，我父亲说:\"儿子,你要知道，能工作是种福气(blessing)啊。\"",
+   "我看着这两个男人，知道他们比我有生以来工作得要更努力------父亲靠那个农场养家糊口(eke out a living)，而爷爷在大萧条期间既做农活又当木匠(carpenter)。我那时有种感觉，父亲跟我说了一些非常重要的东西,但许多年后我才真正理解(sink in)其中的含义。",
+   "对于莱克兰的孩子来说，上大学是种少有的特权。父亲告诉我，如果我学了自己喜欢做的事情，我便会一直期待(look forward to)找到适合自己的工作。但他补充道:\"就算从事了自己不喜欢的工作，那也比什么工作都没有要好。\"我当时想务农,但为了支付大学的学费，我参加了预备军官训练项目。当初的义务从军便成为了我以后的生活方式，我在部队服役长达37年3个月零3天，始终尽心尽力(committed)。",
+   "20世纪80年代晚期,在一次出访孟加拉国期间，我看到一个背着孩子的妇女,正在用锤子(hammer)将砖头敲碎。",
+   "我问孟加拉军队的一名护卫队员(escort)为什么他们不用机器，因为那样会容易很多。他跟我说，如果用机器，那个女人便会丢掉工作。而将那些砖头敲碎意味着她能赚到足够的钱让她和她的孩子在那天吃饱。虽然她的工作实在很糟糕，但那却足够养活一个小家庭。这件事让我想起(remind)了父亲的话:工作是种福气。",
+   "在驻外的美军部队服役时，我看到许多人都和那个孟加拉妇女一样，于是我开始相信，没有工作的人是不自由的。他们遭受着犯罪、恐怖主义(terrorism)、疾病、经济萧条(depression)和社会动荡(unrest)的侵害。于是这些受害者(victim)变成了非法(illegal)移民(immigrant)，沦为人口买卖(trafficking)、贩毒交易(dealer)和街头帮派(gang)的囚奴。这种景象我在美国边境，索马里,刚果,阿富汗和新奥尔良一次又一次地(over and over again)目睹过。有工作的人可以建立家庭，将孩子送到学校上学，内心树立起一种自豪感，增加(contribute)对社区的积极影响,甚至去帮助他人。当我们有事可做时，我们身心自由，身处幸福之中。",
+   "我觉得我不会停止(quit)工作。如今我已从军队退役，但我仍在致力于帮助人们在灾害来临前做好准备(be prepared for)。可能哪天我也要去做点儿农活。但我不会停下来的。我相信(believe in)父亲的话，我相信工作是有益之事。"
+  ],
+  "vocab": [
+   {
+    "w": "blessing",
+    "ph": "[ˈblesɪŋ]",
+    "pos": "n.",
+    "d": "好事；有益之事"
+   },
+   {
+    "w": "subsistence",
+    "ph": "[səbˈsɪstəns]",
+    "pos": "n.",
+    "d": "勉强维持生活；生计"
+   },
+   {
+    "w": "sugar cane",
+    "ph": "[ˈʃʊɡə keɪn]",
+    "pos": "n.",
+    "d": "甘蔗"
+   },
+   {
+    "w": "corn",
+    "ph": "[kɔːn]",
+    "pos": "n.",
+    "d": "玉米"
+   },
+   {
+    "w": "hog",
+    "ph": "[hɒɡ]",
+    "pos": "n.",
+    "d": "猪"
+   },
+   {
+    "w": "cash",
+    "ph": "[kæʃ]",
+    "pos": "n.",
+    "d": "现金"
+   },
+   {
+    "w": "dairy",
+    "ph": "[ˈdeəri]",
+    "pos": "adj./n.",
+    "d": "乳品业的；生产乳品的；牛奶场；乳制品"
+   },
+   {
+    "w": "complain",
+    "ph": "[kəmˈpleɪn]",
+    "pos": "v.",
+    "d": "抱怨；埋怨；发牢骚"
+   },
+   {
+    "w": "carpenter",
+    "ph": "[ˈkɑːpəntə(r)]",
+    "pos": "n.",
+    "d": "木工；木匠"
+   },
+   {
+    "w": "committed",
+    "ph": "[kəˈmɪtɪd]",
+    "pos": "adj.",
+    "d": "尽心尽力的；坚信的；坚定的"
+   },
+   {
+    "w": "hammer",
+    "ph": "[ˈhæmə(r)]",
+    "pos": "n.",
+    "d": "锤子；榔头"
+   },
+   {
+    "w": "escort",
+    "ph": "[ˈeskɔːt]",
+    "pos": "n.",
+    "d": "护送者；护卫队"
+   },
+   {
+    "w": "remind",
+    "ph": "[rɪˈmaɪnd]",
+    "pos": "v.",
+    "d": "提醒；使想起"
+   },
+   {
+    "w": "victim",
+    "ph": "[ˈvɪktɪm]",
+    "pos": "n.",
+    "d": "受害者；牺牲品"
+   },
+   {
+    "w": "ideology",
+    "ph": "[ˌaɪdiˈɒlədʒi]",
+    "pos": "n.",
+    "d": "意识形态；观念形态"
+   },
+   {
+    "w": "terrorism",
+    "ph": "[ˈterərɪzəm]",
+    "pos": "n.",
+    "d": "恐怖主义"
+   },
+   {
+    "w": "depression",
+    "ph": "[dɪˈpreʃn]",
+    "pos": "n.",
+    "d": "萧条期；经济衰退；不景气"
+   },
+   {
+    "w": "unrest",
+    "ph": "[ʌnˈrest]",
+    "pos": "n.",
+    "d": "动荡；动乱；骚动"
+   },
+   {
+    "w": "illegal",
+    "ph": "[ɪˈliːɡl]",
+    "pos": "adj.",
+    "d": "不合法的；非法的；违法的"
+   },
+   {
+    "w": "immigrant",
+    "ph": "[ˈɪmɪɡrənt]",
+    "pos": "n.",
+    "d": "（外来）移民；外侨"
+   },
+   {
+    "w": "trafficking",
+    "ph": "[ˈtræfɪkɪŋ]",
+    "pos": "n.",
+    "d": "非法交易；非法买卖"
+   },
+   {
+    "w": "dealer",
+    "ph": "[ˈdiːlə(r)]",
+    "pos": "n.",
+    "d": "贩毒者；毒品贩子"
+   },
+   {
+    "w": "gang",
+    "ph": "[ɡæŋ]",
+    "pos": "n.",
+    "d": "一帮，一群，一伙（闹事、斗殴的年轻人）"
+   },
+   {
+    "w": "contribute",
+    "ph": "[kənˈtrɪbjuːt]",
+    "pos": "v.",
+    "d": "增加；增进；添加（到某物）"
+   },
+   {
+    "w": "quit",
+    "ph": "[kwɪt]",
+    "pos": "v.",
+    "d": "停止；戒掉"
+   }
+  ]
+ },
+ "B四B": {
+  "title_en": "How to Start Your Own Business",
+  "title_zh": "如何开始自己的事业",
+  "en": [
+   "The paradox of starting your own business lies in the simultaneous challenge and reward, making it an experience unlike any other. So many businesses fail, and most entrepreneurs exclude themselves from the possibility. The tragic reality is that when businesses fail, the passion often dies with it. By following some sound advice and being prepared for the process, you will decrease your chances of losing a lot more than you bargain for. I have recently started a business and have learned some crucial lessons in the process that I feel privileged to share with you.",
+   "Once you have all of these elements in place, you are prepared to start the process of developing a business plan, apply for a license, establishing a marketing presence, etc. Owning your own business can be unparalleled in the professional world, and if you surround yourself with wise counsel, you can have a career that daily feeds your passion."
+  ],
+  "zh": [
+   "如何自己创业开始你自己的生意的悖论(paradox)在于挑战与回报同时进行(simultaneous)，这使得创业成为与其他不一样的经历。很多人创业失败了，然而大多数创业者(entrepreneur)将自己排除(exclude)在这种可能性之外。可悲的(tragic)现实是当创业失败了的时候，热情(passion)也随之消失。通过接下来的合理(sound)建议以及充分的准备过程(process)，你的亏损风险将会比你所预料(bargain for)的大大降低。最近我开始创业，并有幸跟大家分享我从此过程中汲取的一些至关重要(crucial)的经验教训。",
+   "一旦你这几条都准备就绪(in place)了，你就可以准备开始执行你的创业企划书，申请(apply for)营业许可证(license)，建立营销实体(presence)等等的过程了。拥有自己的公司是做其他职业(professional)无法相比(unparalleled)的，如果你身边围绕着智囊团，你就会有很好的职业生涯(career)，每天都能满足(feed)你的热情。"
+  ],
+  "vocab": [
+   {
+    "w": "paradox",
+    "ph": "[ˈpærədɒks]",
+    "pos": "n.",
+    "d": "矛盾的人（或事情、情况）"
+   },
+   {
+    "w": "simultaneous",
+    "ph": "[ˌsɪmlˈteɪniəs]",
+    "pos": "adj.",
+    "d": "同时发生（或进行）的；同步的"
+   },
+   {
+    "w": "reward",
+    "ph": "[rɪˈwɔːd]",
+    "pos": "n.",
+    "d": "奖励；回报；报酬"
+   },
+   {
+    "w": "entrepreneur",
+    "ph": "[ˌɒntrəprəˈnɜː(r)]",
+    "pos": "n.",
+    "d": "创业者；企业家"
+   },
+   {
+    "w": "exclude",
+    "ph": "[ɪkˈskluːd]",
+    "pos": "v.",
+    "d": "把...排斥在外；防止...进入；阻止...参加"
+   },
+   {
+    "w": "tragic",
+    "ph": "[ˈtrædʒɪk]",
+    "pos": "adj.",
+    "d": "悲惨的；悲痛的；可悲的"
+   },
+   {
+    "w": "passion",
+    "ph": "[ˈpæʃn]",
+    "pos": "n.",
+    "d": "强烈情感；激情"
+   },
+   {
+    "w": "sound",
+    "ph": "[saʊnd]",
+    "pos": "adj.",
+    "d": "明智的；合理的；正确的；可靠的"
+   },
+   {
+    "w": "process",
+    "ph": "[ˈprəʊses]",
+    "pos": "n.",
+    "d": "（为达到某一目标的）过程；进程"
+   },
+   {
+    "w": "crucial",
+    "ph": "[ˈkruːʃl]",
+    "pos": "adj.",
+    "d": "至关重要的；关键的"
+   },
+   {
+    "w": "privileged",
+    "ph": "[ˈprɪvəlɪdʒd]",
+    "pos": "adj.",
+    "d": "荣幸的；幸运的"
+   },
+   {
+    "w": "motivation",
+    "ph": "[ˌməʊtɪˈveɪʃn]",
+    "pos": "n.",
+    "d": "动机；原因"
+   },
+   {
+    "w": "prioritize",
+    "ph": "[praɪˈɒrətaɪz]",
+    "pos": "v.",
+    "d": "按重要性排列；划分优先顺序"
+   },
+   {
+    "w": "pattern",
+    "ph": "[ˈpætn]",
+    "pos": "n.",
+    "d": "模式；方式"
+   },
+   {
+    "w": "strategy",
+    "ph": "[ˈstrætədʒi]",
+    "pos": "n.",
+    "d": "策划；规划；部署；统筹安排"
+   },
+   {
+    "w": "routine",
+    "ph": "[ruːˈtiːn]",
+    "pos": "n.",
+    "d": "常规；正常顺序"
+   },
+   {
+    "w": "sight",
+    "ph": "[saɪt]",
+    "pos": "n.",
+    "d": "视力范围；视野"
+   },
+   {
+    "w": "solely",
+    "ph": "[ˈsəʊlli]",
+    "pos": "adv.",
+    "d": "仅；只；惟；单独地"
+   },
+   {
+    "w": "logistics",
+    "ph": "[ləˈdʒɪstɪks]",
+    "pos": "n.",
+    "d": "后勤；物流；组织工作"
+   },
+   {
+    "w": "locally",
+    "ph": "[ˈləʊkəli]",
+    "pos": "adv.",
+    "d": "在本地"
+   },
+   {
+    "w": "competitor",
+    "ph": "[kəmˈpetɪtə(r)]",
+    "pos": "n.",
+    "d": "（尤指商业方面的）竞争者，对手"
+   },
+   {
+    "w": "room",
+    "ph": "[ruːm]",
+    "pos": "n.",
+    "d": "可能性；机会"
+   },
+   {
+    "w": "niche",
+    "ph": "[niːʃ]",
+    "pos": "n.",
+    "d": "（商品的）商机；市场定位"
+   },
+   {
+    "w": "unique",
+    "ph": "[juˈniːk]",
+    "pos": "adj.",
+    "d": "独特的；罕见的"
+   },
+   {
+    "w": "survive",
+    "ph": "[səˈvaɪv]",
+    "pos": "v.",
+    "d": "生存；存活；继续存在"
+   },
+   {
+    "w": "client",
+    "ph": "[ˈklaɪənt]",
+    "pos": "n.",
+    "d": "客户；顾客"
+   },
+   {
+    "w": "finance",
+    "ph": "[ˈfaɪnæns]",
+    "pos": "n.",
+    "d": "（个人、组织、国家的）财力，财源，财务管理"
+   },
+   {
+    "w": "purchase",
+    "ph": "[ˈpɜːtʃəs]",
+    "pos": "n.",
+    "d": "购买；采购"
+   },
+   {
+    "w": "obligation",
+    "ph": "[ˌɒblɪˈɡeɪʃn]",
+    "pos": "n.",
+    "d": "（已承诺的或法律等规定的）义务，责任"
+   },
+   {
+    "w": "down payment",
+    "ph": "[daʊn ˈpeɪmənt]",
+    "pos": "n.",
+    "d": "（分期付款的）首期付款；预付金；定金"
+   },
+   {
+    "w": "mortgage",
+    "ph": "[ˈmɔːɡɪdʒ]",
+    "pos": "n.",
+    "d": "按揭；按揭贷款"
+   },
+   {
+    "w": "trash can",
+    "ph": "[træʃ kæn]",
+    "pos": "n.",
+    "d": "垃圾桶"
+   },
+   {
+    "w": "garage",
+    "ph": "[ˈɡærɑːʒ]",
+    "pos": "n.",
+    "d": "停车房；车库"
+   },
+   {
+    "w": "fixture",
+    "ph": "[ˈfɪkstʃə(r)]",
+    "pos": "n.",
+    "d": "固定设施"
+   },
+   {
+    "w": "landscape",
+    "ph": "[ˈlændskeɪp]",
+    "pos": "v.",
+    "d": "对...做景观美化；美化...的环境"
+   },
+   {
+    "w": "exceed",
+    "ph": "[ɪkˈsiːd]",
+    "pos": "v.",
+    "d": "超过（数量）"
+   },
+   {
+    "w": "boundary",
+    "ph": "[ˈbaʊndri]",
+    "pos": "n.",
+    "d": "边界；界限；分界线"
+   },
+   {
+    "w": "exhaustive",
+    "ph": "[ɪɡˈzɔːstɪv]",
+    "pos": "adj.",
+    "d": "详尽的；彻底的"
+   },
+   {
+    "w": "viability",
+    "ph": "[ˌvaɪəˈbɪləti]",
+    "pos": "n.",
+    "d": "可行性"
+   },
+   {
+    "w": "run",
+    "ph": "[rʌn]",
+    "pos": "v.",
+    "d": "（使）运转，运行；操作"
+   },
+   {
+    "w": "assume",
+    "ph": "[əˈsjuːm]",
+    "pos": "v.",
+    "d": "假定；假设；认为"
+   },
+   {
+    "w": "alleviate",
+    "ph": "[əˈliːvieɪt]",
+    "pos": "v.",
+    "d": "减轻；缓和；缓解"
+   },
+   {
+    "w": "seasoned",
+    "ph": "[ˈsiːznd]",
+    "pos": "adj.",
+    "d": "富有经验的；老于此道的"
+   },
+   {
+    "w": "offer",
+    "ph": "[ˈɒfə(r)]",
+    "pos": "v.",
+    "d": "主动提出；愿给予"
+   },
+   {
+    "w": "aspire",
+    "ph": "[əˈspaɪə(r)]",
+    "pos": "v.",
+    "d": "渴望（成就）；有志（成为）"
+   },
+   {
+    "w": "various",
+    "ph": "[ˈveəriəs]",
+    "pos": "adj.",
+    "d": "各种不同的；各种各样的"
+   },
+   {
+    "w": "counsel",
+    "ph": "[ˈkaʊnsl]",
+    "pos": "n.",
+    "d": "劝告；忠告；建议"
+   },
+   {
+    "w": "makeshift",
+    "ph": "[ˈmeɪkʃɪft]",
+    "pos": "adj.",
+    "d": "临时替代的；权宜的"
+   },
+   {
+    "w": "license",
+    "ph": "[ˈlaɪsns]",
+    "pos": "n.",
+    "d": "许可证；执照"
+   },
+   {
+    "w": "presence",
+    "ph": "[ˈprezns]",
+    "pos": "n.",
+    "d": "存在；出现"
+   },
+   {
+    "w": "unparalleled",
+    "ph": "[ʌnˈpærəleld]",
+    "pos": "adj.",
+    "d": "无比的；无双的；空前的；绝无仅有的"
+   },
+   {
+    "w": "professional",
+    "ph": "[prəˈfeʃənl]",
+    "pos": "adj.",
+    "d": "职业的；专业的"
+   },
+   {
+    "w": "career",
+    "ph": "[kəˈrɪə(r)]",
+    "pos": "n.",
+    "d": "生涯；职业"
+   },
+   {
+    "w": "feed",
+    "ph": "[fiːd]",
+    "pos": "v.",
+    "d": "满足（希望、愿望、欲望等）"
+   }
+  ]
+ },
+ "B五A": {
+  "title_en": "Life Is Difficult",
+  "title_zh": "艰难的生活",
+  "en": [
+   "Life Is Difficult.",
+   "This is a great truth, one of the greatest truths. It is a great truth because once we truly see this truth we transcend it. Once we truly know that life is difficult-once we truly understand and accept it-then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters.",
+   "Most people do not fully see this truth that life is difficult. Instead they moan more or less incessantly, noisily or subtly, about the enormity of their problems, their burdens, and their difficulties as if life were generally easy, as if life should be easy. They voice their belief, noisily or subtly, that their difficulties represent a unique kind of affliction that should not be and that has somehow been especially visited upon them, or else upon their families, their tribe, their class, their nation, their race or even their species, and not upon others. I know about this moaning because I have done my share.",
+   "Life is a series of problems. Do we want to moan about them or solve them? Do we want to teach our children to solve them?",
+   "Discipline is the basic set of tools we require to solve life's problems. Without discipline we can solve nothing. With only some discipline we can solve only some problems. With total discipline we can solve all problems.",
+   "What make life difficult is that the process of confronting and solving problems is a painful one. Problems, depending upon their nature, evoke in us frustration of grief, sadness, loneliness, guilt, regret, anger, fear, anxiety, anguish, despair. These are uncomfortable feelings, often very uncomfortable, often as painful as any kind of physical pain, sometimes equaling the very worst kind of physical pain. Indeed, it is because of the pain that events or conflicts engender in us all that we call them problems. And since life poses an endless series of problems, life is always difficult and is full of pain as well as joy.",
+   "Yet it is in this whole process of meeting and solving problems that life has its meaning. Problems are the cutting edge that distinguishes between success and failure. Problems call forth our courage and our wisdom; indeed, they create our courage and our wisdom. It is only because of problems that we grow mentally and spiritually. When we desire to encourage the growth of the human spirit, we challenge and encourage the human capacity to solve problems, just as in school we deliberately set problems for our children to solve. It is through the pain of confronting and resolving problems that we learn.",
+   "It is for this reason that wise people learn not to dread but actually to welcome problems and actually to welcome the pain of problems."
+  ],
+  "zh": [
+   "生活是艰辛的",
+   "生活是艰辛的，这是一个伟大的真理，最伟大的真理之一。这是一个伟大的真理是因为一旦我们认识到了这个真理我们就超越了(transcend)它。一旦我们真正地明白生命的艰辛——一旦我们真正地理解并接受它那么生命就不再艰辛。因为一旦它被接受了,这个事实便不再重要了大多数人并没能让你充分地认识到生活的艰辛。",
+   "对于他们的问题的严重性,他们的重担,和他们的困难,他们或多或少都有不停地(incessantly)，喧闹地(noisily)，或是不易察觉地抱怨,好像生活通常很容易,好像生命就应该很容易似的。他们或大声地或不明显地，说出他们的感觉，即他们的困难表现出一种本不该有的独特的折磨,而且也不知什么原因,这些困难总是找上他们，或是他们的其他家人,他们的部落,他们的阶层，他们的国家，或是他们的种族，而不是其他人。因为我已经做了我分内的事情所以我理解这种抱怨。",
+   "生活就是要面对一系列的问题。我们是想要抱怨它们还是解决这些问题?我们是否想要教会我们的子女们如何解决问题呢?",
+   "自制力(discipline)是我们需要解决这些问题的基本工具。没有自制力，我们就什么问题也处理不了。只有有些自制力了，我们才能解决某些问题。如果具备完全的自制力了，那我们就能处理好所有的问题。",
+   "让生活变得艰难的是面对困难(confront)和解决问题的痛苦过程。根据问题的不同的性质，它们唤起我们的悲痛，伤心，孤独，内疚,悔恨,愤怒，恐惧，焦虑,苦恼，或是绝望等挫败感。这些不舒服的感觉，通常是非常的不自在，通常是和身体上的病痛一样痛苦,有时候甚至比得上最严重的身体病痛。事实上，这是因为这些事情或是冲突让我们产生了痛苦,所以我们称之为问题。生活总是艰辛的，因为它给我们带来了无尽的问题，生活不仅有快乐，也充满痛苦。",
+   "然而,正是在遇到问题并解决问题的过程中,生活才具有意义。这些问题是区分成功和失败的领先阶段。这些问题激发我们的勇气和智慧;事实上,它们创造了我们的勇气和智慧。就是因为有了这些问题，我们才能得到思想上和精神上的成长。当我们渴望鼓励人文精神的发展时,我们挑战并鼓励人类解决问题的能力,就像我们在学校刻意给孩子们出题让他们来解决一样。正是通过历经面对问题和解决问题的痛苦，我们才能从中得到收获。",
+   "正是这个原因，智者学会不再害怕(dread),事实上，他们反而正视问题并且乐于接受问题带来的痛苦。"
+  ],
+  "vocab": [
+   {
+    "w": "transcend",
+    "ph": "[trænˈsend]",
+    "pos": "v.",
+    "d": "超出，超越（通常的界限）"
+   },
+   {
+    "w": "incessantly",
+    "ph": "[ɪnˈsesntli]",
+    "pos": "adv.",
+    "d": "不停地；持续不断地"
+   },
+   {
+    "w": "noisily",
+    "ph": "[ˈnɔɪzɪli]",
+    "pos": "adv.",
+    "d": "喧闹地"
+   },
+   {
+    "w": "subtly",
+    "ph": "[ˈsʌtli]",
+    "pos": "adv.",
+    "d": "不易察觉地；不明显地；微妙地"
+   },
+   {
+    "w": "enormity",
+    "ph": "[ɪˈnɔːməti]",
+    "pos": "n.",
+    "d": "巨大；深远影响；严重性"
+   },
+   {
+    "w": "burden",
+    "ph": "[ˈbɜːdn]",
+    "pos": "n.",
+    "d": "（义务、责任等的）重担，负担"
+   },
+   {
+    "w": "belief",
+    "ph": "[bɪˈliːf]",
+    "pos": "n.",
+    "d": "相信；信心"
+   },
+   {
+    "w": "unique",
+    "ph": "[juˈniːk]",
+    "pos": "adj.",
+    "d": "唯一的；独一无二的；独特的"
+   },
+   {
+    "w": "affliction",
+    "ph": "[əˈflɪkʃn]",
+    "pos": "n.",
+    "d": "折磨；痛苦"
+   },
+   {
+    "w": "especially",
+    "ph": "[ɪˈspeʃəli]",
+    "pos": "adv.",
+    "d": "尤其；特别；格外"
+   },
+   {
+    "w": "tribe",
+    "ph": "[traɪb]",
+    "pos": "n.",
+    "d": "部落"
+   },
+   {
+    "w": "species",
+    "ph": "[ˈspiːʃiːz]",
+    "pos": "n.",
+    "d": "种，物种（分类上小于属）"
+   },
+   {
+    "w": "discipline",
+    "ph": "[ˈdɪsəplɪn]",
+    "pos": "n.",
+    "d": "自制力；遵守纪律"
+   },
+   {
+    "w": "confront",
+    "ph": "[kənˈfrʌnt]",
+    "pos": "v.",
+    "d": "处理，解决（问题或困境）"
+   },
+   {
+    "w": "evoke",
+    "ph": "[ɪˈvəʊk]",
+    "pos": "v.",
+    "d": "引起，唤起（感情、记忆或形象）"
+   },
+   {
+    "w": "grief",
+    "ph": "[ɡriːf]",
+    "pos": "n.",
+    "d": "（尤指因某人去世引起的）悲伤，悲痛，伤心"
+   },
+   {
+    "w": "guilt",
+    "ph": "[ɡɪlt]",
+    "pos": "n.",
+    "d": "内疚；悔恨"
+   },
+   {
+    "w": "anxiety",
+    "ph": "[æŋˈzaɪəti]",
+    "pos": "n.",
+    "d": "焦虑；忧虑"
+   },
+   {
+    "w": "anguish",
+    "ph": "[ˈæŋɡwɪʃ]",
+    "pos": "n.",
+    "d": "剧痛；极度痛苦；苦恼"
+   },
+   {
+    "w": "despair",
+    "ph": "[dɪˈspeə(r)]",
+    "pos": "n.",
+    "d": "绝望"
+   },
+   {
+    "w": "uncomfortable",
+    "ph": "[ʌnˈkʌmftəbl]",
+    "pos": "adj.",
+    "d": "（使）焦虑的，尴尬的，害怕的，不自在的"
+   },
+   {
+    "w": "physical",
+    "ph": "[ˈfɪzɪkl]",
+    "pos": "adj.",
+    "d": "身体的；肉体的；躯体的"
+   },
+   {
+    "w": "equal",
+    "ph": "[ˈiːkwəl]",
+    "pos": "v.",
+    "d": "比得上；敌得过"
+   },
+   {
+    "w": "conflict",
+    "ph": "[ˈkɒnflɪkt]",
+    "pos": "n.",
+    "d": "冲突；争执；争论"
+   },
+   {
+    "w": "engender",
+    "ph": "[ɪnˈdʒendə(r)]",
+    "pos": "v.",
+    "d": "产生，引起（某种感觉或情况）"
+   },
+   {
+    "w": "pose",
+    "ph": "[pəʊz]",
+    "pos": "v.",
+    "d": "造成（威胁、问题等）；引起；产生"
+   },
+   {
+    "w": "distinguish",
+    "ph": "[dɪˈstɪŋɡwɪʃ]",
+    "pos": "v.",
+    "d": "区分；辨别；分清"
+   },
+   {
+    "w": "wisdom",
+    "ph": "[ˈwɪzdəm]",
+    "pos": "n.",
+    "d": "智慧；才智；精明"
+   },
+   {
+    "w": "mentally",
+    "ph": "[ˈmentəli]",
+    "pos": "adv.",
+    "d": "精神上；智力上；思想上"
+   },
+   {
+    "w": "spiritually",
+    "ph": "[ˈspɪrɪtʃuəli]",
+    "pos": "adv.",
+    "d": "精神上；心灵上"
+   },
+   {
+    "w": "desire",
+    "ph": "[dɪˈzaɪə(r)]",
+    "pos": "v.",
+    "d": "渴望；期望"
+   },
+   {
+    "w": "deliberately",
+    "ph": "[dɪˈlɪbərətli]",
+    "pos": "adv.",
+    "d": "故意；蓄意；存心"
+   },
+   {
+    "w": "instruct",
+    "ph": "[ɪnˈstrʌkt]",
+    "pos": "v.",
+    "d": "教授；指导"
+   },
+   {
+    "w": "dread",
+    "ph": "[dred]",
+    "pos": "v.",
+    "d": "非常害怕；极为担心"
+   }
+  ]
+ },
+ "B五B": {
+  "title_en": "Begin Again",
+  "title_zh": "重新开始",
+  "en": [
+   "To begin again means that you won't give up.",
+   "To begin again means you're trying.",
+   "You can either start over and live your life",
+   "Or spend the rest of your life slowly dying.",
+   "It is never the falling that makes us fail.",
+   "It is never the pain or the crying.",
+   "You can never fail in life, my friend,",
+   "Unless you give up trying.",
+   "It seems lately that more and more of my friends are facing some seemingly insurmountable challenges in their lives. A few have lost their jobs and some have failed marriages. All too many have health issues or are battleing cancer.",
+   "I don't know if it is desperation that causes them to turn to me for advice or whether they have come to value our friendship. But it is difficult, to say the least, to offer words of hope when all they feel is hopelessness. They expect answers, some magic waving of a wand, or a roadmap to get them back on their feet again.",
+   "I have often struggle with what to say. Mostly because I have faced many of the same challenges in my own life, I remember how empty I felt after someone cheerfully offered words like, \"Keep your chin up!\" \"Things will get better!\" \"Hang in there!\" \"it's always darkest...,\" etc.",
+   "Yes, even those who were quick to quote the Bible to me found me quite unreceptive at the time.",
+   "Now, as an inspiration writer, being thought of as a resource of hope or a good (or bad) example of what to do in life, I have even more people contacting me.",
+   "So, what do I say?",
+   "\"What can I do, Bob? I've lost my job. What do you suggest?\"",
+   "\"Begin again.\"",
+   "\"He walk out on me. My whole world just ended. What should I do?\"",
+   "\"Begin again.\"",
+   "\"Bob, I know both your son and your wife had cancer. I found out my wife does, too. What did you tell them?\"",
+   "\"Begin again.\"",
+   "It almost sounds too simple. I imagine in the darkest hours of one's life, those words would seem useless or uncaring. But it is indeed the answer.",
+   "All life challenges bring about an ending - and the chance for a beginning. A job loss presents an opportunity to start over somewhere else and maybe even in another career.",
+   "A failed marriage does not mean you are through loving or being loved. It means there are others just like you needing to be loved. Find them.",
+   "A life-threatening disease does not mean giving up. It means starting a new path to recovery and discovering within yourself the ability to fight back and win.",
+   "And if you are a person of faith, even death does not mean it's over. It means, \"to begin again.\""
+  ],
+  "zh": [
+   "重新开始意味着你不会放弃。",
+   "重新开始意味着你在努力。",
+   "你可以重新开始(start over)过你的生活",
+   "或者用余生慢慢死去。",
+   "让我们失败的绝不是失败。",
+   "它从来不是痛苦或哭泣。",
+   "生活中你永远不会失败，我的朋友，",
+   "除非你放弃尝试。",
+   "最近，我有越来越多的朋友在生活中面临着一些看似无法克服的挑战(challenge)。一些人失去了工作，一些人婚姻失败。很多人都有健康问题，或者正在与癌症作斗争(battle)。",
+   "我不知道他们是出于绝望(desperation)才向我寻求建议，还是已经开始重视(value)我们的友谊。但是，至少可以说，当他们感到绝望时，要说出充满希望的话是困难的。他们期待着答案，一些魔杖(wand)的魔法挥动，或者一个路线图，让他们重新站起来(on one's feet)。",
+   "我常常不知道该说些什么。主要是因为我自己的生活中也遇到过许多同样的挑战，所以我现在还记得，当有人兴高采烈地(cheerfully)说\"挺起你的下巴!\"这样的话时，我感到多么空虚。\"事情会好起来的!\"\"坚持住!\"\"这总是最黑暗的......\"等等。",
+   "是的，即使是那些很快引用(quote)《圣经》给我听的人，也发现我在当时很不受欢迎(unreceptive)。",
+   "现在，作为一个充满灵感(inspiration)的作家，人们认为我是希望的源泉，或者是生活中应该做什么的好(或坏)榜样，甚至有更多的人与我联系(contact)。",
+   "那么，我该怎么说呢?",
+   "\"我能做什么，鲍勃?我失业了。你有什么建议吗?\"",
+   "\"重新开始\"。",
+   "\"他抛弃了(walk out on)我。我的整个世界都结束了。我该怎么办?\"",
+   "\"重新开始\"。",
+   "\"鲍勃，我知道你的儿子和妻子都得了癌症。我发现我妻子也是。你跟他们说了什么?\"",
+   "\"重新开始\"。",
+   "这听起来太简单了。我想，在一个人生命中最黑暗的时刻，这些话似乎毫无用处或漠不关心(uncaring)。但这确实是答案。",
+   "所有的人生挑战都会带来(bring about)一个结束，也会带来一个开始的机会。失业给你提供了一个重新开始的机会，也许是另一种职业。",
+   "一段失败的婚姻并不意味着你在爱或被爱。这意味着还有其他人像你一样需要被爱。找到他们。",
+   "一种危及生命的(life-threatening)疾病并不意味着放弃。这意味着开始一条恢复(recovery)的新道路，发现自己有能力反击(fight back)并赢得胜利。",
+   "如果你是一个有信仰的人，即使死亡也不意味着一切都结束了。它的意思是\"重新开始\"。"
+  ],
+  "vocab": [
+   {
+    "w": "lately",
+    "ph": "[ˈleɪtli]",
+    "pos": "adv.",
+    "d": "最近；新近；近来；不久前"
+   },
+   {
+    "w": "insurmountable",
+    "ph": "[ˌɪnsəˈmaʊntəbl]",
+    "pos": "adj.",
+    "d": "（困难、问题等）无法克服的，难以解决的，不可逾越的"
+   },
+   {
+    "w": "challenge",
+    "ph": "[ˈtʃælɪndʒ]",
+    "pos": "n.",
+    "d": "挑战；艰巨任务"
+   },
+   {
+    "w": "battle",
+    "ph": "[ˈbætl]",
+    "pos": "v.",
+    "d": "（与...）搏斗；（与...）斗争"
+   },
+   {
+    "w": "desperation",
+    "ph": "[ˌdespəˈreɪʃn]",
+    "pos": "n.",
+    "d": "绝望；拼命；铤而走险"
+   },
+   {
+    "w": "value",
+    "ph": "[ˈvæljuː]",
+    "pos": "v.",
+    "d": "重视；珍视"
+   },
+   {
+    "w": "wand",
+    "ph": "[wɒnd]",
+    "pos": "n.",
+    "d": "魔杖"
+   },
+   {
+    "w": "cheerfully",
+    "ph": "[ˈtʃɪəfəli]",
+    "pos": "adv.",
+    "d": "快乐地；高兴地；兴高采烈地"
+   },
+   {
+    "w": "quote",
+    "ph": "[kwəʊt]",
+    "pos": "v.",
+    "d": "引用；引述"
+   },
+   {
+    "w": "unreceptive",
+    "ph": "[ˌʌnrɪˈseptɪv]",
+    "pos": "adj.",
+    "d": "（对新观点、建议等）不愿倾听的，不愿接受的"
+   },
+   {
+    "w": "inspiration",
+    "ph": "[ˌɪnspəˈreɪʃn]",
+    "pos": "n.",
+    "d": "鼓舞人心的人（或事物）"
+   },
+   {
+    "w": "contact",
+    "ph": "[ˈkɒntækt]",
+    "pos": "v.",
+    "d": "联系，联络（如用电话或信件）"
+   },
+   {
+    "w": "imagine",
+    "ph": "[ɪˈmædʒɪn]",
+    "pos": "v.",
+    "d": "料想；认为"
+   },
+   {
+    "w": "uncaring",
+    "ph": "[ʌnˈkeərɪŋ]",
+    "pos": "adj.",
+    "d": "冷漠的；无同情心的"
+   },
+   {
+    "w": "life-threatening",
+    "ph": "[ˈlaɪf θretnɪŋ]",
+    "pos": "adj.",
+    "d": "可能致命的；威胁着生命的"
+   },
+   {
+    "w": "recovery",
+    "ph": "[rɪˈkʌvəri]",
+    "pos": "n.",
+    "d": "恢复；痊愈"
+   }
+  ]
+ },
+ "B六A": {
+  "title_en": "Teaching Children to Spend Pocket Money Wisely",
+  "title_zh": "教导孩子明智地使用零花钱",
+  "en": [
+   "School-going children need pocket money for food, stationery and bus fares. Parents give pocket money to their children in different ways. Some give a lump sum at the beginning of a month or a week. Others prefer to give pocket money on a daily basis. The way in which pocket money is given affects how money is spent or saved. On the other hand, the children's spending habits may affect how pocket money is given.",
+   "Pocket money given on a daily basis is sometimes termed as \"food money\". Children usually use the pocket money to buy food during recess and also at lunch hour if they have school activities in the afternoon. They learn how to manage small sums of money. As the money is limited, they have to control their spending. Some parents choose this method of allocateing pocket money in order to prevent their children from overspending, hoping that in time they can be trusted with larger sums of money. Parents who earn daily wages may also opt for this due to financial constraints.",
+   "Giving pocket money on a daily basis places responsibilities of budgeting on the parents, instead of the child. The child may spend every single cent of the daily pocket money by overindulgeing in junk food as they know they will get another sum of money the next day. This result ins children being short-sighted in their spending. The thought of saving money never crossed their minds. They may develop the mentality that money is meant to be spent. Others spend more than they are given. They borrow from their siblings or their classmates when they feel like indulgeing themselves. Then they may ask for money to pay off their debts. This habit of borrowing causes them to depend on others to solve their problems. In such instances, the purpose of rationing is defeated.",
+   "Children need to learn how to budget their money. Some parents go by the \"learning by doing\" principle and give their children lump sums at the beginning of the month, and by the third week of the month their account is already dry.",
+   "On the other hand, some learn to budget their pocket money very well and even have savings at the end of the month. They do not borrow money unnecessarily. In other words, they learn to spend within their means. The key to doing this is to differentiate between needs and wants. Buy the necessary first, and indulge ourselves only if there is money left. This habit, when inculcated since young, stands them in good stead when they start working and earning their own money. It enables them to resist the temptation of \"buy now and pay later\" schemes.",
+   "Formation of any habit starts at a tender age. There is no better way to teach children to manage money than to start with their pocket money. They need to learn the importance of budgeting right from kindergarten days. It is a good idea to start with daily pocket money and move on to monthly pocket money. When children learn to spend within their means, they are able to manage their finances well later in their lives."
+  ],
+  "zh": [
+   "入学儿童需要零花钱来支付食品、文具(stationery)和公交费用(fare)。父母以不同的方式给孩子零花钱。有些父母在月初或是周一给孩子一笔钱(lump sum)。还有些父母每日(on a daily basis)给孩子一点儿零钱。以何种方式给零花钱影响到如何消费或是节省。另一方面，孩子的消费习惯也会影响到如何给他们零花钱。",
+   "每日给的零花钱有时称之为\"饭钱\"。如果下午有学校活动的话，孩子们在课间休息(recess)时或是午饭时间通常用这零花钱去买些吃的。他们学会如何管理一小部分钱。因为钱数有限，他们不得不控制消费。有些父母选择这样一种方式，即拨给(allocate)孩子一定零用钱来阻止他们超支(overspend)，并希望假以时日他们可以放心地给大点数额的钱。出于财务限制(constraint)，赚取日工资的父母也可能选择(opt)这样的方式。",
+   "按日给零花钱对于父母来说有重要的预算(budget)意义，而不是孩子。孩子知道第二天还能得到一笔零花钱，因而会花光每一分钱，暴食(overindulge)垃圾食品。这导致(result in)孩子在消费上没有远见(short-sighted)。他们脑子里根本没有节约用钱的观念。他们可能发展出钱就是用来花的心态。有些孩子花的比给的还多。当不够花时，他们从兄弟姐妹(sibling)或是同学那借钱。他们可能要钱来偿还(pay off)他们的债务。这种借钱的习惯导致他们依赖别人来解决问题。在这样的情况下，定量配给(rationing)的目的就没有达到。",
+   "子女需要学会如何将零花钱做预算。一些父母采用\"从实践中学习\"的原则(principle)，在月初的时候给孩子一笔钱，结果在当月第三周他们就花光了一个月的零钱。",
+   "另一方面，有些孩子学会了很好地为零钱做预算，甚至在月末的时候有结余。他们没必要(unnecessarily)借钱。换句话说，他们学会了量入为出(within one's means)。这样做的关键是区分(differentiate)需要的和想要的。先买需要的东西，如果钱还有剩余,再消费他们想要的。年幼时因反复灌输(inculcate)而养成的习惯就会使他们在开始工作赚钱时受益(stand in good stead)。这让他们能够抵挡住(resist)\"先消费后支付\"的诱惑(temptation)。",
+   "任何习惯的形成(formation)都始于幼年。教育孩子如何管理金钱，从管理他们的零花钱开始是最好的方法。从幼儿园(kindergarten)时期，他们就需要学会正确的做开支的重要性。一个好办法是从每日的零用钱开始，逐步过渡到每月的零用钱。当子女学会了量入为出，他们在以后的生活中也就能够管理好他们的财产。"
+  ],
+  "vocab": [
+   {
+    "w": "stationery",
+    "ph": "[ˈsteɪʃənri]",
+    "pos": "n.",
+    "d": "文具"
+   },
+   {
+    "w": "fare",
+    "ph": "[feə(r)]",
+    "pos": "n.",
+    "d": "车费；船费；飞机票价"
+   },
+   {
+    "w": "lump sum",
+    "ph": "[lʌmp sʌm]",
+    "pos": "n.",
+    "d": "一次总付的钱款"
+   },
+   {
+    "w": "recess",
+    "ph": "[rɪˈses]",
+    "pos": "n.",
+    "d": "课间休息"
+   },
+   {
+    "w": "allocate",
+    "ph": "[ˈæləkeɪt]",
+    "pos": "v.",
+    "d": "拨（给）；划（给）；分配（给）"
+   },
+   {
+    "w": "overspend",
+    "ph": "[ˌəʊvəˈspend]",
+    "pos": "v.",
+    "d": "花钱过多；比（预计的）花得多；超支"
+   },
+   {
+    "w": "opt",
+    "ph": "[ɒpt]",
+    "pos": "v.",
+    "d": "选择；挑选"
+   },
+   {
+    "w": "constraint",
+    "ph": "[kənˈstreɪnt]",
+    "pos": "n.",
+    "d": "限制；限定；约束"
+   },
+   {
+    "w": "budget",
+    "ph": "[ˈbʌdʒɪt]",
+    "pos": "v.",
+    "d": "谨慎花钱；把...编入预算"
+   },
+   {
+    "w": "overindulge",
+    "ph": "[ˌəʊvərɪnˈdʌldʒ]",
+    "pos": "v.",
+    "d": "过多地享用（尤指食物或饮料）"
+   },
+   {
+    "w": "short-sighted",
+    "ph": "[ˌʃɔːt ˈsaɪtɪd]",
+    "pos": "adj.",
+    "d": "目光短浅的；没有远见的"
+   },
+   {
+    "w": "mentality",
+    "ph": "[menˈtæləti]",
+    "pos": "n.",
+    "d": "心态；思想状况；思想方法"
+   },
+   {
+    "w": "sibling",
+    "ph": "[ˈsɪblɪŋ]",
+    "pos": "n.",
+    "d": "兄；弟；姐；妹"
+   },
+   {
+    "w": "indulge",
+    "ph": "[ɪnˈdʌldʒ]",
+    "pos": "v.",
+    "d": "沉湎，沉迷，沉溺（于...）"
+   },
+   {
+    "w": "rationing",
+    "ph": "[ˈræʃənɪŋ]",
+    "pos": "n.",
+    "d": "定量配给政策；配给制"
+   },
+   {
+    "w": "principle",
+    "ph": "[ˈprɪnsəpl]",
+    "pos": "n.",
+    "d": "观念；（行动、思想的）理由，信条"
+   },
+   {
+    "w": "unnecessarily",
+    "ph": "[ʌnˈnesəsərəli]",
+    "pos": "adv.",
+    "d": "没必要地"
+   },
+   {
+    "w": "differentiate",
+    "ph": "[ˌdɪfəˈrenʃieɪt]",
+    "pos": "v.",
+    "d": "区分；区别；辨别"
+   },
+   {
+    "w": "inculcate",
+    "ph": "[ˈɪnkʌlkeɪt]",
+    "pos": "v.",
+    "d": "反复灌输；谆谆教诲"
+   },
+   {
+    "w": "resist",
+    "ph": "[rɪˈzɪst]",
+    "pos": "v.",
+    "d": "忍住；抵挡"
+   },
+   {
+    "w": "temptation",
+    "ph": "[tempˈteɪʃn]",
+    "pos": "n.",
+    "d": "引诱；诱惑"
+   },
+   {
+    "w": "scheme",
+    "ph": "[skiːm]",
+    "pos": "n.",
+    "d": "计划；方案；体系；体制"
+   },
+   {
+    "w": "formation",
+    "ph": "[fɔːˈmeɪʃn]",
+    "pos": "n.",
+    "d": "组成；形成"
+   },
+   {
+    "w": "kindergarten",
+    "ph": "[ˈkɪndəɡɑːtn]",
+    "pos": "n.",
+    "d": "幼儿园"
+   },
+   {
+    "w": "monthly",
+    "ph": "[ˈmʌnθli]",
+    "pos": "adj.",
+    "d": "按月结算的；有效期为一个月的"
+   }
+  ]
+ },
+ "B六B": {
+  "title_en": "The Importance of Money in Life",
+  "title_zh": "金钱在生活中的重要性",
+  "en": [
+   "What were you taught about money as you were growing up? Something like \"money doesn't grow on trees\", or \"money is the root of all evil\", or maybe \"all rich people are greedy\"?",
+   "Well, how do you expect to become a success financially if you believe these things? You attract into your life what you are thinking about and what you believe. If you think there is not enough money in this world for everyone you will never have enough money. That is called the Law of Attraction.",
+   "First of all, believing that \"money doesn't grow on trees\" is an example of what's called lack or scarcity programming. Our parents taught us that there was never enough money to go around, and that it was not readily available or abundant. But in truth, the universe is very abundant, and there is lots of money to go around for everyone.",
+   "Just think what you could do if you have as much money as your heart desires What wonderful things you could do with it:",
+   "The key is to start thinking that you deserve the money and that there is lots of it available for you, and then you can start attracting it into your life. That's abundance thinking, which is the opposite of lack or scarcity thinking. When you start thinking about the abundance the Law of Attraction will do the rest. You do not need to know how it is going to happen. Just make the first step, first thought. Starting is already winning.",
+   "And what about thinking that \"money is the root of all evil\"? Can you really expect to become a success if you believe that money is the root of all evil? Unless you have a desire to be an evil person, your subconscious will not let you have money if you believe deep down that it is the root of all evil.",
+   "By the way, that quote is taken out of context in the first place. It was originally stated as \"the love of money is the root of all evil\". So it has nothing to do with the money itself.",
+   "Now that you understand that, you can start to think that money is in fact good. You can help people with money. You can stimulate the economy with money. Even the most kind-hearted spiritual person, who says they don't need money, can do more to make the world a better place with money than without it.",
+   "And what about thinking that \"all rich people are greedy\"? Well, that creates us versus them, whereby you have labeled all of \"them\" greedy in your mind. You, on the other hand, are very giving in your mind. That's why you don't have money, because you're not greedy.",
+   "Sure, there must be some rich people in the world who are greedy. But there are also poor people who are greedy. There are both rich and poor people who are very giving as well. The amount of money you have has nothing to do with these character traits.",
+   "In fact, a lot of rich people got there by not being greedy. Having a giving attitude open ups a flow of money that often brings them more. You will find the same thing: give away money joyfully to a friend, and notice that it comes back to you in some other form. The world needs to be a balance of give and take, and being joyful both as you give and receive will ensure that you always go with the flow.",
+   "And changing your mindset from what you were taught as a child to a healthier view of money will allow you to become the financial success you deserve to be, to become the real you."
+  ],
+  "zh": [
+   "在你的成长过程中，教育你该如何看待金钱？比方说\"钱不是长在树上的\"，或是\"金钱是万恶之源(evil)\"，可能或是\"所有的富人都是贪婪的(greedy)\"?",
+   "那么，如果你相信这些，你是如何期待获得经济上(financially)的成功呢?你所想的和你所相信的会吸引到你的人生中。如果你认为在这个世界上没有为每个人准备足够的钱，那么你就永远不会有足够的钱。这就是吸引定律。",
+   "首先，相信\"钱不是长在树上的\"，这是一个所谓的缺乏规划的例子。我们的父母教育我们世上没有足够的钱，而且钱不能轻而易举地(readily)得到，也不会很充裕(abundant)。但是事实上，宇宙(universe)之大，是有充足的钱为每个人的。",
+   "设想一下，如果你拥有和你的心中想得到的一样多的金钱，你会做些什么？你可以用它做很多美好的事情:",
+   "关键是你要开始思考你值得拥有这些钱，而且这些钱可以为你所用，然后你就能够吸引钱财到你的生命中来。大量(abundance)的思考，这是与缺乏思考相对立(opposite)的。当你开始无限思考的时候，吸引定律会完成剩下的部分。你不需要知道他将怎样发生。只要你迈出这第一步，首先思考。开始就已经赢得成功。",
+   "那该如何看待\"金钱是万恶之源\"？如果你相信金钱是万恶之源，你会真的希望获得成功吗？如果你从心底(deep down)认同金钱是万恶之源，那么除非你想当个恶人，否则，你的潜意识(subconscious)就不会让你有钱。",
+   "顺便说一下，首先这句引用语是原话的一部分。它原本(originally)是说\"贪财是万恶之源\"。所以这跟金钱本身没什么关系。",
+   "既然你明白了这一点，你就可以开始认为金钱其实是个好东西。你可以用钱来帮助别人。你可以用钱来刺激(stimulate)经济(economy)。甚至是心灵最善良的，常说他们不需要钱的人，能够用钱让这个世界变得更加美好。",
+   "那如何看待\"所有的富人都是贪婪的\"？其实，导致我们对他们心生抵触(versus)的原因，是你思想上给\"他们\"贴了贪婪的标签(label)。另一方面，你在你头脑里太大方了。这就是为什么你没有钱，因为你不贪心。",
+   "当然，这世上肯定有些非常贪婪的富人。但是，也有些穷人也很贪婪。同样，不管是富人还是穷人也有很慷慨大方的。所以你有多少钱和你自身的性格特点没什么关系。",
+   "事实上，很多富人并不是因为贪婪而获得财富。拥有一个给予的态度经常能给他们带来更多流动(open up)的钱。你会发现同样的情况:快乐地(joyfully)赠与朋友金钱，并注意到它会以其他形式回到你身边。在这世上，给予和接受是需要相互平衡(balance)的，只有乐于接受，同时也乐于给予，才能保证你永远不会为钱发愁。",
+   "改变你儿时被教育的观念模式，树立一个更健康的金钱观，这会让你获得你本应得到的经济上的成功，做一个真实的自己。"
+  ],
+  "vocab": [
+   {
+    "w": "root",
+    "ph": "[ruːt]",
+    "pos": "n.",
+    "d": "根源；起因"
+   },
+   {
+    "w": "evil",
+    "ph": "[ˈiːvl]",
+    "pos": "n.",
+    "d": "邪恶；罪恶；恶行"
+   },
+   {
+    "w": "greedy",
+    "ph": "[ˈɡriːdi]",
+    "pos": "adj.",
+    "d": "贪婪的；贪心的"
+   },
+   {
+    "w": "financially",
+    "ph": "[faɪˈnænʃəli]",
+    "pos": "adv.",
+    "d": "经济上"
+   },
+   {
+    "w": "readily",
+    "ph": "[ˈredɪli]",
+    "pos": "adv.",
+    "d": "快捷地；轻而易举地；便利地"
+   },
+   {
+    "w": "available",
+    "ph": "[əˈveɪləbl]",
+    "pos": "adj.",
+    "d": "可获得的；可购得的；可找到的"
+   },
+   {
+    "w": "abundant",
+    "ph": "[əˈbʌndənt]",
+    "pos": "adj.",
+    "d": "大量的；丰盛的；充裕的"
+   },
+   {
+    "w": "universe",
+    "ph": "[ˈjuːnɪvɜːs]",
+    "pos": "n.",
+    "d": "宇宙；天地万物；万象"
+   },
+   {
+    "w": "scared",
+    "ph": "[skeəd]",
+    "pos": "adj.",
+    "d": "害怕的；恐惧的；畏惧的；担心的"
+   },
+   {
+    "w": "meditation",
+    "ph": "[ˌmedɪˈteɪʃn]",
+    "pos": "n.",
+    "d": "冥想；沉思；深思"
+   },
+   {
+    "w": "donate",
+    "ph": "[dəʊˈneɪt]",
+    "pos": "v.",
+    "d": "（尤指向慈善机构）捐赠，赠送"
+   },
+   {
+    "w": "favorite",
+    "ph": "[ˈfeɪvərɪt]",
+    "pos": "adj.",
+    "d": "最喜爱的"
+   },
+   {
+    "w": "charity",
+    "ph": "[ˈtʃærəti]",
+    "pos": "n.",
+    "d": "慈善机构（或组织）"
+   },
+   {
+    "w": "abundance",
+    "ph": "[əˈbʌndəns]",
+    "pos": "n.",
+    "d": "大量；丰盛；充裕"
+   },
+   {
+    "w": "opposite",
+    "ph": "[ˈɒpəzɪt]",
+    "pos": "n.",
+    "d": "对立的人（或物）；对立面；反面"
+   },
+   {
+    "w": "subconscious",
+    "ph": "[ˌsʌbˈkɒnʃəs]",
+    "pos": "n.",
+    "d": "潜意识"
+   },
+   {
+    "w": "originally",
+    "ph": "[əˈrɪdʒənəli]",
+    "pos": "adv.",
+    "d": "原来；起初"
+   },
+   {
+    "w": "stimulate",
+    "ph": "[ˈstɪmjuleɪt]",
+    "pos": "v.",
+    "d": "促进；激发；激励"
+   },
+   {
+    "w": "economy",
+    "ph": "[ɪˈkɒnəmi]",
+    "pos": "n.",
+    "d": "经济；经济情况；经济结构"
+   },
+   {
+    "w": "versus",
+    "ph": "[ˈvɜːsəs]",
+    "pos": "prep.",
+    "d": "（表示两队或双方对阵）对，诉，对抗"
+   },
+   {
+    "w": "whereby",
+    "ph": "[weəˈbaɪ]",
+    "pos": "conj.",
+    "d": "凭此；藉以；由于"
+   },
+   {
+    "w": "label",
+    "ph": "[ˈleɪbl]",
+    "pos": "v.",
+    "d": "（尤指不公正地）把...称为"
+   },
+   {
+    "w": "joyfully",
+    "ph": "[ˈdʒɔɪfəli]",
+    "pos": "adv.",
+    "d": "快乐地"
+   },
+   {
+    "w": "balance",
+    "ph": "[ˈbæləns]",
+    "pos": "n.",
+    "d": "均衡；平衡；均势"
+   },
+   {
+    "w": "mindset",
+    "ph": "[ˈmaɪndset]",
+    "pos": "n.",
+    "d": "观念模式；思维倾向"
+   }
+  ]
+ },
+ "B七A": {
+  "title_en": "Your Inner Voice",
+  "title_zh": "你的心声",
+  "en": [
+   "My day started just like all the other days for the past 15 years where I get up, make some coffee, shower, get dressed and leave for the train station at precisely 7:35 A.M. to arrive at work by 8:30. While on the train I would always choose a seat away from the crowd so I can read the newspaper in peace and quiet. At work I am always being bombarded with questions from coworkers, suppliers, telephone and then those dreaded meetings, so the last thing I need is small talk with a stranger sitting next to me.",
+   "I don't know why but for some reason when I got on the train today it was unusually full, something I don't recall ever happening in the past. With hesitation I sat down in the only seat available beside a middle-aged man that had his head down and seemed to be lost in his thoughts. I was glad that he didn't notice when I sat next to him as he just continued to look down towards the floor.",
+   "Shortly after the train left for my 30-minute ride downtown I found myself wondering what this man was thinking about. What could be so important that he didn't even see me sit next to him? I tried to forget about it and started to read my paper. However, for some strange reason this inner voice kept prompting me to talk to this man. I tried to ignore the voice as there was no way I was starting a conversation with a complete stranger.",
+   "As you probably guessed I eventually break down and come up with an excuse to ask him a question. When he raised his head and turned his eyes towards me I could see that he must have been really upset as he had red eyes and still had some tears rolling down the side of his face despite his feeble attempt to wipe them away. I can't describe the sadness I felt seeing someone in so much pain.",
+   "We talked for about 20 minutes and in the end he seemed to be doing better. As we were leaving the train he thanked me profusely for being an angel by taking the time to talk. I never did find out what was making his heart so heavy with pain but was glad I listened to the voice that day.",
+   "Several weeks had passed when I noticed an envelope on my desk after returning from lunch. It was not addressed to anyone and only had the word angel written on it. My receptionist attached a note saying a gentleman drop...off saying he did not know my name but had described me well enough that the receptionist knew it was for me. When I read the note inside the envelope I was so filled with emotions that I couldn't contain myself. It was a letter from the man I met on the train thanking me again for talking to him and saving his life that day.",
+   "apparently he had some very hurtful personal problems that were so overwhelming that he was planning to take one's own life that day. In his letter he went on to explain that he was a religious person and in desperation screamed out to God that if God really care about him he would send someone to prevent him from taking his life. In his eyes I was that someone, that Angel sent by God.",
+   "Not being a religious person myself I don't know what that voice was that made me take a chance and talk to a stranger but I do know that it make a difference in someone's life that day. So the next time you feel prompted for no apparent reason to talk to a friend, relative, neighbor or even a complete stranger please remember my story, you just may make a difference in someone's life when you listen to your inner voice."
+  ],
+  "zh": [
+   "在过去的15年里，我每日都以相同的方式开始一天的生活，起床，烧咖啡，洗澡，穿衣服,然后早上7点35分准时(precisely)出门去火车站，8点30到上班地点。当我上了火车，我通常选个远离人群的座位,这样我就可以安静地读报纸。工作中，我要无休止地应对(bombard)同事、供应商提出的各种问题,电话总是响个不停,还有那些令人恐惧的(dreaded)会议，所以我最不想做的事就是和坐在身边的陌生人闲聊(small talk)。",
+   "我不知道是什么原因，那天火车上异常的拥挤，我印象中这种情况过去从没发生过。我有些犹豫(hesitation)地坐在了一个中年男人旁仅有的一个空座。那个男人低着头,像是陷入了沉思(be lost in one's thought)。我很高兴当我在他身旁坐下时他没有注意到我，因为他依然低头看着地板。",
+   "很快火车开了,30分钟后驶入市区，我发现我自己开始好奇(wonder)那个男人在思考什么。是什么事情如此重要以至于他根本没有看到我在他身边坐下?我想试图忘记这个事，所以开始看我的报纸。然而,出于某种奇怪的原因，这个心理暗示一直不断促使(prompt)我和他讲话。我努力不去理会这个念头，因为没有什么办法能让我和这个完全(complete)陌生的人开始聊起来。",
+   "你可能已经猜到了,最终我打破僵局(break down)，找到一个借口(come up with)问了他一个问题。当他抬起头，眼睛向我看过来时，我可以看出他的内心肯定是非常难过(upset)的，因为他两眼通红，而且尽管他曾试图去擦掉眼泪，可脸颊上还是挂着滚下(roll)的泪珠。尽管(despite)他曾无力地(feeble)试图(attempt)擦掉(wipe)眼泪。我无法形容当看到某人如此痛苦时，自己是如何的悲伤。",
+   "我们聊了20来分钟，最后他看起来好多了。当我们下车时,他对我连声道谢(profusely)，感谢我像一个天使一样陪他说了这么长时间话。我一直不知道到底是什么原因让他内心如此沉重，但是我很高兴那天我听从了自己的心声。",
+   "几周过去了,一天午饭回来,我注意到我桌子上有一个信封。它没有写收信人的姓名(address)，只写着一个单词\"天使\"。我的接待员(receptionist)附上(attach)了一个便条，说是一位绅士留下的信，那位绅士不知道我的名字,但从他细致地描述可知是留给我的信。当我打开信封，读着信封里的便笺，我激动得不能自己。这正是我火车上碰见的那位男士写给我的信。他再一次感谢我那天和他谈话并救了他一条命。",
+   "很显然(apparently)他遇到了一些伤感的个人问题。他如此痛苦(overwhelming)以至于那天打算自杀(take one's own life)。在他的信里,他继续解释道他是一个信教徒,在绝望中(in desperation)，他大声呼唤(scream)上帝,如果上帝真的关心(care about)他,就会派一位天使来阻止他自杀。在他眼里,我就是上帝派来的那位天使。",
+   "我自己并不信教，我不知道当时为何会有冒险(take a chance)和陌生人讲话的念头，但是我确定这使得某个人的生活在那天发生了改变(make a difference)。因此,当下次你感觉无缘无故地想和一个朋友、亲戚、邻居或者甚至是一个陌生人讲话的时候，请记得我的故事。当你听从了你的心声,你可能就此改变了某个人的生活。"
+  ],
+  "vocab": [
+   {
+    "w": "inner",
+    "ph": "[ˈɪnə(r)]",
+    "pos": "adj.",
+    "d": "内心的；隐藏的"
+   },
+   {
+    "w": "precisely",
+    "ph": "[prɪˈsaɪsli]",
+    "pos": "adv.",
+    "d": "准确地；恰好地"
+   },
+   {
+    "w": "bombard",
+    "ph": "[bɒmˈbɑːd]",
+    "pos": "v.",
+    "d": "大肆抨击；连珠炮似地质问；提供过多信息"
+   },
+   {
+    "w": "dreaded",
+    "ph": "[ˈdredɪd]",
+    "pos": "adj.",
+    "d": "令人害怕的；可怕的"
+   },
+   {
+    "w": "small talk",
+    "ph": "[smɔːl tɔːk]",
+    "pos": "n.",
+    "d": "寒喧；闲谈；聊天"
+   },
+   {
+    "w": "hesitation",
+    "ph": "[ˌhezɪˈteɪʃn]",
+    "pos": "n.",
+    "d": "犹豫"
+   },
+   {
+    "w": "wonder",
+    "ph": "[ˈwʌndə(r)]",
+    "pos": "v./n.",
+    "d": "想知道；想弄明白；琢磨；奇迹"
+   },
+   {
+    "w": "prompt",
+    "ph": "[prɒmpt]",
+    "pos": "v.",
+    "d": "促使；导致；激起"
+   },
+   {
+    "w": "complete",
+    "ph": "[kəmˈpliːt]",
+    "pos": "adj.",
+    "d": "（用以强调）完全的，彻底的"
+   },
+   {
+    "w": "upset",
+    "ph": "[ʌpˈset]",
+    "pos": "adj.",
+    "d": "难过的；不高兴的；沮丧的"
+   },
+   {
+    "w": "roll",
+    "ph": "[rəʊl]",
+    "pos": "v.",
+    "d": "（使）翻滚，滚动"
+   },
+   {
+    "w": "despite",
+    "ph": "[dɪˈspaɪt]",
+    "pos": "prep.",
+    "d": "即使；尽管"
+   },
+   {
+    "w": "feeble",
+    "ph": "[ˈfiːbl]",
+    "pos": "adj.",
+    "d": "无效的；无力的"
+   },
+   {
+    "w": "attempt",
+    "ph": "[əˈtempt]",
+    "pos": "n./v.",
+    "d": "企图；试图；尝试"
+   },
+   {
+    "w": "wipe",
+    "ph": "[waɪp]",
+    "pos": "v.",
+    "d": "（用布、手等）擦干净，抹掉"
+   },
+   {
+    "w": "profusely",
+    "ph": "[prəˈfjuːsli]",
+    "pos": "adv.",
+    "d": "大量地；连连地"
+   },
+   {
+    "w": "address",
+    "ph": "[əˈdres]",
+    "pos": "v.",
+    "d": "写（收信人）姓名地址；致函"
+   },
+   {
+    "w": "receptionist",
+    "ph": "[rɪˈsepʃənɪst]",
+    "pos": "n.",
+    "d": "接待员"
+   },
+   {
+    "w": "attach",
+    "ph": "[əˈtætʃ]",
+    "pos": "v.",
+    "d": "把...固定，把...附（在...上）"
+   },
+   {
+    "w": "emotion",
+    "ph": "[ɪˈməʊʃn]",
+    "pos": "n.",
+    "d": "强烈的感情；情感；情绪"
+   },
+   {
+    "w": "contain",
+    "ph": "[kənˈteɪn]",
+    "pos": "v.",
+    "d": "控制，克制，抑制（感情）"
+   },
+   {
+    "w": "apparently",
+    "ph": "[əˈpærəntli]",
+    "pos": "adv.",
+    "d": "据...所知；看来；显然"
+   },
+   {
+    "w": "overwhelming",
+    "ph": "[ˌəʊvəˈwelmɪŋ]",
+    "pos": "adj.",
+    "d": "巨大的；压倒性的；无法抗拒的"
+   },
+   {
+    "w": "scream",
+    "ph": "[skriːm]",
+    "pos": "v.",
+    "d": "高声喊，大声叫"
+   }
+  ]
+ },
+ "B七B": {
+  "title_en": "Make a Good First Impression",
+  "title_zh": "如何给人留下良好的第一印象",
+  "en": [
+   "At a dinner party in New York, one of the guests, a woman who had inherited money, was eager to make a pleasing impression on everyone. She had squandered a modest fortune on sables, diamonds and pearls. But she hadn't done anything whatsoever about her face. It radiated sourness and selfishness. She didn't realize what everyone knows: namely, the expression one wears on one's face is far more important than the clothes one wears on one's back.",
+   "Actions speak louder than words, and a smile says, \"I like you. You make me happy. I am glad to see you.\" That is why dogs make such a hit. They are so glad to see us that they almost jump out of one's skin. So, naturally, we are glad to see them.",
+   "A baby's smile has the same effect.",
+   "Have you ever been in a doctor's waiting room and looked around at all the glum faces waiting impatiently to be seen? Dr. Stephen K. Sproul, a veterinarian in Raytown, Missouri, told of a typical spring day when his waiting room was full of clients waiting to have their pets inoculated. No one was talking to anyone else, and all were probably thinking of a dozen other things they would rather be doing than \"wasting time\" sitting in that office. He told one of our classes:",
+   "The ancient Chinese were a wise lot - wise in the ways of the world; and they had a proverb that you and I ought to cut out and paste inside our hats. It goes like this, \"A man without a smiling face must not open a shop.\"",
+   "Your smile is a messenger of your goodwill. Your smile brightens the lives of all who see it. To someone who has seen a dozen people frown, scowl or turn their faces away, your smile is like the sun breaking through the clouds. Especially when that someone is under pressure from his bosses, his customers, his teachers or parents or children, a smile can help him realize that all is not hopeless - that there is joy in the world."
+  ],
+  "zh": [
+   "在纽约举行的一个晚宴聚会上,有一位得到大笔遗产的女宾客迫切想要给每一个人留下一个好印象。她不惜重金买来貂皮、钻石和珍珠,但是在自己的脸上却没有下任何工夫——一脸的尖酸刻薄、自私自利。她没有意识到一个众所周知的道理:一个人的面部表情要比身上的衣服重要得多。",
+   "行动比语言更有力。一个微笑表达的是:\"我喜欢你，你让我感到很开心，我非常高兴见到你。\"这就是小狗得宠的原因。小狗见到我们会表现出欣喜若狂的高兴劲儿,所以，我们见到小狗自然也感觉很开心。",
+   "婴儿的微笑也有同样的效果。",
+   "你曾经在医生的候诊室里留意过那些等待看病的阴郁面孔吗?密苏里州雷顿市的兽医史蒂芬·史波尔告诉过我一件事:在某年的一个春天,他的候诊室里排满了前来给宠物接种疫苗的人，没有人闲聊，他们大概都在想着其他更愿意做的事情,而不是待在候诊室里\"浪费时间\"。他在我们的一堂课上讲道:",
+   "古代的中国人充满智慧,他们有一句格言，你应剪下来，贴在你帽子里。那句格言是:\"不笑莫开店\"(人们如果脸上没有带着笑容,千万别开店)。",
+   "你的微笑是你的善意的使者。你的微笑让所有看到它的人都活跃起来。对于某些面对着蹙眉，无视或是转过脸去的人来说，你的微笑就像是穿透乌云的阳光。尤其是当他们处于他们的老板、客户、老师、父母或是子女的压力之下,一个微笑能够让他意识到所有这一切都不是无望的——世上还是有欢乐的。"
+  ],
+  "vocab": [
+   {
+    "w": "inherit",
+    "ph": "[ɪnˈherɪt]",
+    "pos": "v.",
+    "d": "继承（金钱、财物等）"
+   },
+   {
+    "w": "pleasing",
+    "ph": "[ˈpliːzɪŋ]",
+    "pos": "adj.",
+    "d": "令人高兴的；令人满意的"
+   },
+   {
+    "w": "squander",
+    "ph": "[ˈskwɒndə(r)]",
+    "pos": "v.",
+    "d": "浪费，挥霍（金钱、时间等）"
+   },
+   {
+    "w": "modest",
+    "ph": "[ˈmɒdɪst]",
+    "pos": "adj.",
+    "d": "些许的；不太大的"
+   },
+   {
+    "w": "fortune",
+    "ph": "[ˈfɔːtʃuːn]",
+    "pos": "n.",
+    "d": "大笔的钱；巨款；运气；命运"
+   },
+   {
+    "w": "sable",
+    "ph": "[ˈseɪbl]",
+    "pos": "n.",
+    "d": "貂皮"
+   },
+   {
+    "w": "radiate",
+    "ph": "[ˈreɪdieɪt]",
+    "pos": "v.",
+    "d": "（使品质或感）显出，流露"
+   },
+   {
+    "w": "sourness",
+    "ph": "[ˈsaʊənəs]",
+    "pos": "n.",
+    "d": "阴郁；没好气；乖张的脾气"
+   },
+   {
+    "w": "namely",
+    "ph": "[ˈneɪmli]",
+    "pos": "adv.",
+    "d": "即；也就是"
+   },
+   {
+    "w": "expression",
+    "ph": "[ɪkˈspreʃn]",
+    "pos": "n.",
+    "d": "表情；神色"
+   },
+   {
+    "w": "wear",
+    "ph": "[weə(r)]",
+    "pos": "v.",
+    "d": "流露；面带"
+   },
+   {
+    "w": "hit",
+    "ph": "[hɪt]",
+    "pos": "n.",
+    "d": "受欢迎的人（或事物）"
+   },
+   {
+    "w": "glum",
+    "ph": "[ɡlʌm]",
+    "pos": "adj.",
+    "d": "忧郁的；闷闷不乐的"
+   },
+   {
+    "w": "veterinarian",
+    "ph": "[ˌvetərɪˈneəriən]",
+    "pos": "n.",
+    "d": "兽医"
+   },
+   {
+    "w": "inoculate",
+    "ph": "[ɪˈnɒkjuleɪt]",
+    "pos": "v.",
+    "d": "（给...）接种，打预防针"
+   },
+   {
+    "w": "kitten",
+    "ph": "[ˈkɪtn]",
+    "pos": "n.",
+    "d": "小猫"
+   },
+   {
+    "w": "distraught",
+    "ph": "[dɪˈstrɔːt]",
+    "pos": "adj.",
+    "d": "心烦意乱的；心急如焚的"
+   },
+   {
+    "w": "characteristic",
+    "ph": "[ˌkærəktəˈrɪstɪk]",
+    "pos": "adj./n.",
+    "d": "典型的；独特的；特有的/特征，特点"
+   },
+   {
+    "w": "reception",
+    "ph": "[rɪˈsepʃn]",
+    "pos": "n.",
+    "d": "接待处"
+   },
+   {
+    "w": "boredom",
+    "ph": "[ˈbɔːdəm]",
+    "pos": "n.",
+    "d": "厌烦；厌倦；无聊"
+   },
+   {
+    "w": "tension",
+    "ph": "[ˈtenʃn]",
+    "pos": "n.",
+    "d": "（情绪上的）紧张，烦躁"
+   },
+   {
+    "w": "convert",
+    "ph": "[kənˈvɜːt]",
+    "pos": "v.",
+    "d": "（使）转变，转换，转化"
+   },
+   {
+    "w": "paste",
+    "ph": "[peɪst]",
+    "pos": "v.",
+    "d": "粘贴；粘合"
+   },
+   {
+    "w": "messenger",
+    "ph": "[ˈmesɪndʒə(r)]",
+    "pos": "n.",
+    "d": "邮递员；信使"
+   },
+   {
+    "w": "goodwill",
+    "ph": "[ˌɡʊdˈwɪl]",
+    "pos": "n.",
+    "d": "友善；友好；善意"
+   },
+   {
+    "w": "brighten",
+    "ph": "[ˈbraɪtn]",
+    "pos": "v.",
+    "d": "（使）快活起来"
+   },
+   {
+    "w": "frown",
+    "ph": "[fraʊn]",
+    "pos": "v.",
+    "d": "皱眉；蹙额"
+   },
+   {
+    "w": "scowl",
+    "ph": "[skaʊl]",
+    "pos": "v.",
+    "d": "怒视（某人或某事）"
+   }
+  ]
+ },
+ "B八A": {
+  "title_en": "Life Without Limits",
+  "title_zh": "没有限制的生活",
+  "en": [
+   "Imagine being born without arms. No arms to wrap around someone, no hands to experience touch, or to hold another hand with. Or what about being born without legs? Having no ability to dance, walk, run, or even stand on two feet. Now put both of those scenarios together: no arms and no legs. What would you do? How would that effect your everyday life?",
+   "Born in 1982 in Melbourne, Australia, without any medical explanation or warning, Nicholas Vujicic came into the world with neither arms nor legs. Having had an uneventful pregnancy and no family history to expect this condition, imagine the shock his parents felt when they saw their first born, brand new baby boy, only to find he was what the world would consider imperfect and abnormal. How would their son live a normal happy life? What could he ever do or become when living with what the world would see as such a massive disability? Little did they or anyone know that this beautiful limbless baby would one day be someone who would inspire and motivate people from all a walk of life, touching lives all over the world.",
+   "As Nick grew up he learned to deal with his disability and started to be able to do more and more things on his own. He adapted to his situation and found ways to accomplish tasks that most people could only do by using their limbs, such as cleaning teeth, brushing hair, typing on a computer, swimming, playing sports, and much more. As time went by, Nick began to embrace his situation and achieve greater things. In grade seven Nick was elected captain of his school and worked with the student council on various fund-raising events for local charities and disability campaigns.",
+   "After school Nick went on with further study and obtained a double bachelor degree major in accounting and financial planning. By the age of 19, Nick started to fulfill his dream of encouraging others by sharing his story through motivational speaking. He found the purpose of his existence, and also the purpose of his circumstance. Nick wholeheartedly believes that there is a purpose in each of the struggles we encounter in our lives and that our attitude towards those struggles can be the single most effective factor in overcoming them.",
+   "Now at 27 years old, this limbless young man has accomplished more than most people even twice his age. Nick recently made the massive move from Brisbane, Australia to California, USA, where he is the president of an international non-profit organization, and also has his own motivational speaking company, Attitude Is altitude. Since his first motivational speaking engagement back when he was 19, Nick has traveled around the world, sharing his story with millions of people, speaking to a range of different groups such as students, teachers, youth, business men and women, entrepreneurs, and church congregations of all sizes. People ask Nick, \"How can you smile?\" Then they realize there's got to be something more to life than meets the eye if a guy without arms and legs is living a fuller life.",
+   "Nick shares with his audience the importance of vision and dreaming big. Using his own experiences in worldwide outreach as examples, he challenges others to examine their perspective and look beyond their circumstances. He shares his view of ceaseing to see obstacles as problems, but instead begin to see them as opportunities to grow and reach out to others. He stress the importance of our attitude being the most powerful tool we have at one's disposal and illustrates how the choices we make can have a profound effect on our lives and the lives of those around us. Nick shows through his own life that the major keys in fulfilling our biggest dreams are persistence and choosing to embrace failure as a learning experience, rather than allowing the guilt and fear of failure to paralyze us.",
+   "How does Nick Vujicic feel about his disability now? He accepts it, embraces it and oftentimes poke fun at his own circumstance as he show off his many tricks. He meets challenges with his special blend of humor, perseverance and faith, always encouraging those around him to examine their perspective as they develop and define their vision. Using those new definitions he challenges each person he meets to make changes in their lives so that they can begin the path to fulfilling their biggest dreams. Through his amazing ability to connect with people from all walks of life and his incredible sense of humor that captivates children, teens and adults alike, Nick is a truly inspirational motivational speaker."
+  ],
+  "zh": [
+   "请设想从一出生就没有手臂，没有手臂去拥抱别人，没有双手去体验触摸，也不可以去牵手。从一出生就没有双腿又会是怎样的呢?不可以跳舞、走路、跑步，甚至仅仅是靠双脚站立都不可以。现在把这些假设的场面放在一起既没有双臂也没有双腿。你会怎么做呢?这将对你每天的生活带来怎样的影响?",
+   "尼克胡哲,1982年出生于澳大利亚的墨尔本，没有任何医学方面的解释或警告，没有双手双腿的他来到这个世界。在经历了一段平静无事的孕期，并且在没有任何家族病史预示的情况下，我们可以想象当时他的父母看到他们的头生子，这个刚出生的小男孩时会是多么的震惊，只知道他就是世人所认为的有缺陷和不正常。他们的儿子怎样才能过上正常并快乐的生活?当他生活在世人都认为他是巨大残疾的世界中时，他该做些什么或是该成为怎样的人呢?当时他们不知道而且也没有任何一个人知道，就是这样一个漂亮的、没有四肢的婴儿会在未来的某一天启发和激励社会各个阶层的人，并且感动全世界的人们。",
+   "在尼克的成长过程中，他学会了怎样应付自身的不足而且开始自己做越来越多的事情。他开始适应他的情况，找到方法完成其他人仅需用四肢就可以完成的事情，比如刷牙、洗头、在电脑上打字、游泳、做运动，以及其他更多的事情。随着时间的推移，尼克开始乐观接受自己的处境，并完成更伟大的事情。在七年级的时候，他被选为学校的主席,与学生会一起工作,处理地方慈善机构和残疾运动的各种募捐集资活动。",
+   "毕业之后,尼克继续学习深造,他取得了会计和金融企划的双学士学位。19岁的时候，尼克开始实践他的梦想，通过鼓舞人心的演讲讲述他自己的故事从而激励他人,并带给他们希望。他找到了他存在的目的，那也是他自身情况的目的。尼克全心全意地相信在我们的生活中所遇到的任何我们努力奋斗的困厄都有一个目的，而且我们面对这些事情的态度就是可以战胜它们的唯一有效因素。",
+   "如今,这个27岁的无四肢的年轻人所完成的事情要比很多年龄是他两倍的人还多。尼克最近从澳大利亚的布里斯班大举搬迁到美国的加利福尼亚，在那儿，他成为了一家国际非营利性组织的主席,他还拥有了自己的激励演讲公司:态度就是高度。从他19岁第一次演讲开始，尼克已经周游了世界、和数百万人分享了他的故事,向不同的社会群体演说，比如学生、教师、青年、商人、企业家和各种大小的教堂集会。人们问尼克:\"你怎么能笑得出来呢?\"接着他们意识到，如果一个没有四肢的人过得比普通人更充实，那么生活的含义必定超出了我们目光所及的范畴。",
+   "尼克与他的听众分享拥有愿景与远大梦想的重要性，把他在世界各地的经历作为例子,他挑战别人,检视对于个人现状的观点和视角。他与大家一起分享停止把肢体残障看作是困难，相反的,他开始视他们为使自已成长和接触他人的机遇。他强调态度是我们可以支配的最强大的工具，阐明了我们所作出的选择如何对我们自身乃至周围人的生活产生深远的影响。尼克用他的人生经历来告诉我们实现远大理想的关键就是坚持不懈和选择拥抱失败,把它看作是一次学习的机会,而非容忍失败带来的内疚和恐惧使我们瘫痪、麻痹。",
+   "现在，尼克对他自身的残疾会有什么感觉呢?他接受并且拥抱它，有时，当他展示那些\"小把戏\"时，他还会拿自己的残疾开玩笑。他用其特有的幽默、毅力和信念来面对挑战,深深鼓舞他身边那些要发展或定义自己的观点时审视自己的观点的人。利用这些新的定义，他挑战他遇到的每一个人，让他们改变自己的生活，这样他们就可以开始实现自己最大的梦想。通过他与来自各行各业的人联系的惊人能力和他难以置信的幽默感，吸引了儿童，青少年和成年人一样，尼克是一个真正鼓舞人心的演说家。"
+  ],
+  "vocab": [
+   {
+    "w": "wrap",
+    "ph": "[ræp]",
+    "pos": "v.",
+    "d": "用...缠绕（或围紧）"
+   },
+   {
+    "w": "scenario",
+    "ph": "[səˈnɑːriəʊ]",
+    "pos": "n.",
+    "d": "设想；方案；预测"
+   },
+   {
+    "w": "explanation",
+    "ph": "[ˌekspləˈneɪʃn]",
+    "pos": "n.",
+    "d": "解释；说明"
+   },
+   {
+    "w": "uneventful",
+    "ph": "[ˌʌnɪˈventfl]",
+    "pos": "adj.",
+    "d": "平淡无奇的；平凡的；缺乏刺激的"
+   },
+   {
+    "w": "pregnancy",
+    "ph": "[ˈpreɡnənsi]",
+    "pos": "n.",
+    "d": "怀孕；妊娠；孕期"
+   },
+   {
+    "w": "imperfect",
+    "ph": "[ɪmˈpɜːfɪkt]",
+    "pos": "adj.",
+    "d": "有缺陷的；不完全的；不完美的"
+   },
+   {
+    "w": "abnormal",
+    "ph": "[æbˈnɔːml]",
+    "pos": "adj.",
+    "d": "不正常的；反常的；变态的；畸形的"
+   },
+   {
+    "w": "massive",
+    "ph": "[ˈmæsɪv]",
+    "pos": "adj.",
+    "d": "巨大的；非常严重的"
+   },
+   {
+    "w": "disability",
+    "ph": "[ˌdɪsəˈbɪləti]",
+    "pos": "n.",
+    "d": "（某种）缺陷，障碍"
+   },
+   {
+    "w": "limbless",
+    "ph": "[ˈlɪmləs]",
+    "pos": "adj.",
+    "d": "无四肢的"
+   },
+   {
+    "w": "inspire",
+    "ph": "[ɪnˈspaɪə(r)]",
+    "pos": "v.",
+    "d": "激励；鼓舞"
+   },
+   {
+    "w": "adapt",
+    "ph": "[əˈdæpt]",
+    "pos": "v.",
+    "d": "适应（新情况）"
+   },
+   {
+    "w": "accomplish",
+    "ph": "[əˈkʌmplɪʃ]",
+    "pos": "v.",
+    "d": "完成"
+   },
+   {
+    "w": "limb",
+    "ph": "[lɪm]",
+    "pos": "n.",
+    "d": "肢；臂；腿"
+   },
+   {
+    "w": "campaign",
+    "ph": "[kæmˈpeɪn]",
+    "pos": "n.",
+    "d": "运动（为社会、商业或政治目的而进行的一系列有计划的活动）"
+   },
+   {
+    "w": "fulfill",
+    "ph": "[fʊlˈfɪl]",
+    "pos": "v.",
+    "d": "实现；履行"
+   },
+   {
+    "w": "motivational",
+    "ph": "[ˌməʊtɪˈveɪʃənl]",
+    "pos": "adj.",
+    "d": "鼓舞的"
+   },
+   {
+    "w": "circumstance",
+    "ph": "[ˈsɜːkəmstəns]",
+    "pos": "n.",
+    "d": "命运；客观环境"
+   },
+   {
+    "w": "wholeheartedly",
+    "ph": "[ˌhəʊlˈhɑːtɪdli]",
+    "pos": "adv.",
+    "d": "全心全意地"
+   },
+   {
+    "w": "effective",
+    "ph": "[ɪˈfektɪv]",
+    "pos": "adj.",
+    "d": "产生预期结果的；有效的"
+   },
+   {
+    "w": "altitude",
+    "ph": "[ˈæltɪtjuːd]",
+    "pos": "n.",
+    "d": "海拔；海拔高度"
+   },
+   {
+    "w": "engagement",
+    "ph": "[ɪnˈɡeɪdʒmənt]",
+    "pos": "n.",
+    "d": "约定；约会；预约"
+   },
+   {
+    "w": "congregation",
+    "ph": "[ˌkɒŋɡrɪˈɡeɪʃn]",
+    "pos": "n.",
+    "d": "（教堂的）会众"
+   },
+   {
+    "w": "audience",
+    "ph": "[ˈɔːdiəns]",
+    "pos": "n.",
+    "d": "观众；听众"
+   },
+   {
+    "w": "vision",
+    "ph": "[ˈvɪʒn]",
+    "pos": "n.",
+    "d": "想象力；眼力；远见卓识"
+   },
+   {
+    "w": "outreach",
+    "ph": "[ˈaʊtriːtʃ]",
+    "pos": "n.",
+    "d": "外展服务"
+   },
+   {
+    "w": "perspective",
+    "ph": "[pəˈspektɪv]",
+    "pos": "n.",
+    "d": "态度；观点；思考方法"
+   },
+   {
+    "w": "cease",
+    "ph": "[siːs]",
+    "pos": "v.",
+    "d": "（使）停止，终止，结束"
+   },
+   {
+    "w": "obstacle",
+    "ph": "[ˈɒbstəkl]",
+    "pos": "n.",
+    "d": "障碍；阻碍；绊脚石"
+   },
+   {
+    "w": "illustrate",
+    "ph": "[ˈɪləstreɪt]",
+    "pos": "v.",
+    "d": "（用示例、图画等）说明，解释"
+   },
+   {
+    "w": "profound",
+    "ph": "[prəˈfaʊnd]",
+    "pos": "adj.",
+    "d": "巨大的；深切的；深远的"
+   },
+   {
+    "w": "persistence",
+    "ph": "[pəˈsɪstəns]",
+    "pos": "n.",
+    "d": "坚持；锲而不舍"
+   },
+   {
+    "w": "paralyze",
+    "ph": "[ˈpærəlaɪz]",
+    "pos": "v.",
+    "d": "使瘫痪；使麻痹"
+   },
+   {
+    "w": "oftentimes",
+    "ph": "[ˈɒfntaɪmz]",
+    "pos": "adv.",
+    "d": "常常"
+   },
+   {
+    "w": "trick",
+    "ph": "[trɪk]",
+    "pos": "n.",
+    "d": "戏法；把戏"
+   },
+   {
+    "w": "blend",
+    "ph": "[blend]",
+    "pos": "n.",
+    "d": "（不同事物的）和谐结合，融合"
+   },
+   {
+    "w": "perseverance",
+    "ph": "[ˌpɜːsəˈvɪərəns]",
+    "pos": "n.",
+    "d": "毅力；韧性；不屈不挠的精神"
+   },
+   {
+    "w": "define",
+    "ph": "[dɪˈfaɪn]",
+    "pos": "v.",
+    "d": "阐明；明确；界定"
+   },
+   {
+    "w": "incredible",
+    "ph": "[ɪnˈkredəbl]",
+    "pos": "adj.",
+    "d": "不能相信的；难以置信的"
+   },
+   {
+    "w": "captivate",
+    "ph": "[ˈkæptɪveɪt]",
+    "pos": "v.",
+    "d": "迷住；使着迷"
+   }
+  ]
+ },
+ "B八B": {
+  "title_en": "An Unwanted Baby, Steve Jobs",
+  "title_zh": "一个被亲生父母抛弃的孩子，史蒂夫·乔布斯",
+  "en": [
+   "Steve Jobs is a man who has great courage and dares to take risks. He may not be perfect but he pulled together the most fantastic act by overcoming Microsoft, the movie industry and the music business. Jobs followed his dream and led a revolution in the computing world.",
+   "Steve Jobs was born on February 24, 1955, in San Francisco, California. His biological mother was an unwed graduate student named Joanne Simpson and decided to put him up for adoption. Joanne had a college education, and she insisted that the future parents of her boy be just as well educated. unfortunately, the candidates, Paul and Clara Jobs, did not meet her expectations: Clara didn't graduate from college and Paul only attended high school. When she found out that both his future parents had never graduated from college, she refused to sign the adoption papers. She only relented a few months later and agreed to have her baby adopted by them, under the firm condition that they would send him to college.",
+   "Steve Jobs went to college but decided to drop out because it was too expensive. recalling his time there he said, \"I didn't have a dorm room, so I slept on the floor in friends' rooms, I returned coke bottles for the 5 cents deposits to buy food with, and I would walk the 7 miles across town every Sunday night to get one good meal a week at the Hare Krishna temple.\"",
+   "At 20, Steve Jobs and a friend (Steve Wozniak) started a company in a garage on April 1, 1976. Later that year, they debuted the Apple I and a local store offered to buy 50 machines. To finance the production, they had to sell their most expensive possessions. Jobs sold his Volkswagen van while Wozniak sold his Hewlett-Packard scientific calculator. Steve Jobs named their company Apple, in memory of a happy summer he had spent as an orchard worker in Oregon.",
+   "By 1982, however, his company sales sagged in the face of competition from IBM's new PC. Not wanting to dwell on successive failures, they worked on a new machine called the Macintosh. By 1986, the Mac, which Steve Jobs promised to be \"insanely great,\" was a huge success. After 10 years, starting from 2 kids working in a garage, Apple computer had grown into a $2 billion company with over 4000 employees.",
+   "At 30, Steve Jobs, however, was fired from the company he cofounded with Steve Wozniak. He left the company after losing a bitter battle over control with Apple's CEO John Sculley, whom Jobs had recruited from Pepsi Cola. When Steve Jobs heard of the message he said, \"You've probably had somebody punch you in the stomach and it knocks the wind out of you and you cannot breathe. The harder you try to breathe, the more you cannot breathe. And you know that the only thing you can do is just relax so you can start breathing again.\"",
+   "Steve Jobs sold over $20 million of his Apple stock, spent days bicycling along the beach, feeling sad and lost, toured Paris, and journeyed on to Italy. recalling this publicly heartbreaking episode, Jobs said, \"I didn't see it then, but it turn out that getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.\"",
+   "During the next five years he started two companies - NeXT and Pixar. NeXT didn't do as well as Jobs had dreamed for, but Pixar was a success story. Jobs became an instant billionaire. Meanwhile, his old company Apple was under immense pressure from its rival Microsoft and in 1996 posted billions of dollars in losses.",
+   "In December 1996, Steve Jobs convinced Apple to buy NeXT and make its software the foundation of the next-generation Mac OS. The technology he developed at NeXT became the catalyst of Apple's comeback. initially appointed as Apple's adviser, Steve Jobs was named Apple's interim CEO in 1997.",
+   "He had made Apple healthy again and returned it to a place where it was contributing new and innovative technologies to the computer world. Under his leadership, Apple returned to profitability and introduced innovations."
+  ],
+  "zh": [
+   "史蒂夫·乔布斯是一个极富伟大勇气的人，他敢于冒险。他可能并不是一个最完美无缺的人，但是他却完成了一个不可思议的伟大之举，那就是攻克了微软、电影产业以及音乐市场。乔布斯追随他的梦想，并引领了计算机行业的大变革。",
+   "史蒂夫·乔布斯1955年2月24日生于加利福尼亚州的旧金山。他的生母名叫乔安妮·辛普森，是一位未婚的大学生，因此她决定让别人收养他。乔安妮接受过大学教育，她坚持给他的儿子找的未来的父母也必须受过良好教育。但是不幸的是，候选的收养者，保罗和克拉拉·乔布斯夫妻，并没有符合她的期望:克拉拉没上过大学，而保罗只上到高中。当乔安妮发现她儿子的未来的父母都不是大学毕业的时候，她拒绝签收养合同。几个月以后，她才勉强同意让他们收养孩子，条件是养父母答应她一定要让他上大学。",
+   "史蒂夫·乔布斯上了大学，但是由于学费太贵了他决定退学。回想起那段时光，他说道：\"我没有了宿舍，所以我只能在朋友房间的地板上睡觉，我去捡可以换5美分的可乐罐，仅为了买些食物来填饱肚子。在星期天的晚上,我需要走七英里的路程，穿过这个城市到 Hare Krishna 神庙(注：位于纽约 Brooklyn 中心）,只是为了能吃上顿好饭。\"",
+   "20岁时，史蒂夫·乔布斯和他的一个朋友(史蒂夫·沃兹尼亚克）于1976年4月1日在一间车库里开创了他们的公司。同年，他们的新产品\"苹果I号\"面世，一位当地的经销商订购了50台机器。为筹集批量生产的资金，他们不得不卖掉自己的贵重的物品。史蒂夫·乔布斯卖掉了自己的大众牌小汽车，同时沃兹尼亚克也卖掉了他的惠普科学计算器。史蒂夫·乔布斯将他们的公司命名为苹果公司，以此来纪念在俄勒冈州当果园工人的那个愉快的夏天。",
+   "然而，1982年，面对IBM新型个人电脑的激烈竞争，他的公司的销售额减少了。不想要接连的失败，他们致力于新机器Macintosh的开发工作。1986年，正如史蒂夫·乔布斯许诺的\"非常伟大\"的Mac计得了巨大的成功。10年之后，这个由2个孩子在一间车库里创建的苹果公司,发展成为了一个拥有超过4000多名员工且资产达20亿美元的大公司。",
+   "30岁时，史蒂夫·乔布斯被由他和斯蒂夫·沃兹尼亚克共同创建的公司解雇了。他与约翰·斯库利，这位他从百事可乐公司招聘来做苹果公司的CEO(首席执行官），就控制权问题发生了激烈而不愉快的争论之后，他离开了苹果公司。当史蒂夫·乔布斯看到这条新闻时他说，\"你可能被某人打了你肚子一拳，力道很大以至于你不能呼吸。你越努力试着呼吸，你就越不能呼吸。然后你才明白你唯一能做的事情就是休息放松一下再重新呼吸。\"",
+   "史蒂夫·乔布斯卖出了苹果公司2000万美元股份，一连好几天都在沿着海滩骑自行车，感受悲伤和失落，他去了巴黎，然后又到意大利旅行。这段令人心碎的往事广为人知。回忆起这段经历，乔布斯说：\"我当时并没有意识到，但结果表明，被苹果公司开除，是我遇到的最好的事情。成功者的重压被作为创业者的轻装上阵所重新替代，一切都不是定数。这让我感觉如此自由,并进入我人生中最有创造力的一个阶段。\"",
+   "在接下来的五年时间里他又创立了两家公司------NeXT 公司以及 Pixar公司(皮克斯电脑动画工作室)NeXT并没有如乔布斯所希望的那样运营良好，但是皮克斯却获得了成功。乔布斯很快成为亿万富豪。与此同时，他原来的苹果公司却承受着来自对手微软公司的巨大压力，并在1996年宣告亏损了几十亿美元。",
+   "1996 年12月,史蒂夫·乔布斯说服苹果公司收购了 NeXT公司,它的软件成为了新一代 Mac OS 系统的基础。他在 NeXT发展的技术成为苹果公司得以复兴的催化剂。史蒂夫·乔布斯最初担任苹果公司的顾问，1997年他被任命为暂时的 CEO(首席执行官）。",
+   "他使苹果公司重返正规，让它成为一个为计算机行业贡献新技术的地方。在他的领导下，苹果公司重新恢复了盈利能力，并引入了创新。"
+  ],
+  "vocab": [
+   {
+    "w": "revolution",
+    "ph": "[ˌrevəˈluːʃn]",
+    "pos": "n.",
+    "d": "巨变；大变革"
+   },
+   {
+    "w": "unwed",
+    "ph": "[ˌʌnˈwed]",
+    "pos": "adj.",
+    "d": "未婚的"
+   },
+   {
+    "w": "adoption",
+    "ph": "[əˈdɒpʃn]",
+    "pos": "n.",
+    "d": "收养；领养"
+   },
+   {
+    "w": "unfortunately",
+    "ph": "[ʌnˈfɔːtʃənətli]",
+    "pos": "adv.",
+    "d": "不幸地；遗憾地"
+   },
+   {
+    "w": "relent",
+    "ph": "[rɪˈlent]",
+    "pos": "v.",
+    "d": "终于答应；不再拒绝"
+   },
+   {
+    "w": "recall",
+    "ph": "[rɪˈkɔːl]",
+    "pos": "v.",
+    "d": "记起；回忆起；回想起"
+   },
+   {
+    "w": "debut",
+    "ph": "[ˈdeɪbjuː]",
+    "pos": "v.",
+    "d": "使（新产品）面世；首次广告推广"
+   },
+   {
+    "w": "production",
+    "ph": "[prəˈdʌkʃn]",
+    "pos": "n.",
+    "d": "生产；制造；制作"
+   },
+   {
+    "w": "possession",
+    "ph": "[pəˈzeʃn]",
+    "pos": "n.",
+    "d": "具有；拥有"
+   },
+   {
+    "w": "calculator",
+    "ph": "[ˈkælkjuleɪtə(r)]",
+    "pos": "n.",
+    "d": "计算器"
+   },
+   {
+    "w": "orchard",
+    "ph": "[ˈɔːtʃəd]",
+    "pos": "n.",
+    "d": "果园"
+   },
+   {
+    "w": "sag",
+    "ph": "[sæɡ]",
+    "pos": "v.",
+    "d": "减弱；减少"
+   },
+   {
+    "w": "competition",
+    "ph": "[ˌkɒmpəˈtɪʃn]",
+    "pos": "n.",
+    "d": "竞争；角逐"
+   },
+   {
+    "w": "successive",
+    "ph": "[səkˈsesɪv]",
+    "pos": "adj.",
+    "d": "连续的；接连的；相继的"
+   },
+   {
+    "w": "insanely",
+    "ph": "[ɪnˈseɪnli]",
+    "pos": "adv.",
+    "d": "十分；非常；疯狂地"
+   },
+   {
+    "w": "cofound",
+    "ph": "[ˌkəʊˈfaʊnd]",
+    "pos": "v.",
+    "d": "共同建立"
+   },
+   {
+    "w": "bitter",
+    "ph": "[ˈbɪtə(r)]",
+    "pos": "adj.",
+    "d": "激烈而不愉快的；充满愤怒与仇恨的"
+   },
+   {
+    "w": "recruit",
+    "ph": "[rɪˈkruːt]",
+    "pos": "v.",
+    "d": "吸收（新成员）"
+   },
+   {
+    "w": "punch",
+    "ph": "[pʌntʃ]",
+    "pos": "v.",
+    "d": "拳打；以拳痛击"
+   },
+   {
+    "w": "publicly",
+    "ph": "[ˈpʌblɪkli]",
+    "pos": "adv.",
+    "d": "公开地"
+   },
+   {
+    "w": "heartbreaking",
+    "ph": "[ˈhɑːtbreɪkɪŋ]",
+    "pos": "adj.",
+    "d": "令人心碎的"
+   },
+   {
+    "w": "episode",
+    "ph": "[ˈepɪsəʊd]",
+    "pos": "n.",
+    "d": "（人生的）一段经历；（小说的）片段，插曲"
+   },
+   {
+    "w": "instant",
+    "ph": "[ˈɪnstənt]",
+    "pos": "adj.",
+    "d": "立即的；立刻的"
+   },
+   {
+    "w": "billionaire",
+    "ph": "[ˌbɪljəˈneə(r)]",
+    "pos": "n.",
+    "d": "巨富；亿万富翁"
+   },
+   {
+    "w": "immense",
+    "ph": "[ɪˈmens]",
+    "pos": "adj.",
+    "d": "极大的；巨大的"
+   },
+   {
+    "w": "convince",
+    "ph": "[kənˈvɪns]",
+    "pos": "v.",
+    "d": "说服，劝说（某人做某事）"
+   },
+   {
+    "w": "foundation",
+    "ph": "[faʊnˈdeɪʃn]",
+    "pos": "n.",
+    "d": "基本原理；根据；基础"
+   },
+   {
+    "w": "catalyst",
+    "ph": "[ˈkætəlɪst]",
+    "pos": "n.",
+    "d": "催化剂"
+   },
+   {
+    "w": "comeback",
+    "ph": "[ˈkʌmbæk]",
+    "pos": "n.",
+    "d": "复出；重返；再度受欢迎"
+   },
+   {
+    "w": "initially",
+    "ph": "[ɪˈnɪʃəli]",
+    "pos": "adv.",
+    "d": "开始；最初；起初"
+   },
+   {
+    "w": "interim",
+    "ph": "[ˈɪntərɪm]",
+    "pos": "adj.",
+    "d": "暂时的；过渡的"
+   },
+   {
+    "w": "profitability",
+    "ph": "[ˌprɒfɪtəˈbɪləti]",
+    "pos": "n.",
+    "d": "盈利能力"
+   },
+   {
+    "w": "introduce",
+    "ph": "[ˌɪntrəˈdjuːs]",
+    "pos": "v.",
+    "d": "推行；实施；采用"
+   },
+   {
+    "w": "innovation",
+    "ph": "[ˌɪnəˈveɪʃn]",
+    "pos": "n.",
+    "d": "创造；创新；改革"
+   },
+   {
+    "w": "tribute",
+    "ph": "[ˈtrɪbjuːt]",
+    "pos": "n.",
+    "d": "致敬；悼念"
+   }
+  ]
+ },
+ "B九A": {
+  "title_en": "300 Hurdles",
+  "title_zh": "300米跨栏",
+  "en": [
+   "Life may give you a negative, but don't despair - it may just develop into a beautiful picture one day. This year, I realized my theory that I have on life. Life is like a 300m hurdle race. Since I run the 300m hurdles, I would know what the race is like.",
+   "The first thing to any race is worrying about whether you are going to win or not. This relates to worrying about the petty things in life. Does it really matter if you win? Is it really going to be the end of the world? Or will you be upset if you lose and then forget about it? In life we worry too much and live in the moment too little.",
+   "Next is the line up in our own individual lanes. We each start at different spots, but the race is still the same distance for everyone. This relates to our lives taking us to different places and putting us in different situations, but hopefully we will end up in the same place, but maybe at different times.",
+   "Now comes the beginning of the race. We all try to keep up with everyone and pace oneself with other people. This symbolizes that at times in everyone's lives we worry, about fit in or being the same as other people, instead of worrying about being unique. If everyone were the same, the world would be incredibly boring.",
+   "Now comes the first hurdle. This hurdle is the easiest to get over because you are not wear out from running. We all make it over this hurdle with ease. This symbolizes those obstacles in life that we struggle to get over, but we always manage to do so. You can look at that hurdle in two ways: \"I can't make it over, I'm too tired\" or \"I am one more hurdle closer to finishing this race\". This is an example of taking a negative situation and seeing something positive in it.",
+   "The next part of the race is every hurdle between the first and last one. These hurdles get tougher and tougher and you may feel as though you can't go on. This happens a lot in life too. There may be a situation that arises where you feel as though you can't make it and all you can think about is giving up. You may fall over that \"hurdle\" or struggle getting over it, but somehow you find it in yourself to jump over it and move on with the race.",
+   "Next is that last 100m of the race. You feel as though you just want to say, \"No I can't do this.\" Again, you must find it in yourself that you can do it, and you must finish the race stronger than when you had started it.",
+   "Now lastly is the last hurdle. This hurdle is the toughest out of all of them. In life we find ourselves falling and falling, and maybe getting too lost in our problems that we feel like we have been through enough and there's no hope. That last hurdle symbolizes these situations. It's one step close to the end of the race.",
+   "Once you finish, you look back on it and you realize that you made it not by leaping, but step by step. \"yard by yard, life is very hard. But inch by inch, life can be a cinch.\""
+  ],
+  "zh": [
+   "生活可能给你带来一些消极负面的事情，但是不要绝望------终有一天它可能会发展成为一幅美好的图画。我从自己的人生经历中意识到这个道理。人生就像一场300米跨栏赛。自从我跑了 300米跨栏，我就明白了这场比赛是什么样的了。",
+   "无论任何一种比赛，首先都会担心你是否会赢。这关系到担心人生中的琐碎小事。你是否会赢真的那么重要吗？它真的会导致世界末日吗？还是说如果你输了你就沮丧，然后忘了这回事呢？生活中，我们担心得太多，而活在当下太少。",
+   "其次是排队(line up)站在你自己的跑道上。我们从不同的起点出发，但是这场比赛对于每个人来说距离都是相同的。这关系到我们不同的人生把我们带到不同的地方，置于不同的处境中，但是有幸的是我们最终会处于相同的结局(end up)，只是时间可能不太一样。",
+   "现在，比赛开始啦。我们努力跟上(keep up with)每个人,调整自己的步伐节奏(pace oneself)。这代表着在我们的人生中，有时候我们担心是否与他人合得来(fit in)，是否与大家保持一致，而不是担心独一无二。如果每个人都一样的话，那这个世界就会变得极其无趣。",
+   "现在跑到第一个栏了。这一栏很容易就跳过去了(get over)，因为你还没有跑得筋疲力尽(wear out)。我们大家都很轻而易举地(with ease)跳过这一栏了。这象征着我们人生路上碰到的那些障碍,我们努力去克服，并经常成功解决了。你可以有两种方式来看待这个栏架：\"我不能成功(make it)，我太累了\"或是\"我离下一栏更近了，就要到终点了\"。这个例子表明了如何用积极的眼光来看待被动的局面。",
+   "比赛的下一阶段就是第一栏和最后一栏之间的那栏了。这些越来越难对付，你可能觉得无法继续了。这种情况在生活中也常常发生。可能有这种感觉，自己仿佛做不成了，只想要放弃。你可能被\"栏架\"绊倒(fall over)，或是挣扎着过去，但是不知怎么，你使尽浑身解数，终于越过了障碍，并继续在比赛中前进。",
+   "接下来是比赛的最后 100米了。你觉得自己好像要说：\"不，我做不到。\"再一次,你成功了，你做到了，你完成了比赛，并比你刚开始比赛的时候更加强大了。",
+   "现在，终于到了最后一栏了。这是所有栏架中最令你棘手的。生活中，我们发现自己不断跌倒，为种种问题所困扰，感觉自己历经重重磨难，仍然看不到希望。这最后的一栏就象征着这些情况。它离比赛的终点就仅有一步之遥了。",
+   "一旦完成了，你回头看看(look back on)，你就会意识到比赛的成功并不是靠跳跃，而是一步一步过来的。\"一码一码地前进，生活似乎非常艰难。但一英寸一英寸地慢慢来，生活就是小菜一碟。（不积跬步无以至千里)。\""
+  ],
+  "vocab": [
+   {
+    "w": "hurdle",
+    "ph": "[ˈhɜːdl]",
+    "pos": "n.",
+    "d": "跨栏赛；栏架，跨栏；难关，障碍"
+   },
+   {
+    "w": "negative",
+    "ph": "[ˈneɡətɪv]",
+    "pos": "n./adj.",
+    "d": "否定词；否定；拒绝/坏的；有害的"
+   },
+   {
+    "w": "despair",
+    "ph": "[dɪˈspeə(r)]",
+    "pos": "v.",
+    "d": "绝望；失去希望；丧失信心"
+   },
+   {
+    "w": "petty",
+    "ph": "[ˈpeti]",
+    "pos": "adj.",
+    "d": "小的；琐碎的；次要的"
+   },
+   {
+    "w": "individual",
+    "ph": "[ˌɪndɪˈvɪdʒuəl]",
+    "pos": "adj.",
+    "d": "一个人的；供一个人用的"
+   },
+   {
+    "w": "lane",
+    "ph": "[leɪn]",
+    "pos": "n.",
+    "d": "（比赛的）跑道，泳道"
+   },
+   {
+    "w": "spot",
+    "ph": "[spɒt]",
+    "pos": "n.",
+    "d": "地点；场所；处所"
+   },
+   {
+    "w": "symbolize",
+    "ph": "[ˈsɪmbəlaɪz]",
+    "pos": "v.",
+    "d": "象征；是...的象征；代表"
+   },
+   {
+    "w": "incredibly",
+    "ph": "[ɪnˈkredəbli]",
+    "pos": "adv.",
+    "d": "极端地；极其"
+   },
+   {
+    "w": "positive",
+    "ph": "[ˈpɒzətɪv]",
+    "pos": "adj.",
+    "d": "良好的；正面的"
+   },
+   {
+    "w": "tough",
+    "ph": "[tʌf]",
+    "pos": "adj.",
+    "d": "艰苦的；艰难的；棘手的"
+   },
+   {
+    "w": "arise",
+    "ph": "[əˈraɪz]",
+    "pos": "v.",
+    "d": "发生；产生；出现"
+   },
+   {
+    "w": "lost",
+    "ph": "[lɒst]",
+    "pos": "adj.",
+    "d": "不知所措的；一筹莫展的"
+   },
+   {
+    "w": "leap",
+    "ph": "[liːp]",
+    "pos": "v.",
+    "d": "跳跃"
+   },
+   {
+    "w": "yard",
+    "ph": "[jɑːd]",
+    "pos": "n.",
+    "d": "码"
+   },
+   {
+    "w": "inch",
+    "ph": "[ɪntʃ]",
+    "pos": "n.",
+    "d": "英寸"
+   },
+   {
+    "w": "cinch",
+    "ph": "[sɪntʃ]",
+    "pos": "n.",
+    "d": "很容易的事；小菜"
+   }
+  ]
+ },
+ "B九B": {
+  "title_en": "A Violin with Three Strings",
+  "title_zh": "三根弦的小提琴",
+  "en": [
+   "On Nov. 18, 1995, Itzhak Perlman, the violinist, came on stage to give a concert at Avery Fisher Hall at Lincoln Center in New York City.",
+   "If you have ever been to a Perlman concert, you know that getting on stage is no small achievement for him. He was stricken with polio as a child, and so he has braces on both legs and walks with the aid of two crutches. To see him walk across the stage one step at a time, painfully and slowly, is an awesome sight.",
+   "He walks painfully, yet majestically, until he reaches his chair. Then he sits down, slowly, puts his crutches on the floor, undoes the clasps on his legs, tucks one foot back and extends the other foot forward. Then he bends down and picks up the violin, puts it under his chin, nods to the conductor and proceeds to play.",
+   "By now, the audience is used to this ritual. They sit quietly while he makes his way across the stage to his chair. They remain reverently silent while he undoes the clasps on his legs. They wait until he is ready to play.",
+   "But this time, something went wrong. Just as he finished the first few bars, one of the strings on his violin broke. You could hear it snap - it went off like gunfire across the room. There was no mistaking what that sound meant. There was no mistaking what he had to do.",
+   "We figured that he would have to get up, put on the clasps again, pick up the crutches and limp his way off stage - to either find another violin or else find another string for this one. But he didn't. Instead, he waited a moment, closed his eyes and then signaled the conductor to begin again.",
+   "The orchestra began, and he played from where he had left off. And he played with such passion and such power and such purity as they had never heard before.",
+   "Of course, anyone knows that it is impossible to play a symphonic work with just three strings. I know that, and you know that, but that night Itzhak Perlman refused to know that. You could see him modulate, changing, re-composing the piece in his head. At one point, it sounded like he was de-tune the strings to get new sounds from them that they had never made before.",
+   "When he finished, there was an awesome silence in the room. And then people rose and cheered. There was an extraordinary outburst of applause from every corner of the auditorium. We were all on our feet, screaming and cheering, doing everything we could to show how much we appreciated what he had done. He smiled, wiped the sweat from his brow, raised his bow to quiet us, and then he said - not boastfully, but in a quiet, pensive, reverent tone - \"You know, sometimes it is the artist's task to find out how much music you can still make with what you have left.\"",
+   "What a powerful line that is! It has stayed in my mind ever since I heard it. And who knows? Perhaps that is the definition of life - not just for artists, but for all of us.",
+   "Here is a man who has prepared all his life to make music on a violin with four strings, who, all of a sudden, in the middle of a concert, finds himself with only three strings; so he makes music with three strings, and the music he made that night with just three strings was more beautiful, more sacred, more memorable, than any that he had ever made before, when he had four strings."
+  ],
+  "zh": [
+   "1995年11月18日,小提琴家伊萨克·帕尔曼在纽约林肯中心的艾弗里费舍大厅举办音乐会。",
+   "如果你听过帕尔曼的演奏会，你就会知道能走上舞台为大家演奏对他来说并不是一件容易的事。他因患小儿麻痹症,双腿都绑着支架,只能依靠两根拐杖走路。每当看到他痛苦缓慢地,一步步走上舞台时,会令人感到敬畏。",
+   "他缓慢但是庄严地走到椅子前,坐下,慢慢把双拐放到地板上。他打开腿上的夹板,一只脚向后拉，另一只向前伸。然后，他弯下腰拿起小提琴放到颌下,向指挥点头示意并开始演奏。",
+   "听众对他的这一套动作习以为常。从他上台到坐到椅子上,观众始终静静地坐着。当他打开夹板时，每个人都保持肃静，等待他开始演奏。",
+   "但这一次出了点差错。他刚拉完头几个小节，小提琴上的一根弦断了。每个人都能听到它崩断的声音一就像屋里传来一声枪响。人们都知道这声响意味着什么,都知道他会做什么。",
+   "大家想象着他会站起身,扣紧夹板,捡起双拐,走下舞台------或换一把琴或找根新弦。但他没有这样做。他停顿片刻，闭上眼睛,然后示意指挥再次开始。",
+   "伴奏响起，他从刚才中断之处重新拉起，用从未有过的激情、力量和虔诚演奏着。",
+   "当然,每个人都明白，用三根弦演奏交响乐是不可能的。我知道你们都晓得这一点,但是那晚伊萨克·帕尔曼不想知道。你可以看出他在脑海里调整、变化、重谱着作品。一个时刻,听起来似乎他在把琴弦变调以获得它们从未发出过的声音。",
+   "演奏完毕,厅里一阵骇人的寂静。然后人们起立欢呼，从大厅的每一个角落都响起极其热烈的掌声。人们跺脚,尖叫着,欢呼着，用尽一切方式来表达他们是多么欣赏帕尔曼所做的一切。他微笑,拭去额头上的汗水，用一种平静、深沉、虔诚的语调说:\"你们知道,有时，艺术家的任务就是要弄清楚用自己所剩的还能创造出多少音乐。\"",
+   "多么铿锵有力的话语,从听到那一刻起就印刻在我的心里。谁知道呢?这大约也就是人生的定义一不仅对于艺术家，而且对于我们所有的人。",
+   "他是个要把自己一生奉献给用四根弦的小提琴演奏的人。突然有一天，在演奏中,他发现自己的琴只剩三根弦;而那一晚他用仅剩的三根弦演奏出了比他以前用四根弦演奏的更美妙、更神圣、更难忘的音乐。"
+  ],
+  "vocab": [
+   {
+    "w": "stricken",
+    "ph": "[ˈstrɪkən]",
+    "pos": "adj.",
+    "d": "受煎熬的；患病的；遭受挫折的"
+   },
+   {
+    "w": "polio",
+    "ph": "[ˈpəʊliəʊ]",
+    "pos": "n.",
+    "d": "小儿麻痹症"
+   },
+   {
+    "w": "brace",
+    "ph": "[breɪs]",
+    "pos": "n.",
+    "d": "双脚规形夹"
+   },
+   {
+    "w": "aid",
+    "ph": "[eɪd]",
+    "pos": "n.",
+    "d": "（某工作所需的）帮助，助手，辅助物"
+   },
+   {
+    "w": "crutch",
+    "ph": "[krʌtʃ]",
+    "pos": "n.",
+    "d": "腿脚受伤病人用的）腋杖"
+   },
+   {
+    "w": "awesome",
+    "ph": "[ˈɔːsəm]",
+    "pos": "adj.",
+    "d": "令人惊叹的；令人畏惧的"
+   },
+   {
+    "w": "majestically",
+    "ph": "[məˈdʒestɪkli]",
+    "pos": "adv.",
+    "d": "威严地；壮丽地"
+   },
+   {
+    "w": "undo",
+    "ph": "[ʌnˈduː]",
+    "pos": "v.",
+    "d": "打开；解开；拆开"
+   },
+   {
+    "w": "clasp",
+    "ph": "[klɑːsp]",
+    "pos": "n.",
+    "d": "（包、皮带或首饰等的）搭扣，扣环"
+   },
+   {
+    "w": "tuck",
+    "ph": "[tʌk]",
+    "pos": "v.",
+    "d": "把...塞进狭窄的空间；把...藏入"
+   },
+   {
+    "w": "chin",
+    "ph": "[tʃɪn]",
+    "pos": "n.",
+    "d": "下巴"
+   },
+   {
+    "w": "conductor",
+    "ph": "[kənˈdʌktə(r)]",
+    "pos": "n.",
+    "d": "乐队指挥"
+   },
+   {
+    "w": "proceed",
+    "ph": "[prəˈsiːd]",
+    "pos": "v.",
+    "d": "接着做；继而做"
+   },
+   {
+    "w": "ritual",
+    "ph": "[ˈrɪtʃuəl]",
+    "pos": "n.",
+    "d": "程序；仪规；礼节"
+   },
+   {
+    "w": "reverently",
+    "ph": "[ˈrevərəntli]",
+    "pos": "adv.",
+    "d": "恭敬地；虔诚地"
+   },
+   {
+    "w": "bar",
+    "ph": "[bɑː(r)]",
+    "pos": "n.",
+    "d": "（音乐）小节"
+   },
+   {
+    "w": "snap",
+    "ph": "[snæp]",
+    "pos": "v.",
+    "d": "(使)断裂，绷断"
+   },
+   {
+    "w": "figure",
+    "ph": "[ˈfɪɡə(r)]",
+    "pos": "v.",
+    "d": "认为，认定（某事将发生或属实）"
+   },
+   {
+    "w": "limp",
+    "ph": "[lɪmp]",
+    "pos": "v.",
+    "d": "瘸着走；跛行；蹒跚"
+   },
+   {
+    "w": "orchestra",
+    "ph": "[ˈɔːkɪstrə]",
+    "pos": "n.",
+    "d": "管弦乐队"
+   },
+   {
+    "w": "purity",
+    "ph": "[ˈpjʊərəti]",
+    "pos": "n.",
+    "d": "纯洁；纯净；纯粹"
+   },
+   {
+    "w": "symphonic",
+    "ph": "[sɪmˈfɒnɪk]",
+    "pos": "adj.",
+    "d": "交响乐的"
+   },
+   {
+    "w": "modulate",
+    "ph": "[ˈmɒdjuleɪt]",
+    "pos": "v.",
+    "d": "变调；转调"
+   },
+   {
+    "w": "de-tune",
+    "ph": "[ˌdiːˈtjuːn]",
+    "pos": "v.",
+    "d": "使改变调子"
+   },
+   {
+    "w": "outburst",
+    "ph": "[ˈaʊtbɜːst]",
+    "pos": "n.",
+    "d": "（感情的）爆发，迸发"
+   },
+   {
+    "w": "applause",
+    "ph": "[əˈplɔːz]",
+    "pos": "n.",
+    "d": "鼓掌；喝彩"
+   },
+   {
+    "w": "auditorium",
+    "ph": "[ˌɔːdɪˈtɔːriəm]",
+    "pos": "n.",
+    "d": "礼堂；会堂"
+   },
+   {
+    "w": "appreciate",
+    "ph": "[əˈpriːʃieɪt]",
+    "pos": "v.",
+    "d": "欣赏；赏识"
+   },
+   {
+    "w": "brow",
+    "ph": "[braʊ]",
+    "pos": "n.",
+    "d": "额头"
+   },
+   {
+    "w": "bow",
+    "ph": "[bəʊ]",
+    "pos": "n.",
+    "d": "琴弓"
+   },
+   {
+    "w": "boastfully",
+    "ph": "[ˈbəʊstfəli]",
+    "pos": "adv.",
+    "d": "自吹自擂地；自夸地"
+   },
+   {
+    "w": "pensive",
+    "ph": "[ˈpensɪv]",
+    "pos": "adj.",
+    "d": "沉思的；忧伤的"
+   },
+   {
+    "w": "reverent",
+    "ph": "[ˈrevərənt]",
+    "pos": "adj.",
+    "d": "非常尊敬的；深表崇敬的"
+   },
+   {
+    "w": "sacred",
+    "ph": "[ˈseɪkrɪd]",
+    "pos": "adj.",
+    "d": "上帝的；神的；神圣的"
+   },
+   {
+    "w": "shaky",
+    "ph": "[ˈʃeɪki]",
+    "pos": "adj.",
+    "d": "不稳固的；不牢靠；摇晃的；不确切的"
+   },
+   {
+    "w": "bewildering",
+    "ph": "[bɪˈwɪldərɪŋ]",
+    "pos": "adj.",
+    "d": "令人困惑的；使人糊涂的"
+   }
+  ]
+ },
+ "B十A": {
+  "title_en": "The Importance of Public Transportation",
+  "title_zh": "公共交通的重要性",
+  "en": [
+   "A US Congressman once proclaimed that, \"There can be no doubt that the transportation sector is the most critical sector of our economy.\" I know exactly what he means. In this day and age, access to transportation is considered a necessity.",
+   "Public transportation is defined as a service that is available for use by the general public. It is a cheaper and environmentally friendly alternative. It is not a transportation service that you can arrange privately to suit your own personal convenience (although you may, to a certain extent, such as paying for a cabin or suite on a train or ship) since you have to consider other passengers who are riding and making similar arrangements with you.",
+   "I have experienced first-hand how important public transportation is.",
+   "I live in Saipan, a US territory and the closest things we have to public transportation are tourist and school buses. You have to have your own car or bike, rent a car, or pay upfront for a taxi to go from point A to point B. Otherwise you end up basked in sweat and sunburn traveling to work every day. When I first came here, I walked. I walked going to and from work. I walked to the store and lugged my heavy groceries back to the house. I walked to church and I barely got to go to places farther than a twenty-mile radius from my house since I did not own a car then, and I considered renting a car and riding a taxi such an expense for a starting single mother like I was at that time.",
+   "According to research done by the American Public Transportation Association, individuals can save up to $9,515 annually by parking their cars at home and using public transportation instead. In this economy, saving money has become a main concern in most households. With the rising prices of fuel and other vehicle-related expenses, doing the public commute to work and school certainly saves money.",
+   "When you switch from driving your car to taking public transport, you are reducing your carbon footprint and making a great step forward in saving the environment. The environmental costs of individuals using their cars every day have done massive damage to the environment and if the majority or all individuals like you and me use public transport instead, think of what good we could do for the environment.",
+   "According to a paper made by Dr. Jean-Paul Rodrigue and Dr. Claude Comtois, transportation accounts for approximately 25% of world energy demand and for more than 62% of all the oil used each year. Ninety-five percent of transportation is almost completely reliant upon petroleum products with the exception of railways using electrical power. While the use of petroleum for other economic sectors, such as industrial and electricity generation, has remained relatively stable, the growth in oil demand is mainly attributed to the growth in transportation demand.",
+   "When we strengthen our public transportation services, we are consequently lessening this oil demand and dependence. It will also motivate us to consider alternative energy and fuel resources.",
+   "Having public transportation definitely eases some of the burdens of people who do not have cars or prefer not to own one. They are provided with choices to use public transport. Public transportation also provides valuable services not just to local inhabitants in the area but to tourists as well. When a tourist visits a place, which does not have public transportation, their choices are limited and the experience they get is limited, too.",
+   "All in all, public transportation improves our way of life, strengthens the community, provides new jobs for the public and gives us a cleaner environment."
+  ],
+  "zh": [
+   "一位美国国会发言人曾经断言：\"毫无疑问地,交通是我们国家经济体系最至关重要的领域。\"我深刻地明白他这句话的含义。在如今这个时代，交通的便捷性已经被认为是一种生活的必需条件。",
+   "公共交通的定义是为广大公众提供出行便利的服务。它便宜并且环保。它不并是那种你可以私自安排来为你自己个人提供便利的交通服务(尽管，在一定程度内，你可以为你携带上火车或是轮船的行李箱包付费)，因为你必须要考虑一下其他与你同行的乘客,可能会做出和你相类似的安排。",
+   "我亲身体验过公共交通的重要性。",
+   "我居住在塞班岛，这是美国的领地，我们接触最多的公共交通就是旅游巴士和校车。要想从Α地到Β地去，你不得不有自己的小汽车或是自行车，或是租车,或是打的。要不然，你就得每天沐浴着温暖的阳光上下班，甚至会被晒伤。当我第一次来这时，我步行。我走着去上班,下班了又走回来。我走着去商店,又走着把购买的物品拉回来。我走着去教堂，甚至我家附近方圆20英里的地方我都步行，因为我那个时候没有车，我当时是个单身母亲,我觉得租车、打出租都是一笔开销。",
+   "根据美国公共交通协会的研究，如果把车停在家里并去乘坐公交，个人每年可以省下9515美元费用。在这种经济状况下，省钱是大多数家庭考虑的主要因素。由于燃油费价格飞涨，并且与车辆有关的其他收费也不断涨价，乘坐公共交通上下班和上学必然是很省钱的。",
+   "当你的出行从自驾变为公共交通时，你就减少了你的碳排放量，并为保护环境迈出伟大的一步。个人使用私家车，对环境造成很大的破坏，而且如果大多数人甚至所有人都像你我这样，乘坐公共交通的话,想想我们可以为环保做出多大贡献。",
+   "根据让-保罗·罗德里格博士和克劳斯·格里姆博士的研究报告，公共交通每年大约占世界能源需求的25％,其中超过62％是石油。除了使用电力的铁轨,95％的交通几乎都完全依赖原油产品。然而,其他经济领域，例如工业和发电,它们对石油的使用量基本维持稳定。石油需求增长的主要因素是交通需求的增加。",
+   "当我们巩固并加强我们的公交服务时，我们就会降低对石油的需求，减轻对石油的依赖，这也会成为我们寻求新的可替代能源的动力。",
+   "公共交通无疑为没有车或是不想买车的人减轻了负担。他们可以选择公共交通。此外公共交通不仅为当地居民而且还为外地游客提供宝贵的服务。当游客初来乍到，如果没有公共交通，只能打出租的话,他们的选择也就会非常有限而且昂贵了。",
+   "总之,公共交通能改善我们的生活方式,增强社区间的联系，为公众提供新的就业机会，并且给我们一个更加干净的环境。"
+  ],
+  "vocab": [
+   {
+    "w": "proclaim",
+    "ph": "[prəˈkleɪm]",
+    "pos": "v.",
+    "d": "宣布；宣告；声明"
+   },
+   {
+    "w": "sector",
+    "ph": "[ˈsektə(r)]",
+    "pos": "n.",
+    "d": "（尤指一国经济的）部门，领域，行业"
+   },
+   {
+    "w": "necessity",
+    "ph": "[nəˈsesəti]",
+    "pos": "n.",
+    "d": "必需的事物；必需品"
+   },
+   {
+    "w": "arrangement",
+    "ph": "[əˈreɪndʒmənt]",
+    "pos": "n.",
+    "d": "安排；筹备"
+   },
+   {
+    "w": "territory",
+    "ph": "[ˈterətri]",
+    "pos": "n.",
+    "d": "领土；版图；领地"
+   },
+   {
+    "w": "upfront",
+    "ph": "[ˌʌpˈfrʌnt]",
+    "pos": "adv.",
+    "d": "预付地；预交地"
+   },
+   {
+    "w": "sunburn",
+    "ph": "[ˈsʌnbɜːn]",
+    "pos": "n.",
+    "d": "晒斑；晒伤"
+   },
+   {
+    "w": "groceries",
+    "ph": "[ˈɡrəʊsəriz]",
+    "pos": "n.",
+    "d": "食品杂货"
+   },
+   {
+    "w": "radius",
+    "ph": "[ˈreɪdiəs]",
+    "pos": "n.",
+    "d": "半径（长度）"
+   },
+   {
+    "w": "expense",
+    "ph": "[ɪkˈspens]",
+    "pos": "n.",
+    "d": "费用；价钱"
+   },
+   {
+    "w": "annually",
+    "ph": "[ˈænjuəli]",
+    "pos": "adv.",
+    "d": "一年一次地"
+   },
+   {
+    "w": "household",
+    "ph": "[ˈhaʊshəʊld]",
+    "pos": "n.",
+    "d": "一家人；家庭"
+   },
+   {
+    "w": "commute",
+    "ph": "[kəˈmjuːt]",
+    "pos": "n.",
+    "d": "上下班路程"
+   },
+   {
+    "w": "switch",
+    "ph": "[swɪtʃ]",
+    "pos": "v.",
+    "d": "（使）改变，转变"
+   },
+   {
+    "w": "transport",
+    "ph": "[ˈtrænspɔːt]",
+    "pos": "n.",
+    "d": "交通车辆；运输工具；旅行方式"
+   },
+   {
+    "w": "carbon",
+    "ph": "[ˈkɑːbən]",
+    "pos": "n.",
+    "d": "碳"
+   },
+   {
+    "w": "majority",
+    "ph": "[məˈdʒɒrəti]",
+    "pos": "n.",
+    "d": "大部分；大多数"
+   },
+   {
+    "w": "wean",
+    "ph": "[wiːn]",
+    "pos": "v.",
+    "d": "使逐渐戒除恶习（或避免依赖...）"
+   },
+   {
+    "w": "dependence",
+    "ph": "[dɪˈpendəns]",
+    "pos": "n.",
+    "d": "（生存或成功必需的）依靠，依赖，依存"
+   },
+   {
+    "w": "approximately",
+    "ph": "[əˈprɒksɪmətli]",
+    "pos": "adv.",
+    "d": "大概；大约；约莫"
+   },
+   {
+    "w": "petroleum",
+    "ph": "[pəˈtrəʊliəm]",
+    "pos": "n.",
+    "d": "石油；原油"
+   },
+   {
+    "w": "exception",
+    "ph": "[ɪkˈsepʃn]",
+    "pos": "n.",
+    "d": "规则的例外；例外的事物"
+   },
+   {
+    "w": "electrical",
+    "ph": "[ɪˈlektrɪkl]",
+    "pos": "adj.",
+    "d": "电的；用电的；发电的"
+   },
+   {
+    "w": "economic",
+    "ph": "[ˌiːkəˈnɒmɪk]",
+    "pos": "adj.",
+    "d": "经济的；经济上的；经济学的"
+   },
+   {
+    "w": "electricity",
+    "ph": "[ɪˌlekˈtrɪsəti]",
+    "pos": "n.",
+    "d": "电；电能"
+   },
+   {
+    "w": "stable",
+    "ph": "[ˈsteɪbl]",
+    "pos": "adj.",
+    "d": "稳定的；稳固的；牢固的"
+   },
+   {
+    "w": "strengthen",
+    "ph": "[ˈstreŋθn]",
+    "pos": "v.",
+    "d": "加强；增强；巩固"
+   },
+   {
+    "w": "consequently",
+    "ph": "[ˈkɒnsɪkwəntli]",
+    "pos": "adv.",
+    "d": "因此；所以"
+   },
+   {
+    "w": "lessen",
+    "ph": "[ˈlesn]",
+    "pos": "v.",
+    "d": "（使）变小，变少，减弱，减轻"
+   },
+   {
+    "w": "resource",
+    "ph": "[rɪˈsɔːs]",
+    "pos": "n.",
+    "d": "资源；财力"
+   },
+   {
+    "w": "ease",
+    "ph": "[iːz]",
+    "pos": "n./v.",
+    "d": "舒适；安逸；自在/减轻；放松；缓和"
+   },
+   {
+    "w": "inhabitant",
+    "ph": "[ɪnˈhæbɪtənt]",
+    "pos": "n.",
+    "d": "（某地的）居民，栖息动物"
+   },
+   {
+    "w": "limited",
+    "ph": "[ˈlɪmɪtɪd]",
+    "pos": "adj.",
+    "d": "有限的"
+   },
+   {
+    "w": "alternative",
+    "ph": "[ɔːlˈtɜːnətɪv]",
+    "pos": "n.",
+    "d": "可供选择的事物（或答案）"
+   },
+   {
+    "w": "fuel",
+    "ph": "[ˈfjuːəl]",
+    "pos": "n.",
+    "d": "燃料"
+   },
+   {
+    "w": "vehicle",
+    "ph": "[ˈviːəkl]",
+    "pos": "n.",
+    "d": "交通工具；车辆"
+   },
+   {
+    "w": "damage",
+    "ph": "[ˈdæmɪdʒ]",
+    "pos": "n.",
+    "d": "损坏；破坏；损失"
+   }
+  ]
+ },
+ "B十B": {
+  "title_en": "Personal Advantages of Taking Public Transportation",
+  "title_zh": "个人乘坐公共交通工具的好处",
+  "en": [
+   "When I take public transport, I always end up seeing a balanced view of regular folks, which is different from how they're usually depicted in the profit-driven media. I meet real, authentic people who may have the same concerns as mine. Whenever I'm on a bus, or the train, or even at times in a taxi that I share with other passengers, whom the driver pick ups along the way, I get assurances that most folks mean well to me, i.e., they don't mean to harm me intentionally, despite a few terrible, harsh experiences I've had with some bad people before.",
+   "People generally behave as politely and respectfully as they can whenever they take public transportation. That's how all of us were taught, by and large, by our parents, our elders and the generations before. We always need to conduct oneself at our best when in public. It's a great experience seeing able-bodied men give up seats to the elderly, disabled, or pregnant women. I even see women give up seats to others. I see people move a bit on their seats just to share space to those needing seats. I see people smiling and talking with each other. I feel more warmth among people when on a bus or the train. I see people behaving genuinely pleasant toward co-passengers, and I realize it takes a lot of guts to do this especially during these difficult times.",
+   "I always get the opportunity to save money, and am actually gaining pennies these days. This is particularly true when you live in a city, like New York, where subways and buses are in place. I've done the math: it's far cheaper to take the subway and the bus, plus the ferry if you live in Staten Island like me, than to keep a car and drive yourself to your usual destination. You save on the parking fees, the toll fees, the insurance cost, the repair and maintenance costs, and the perceived costs of aggravation from motorists on the road, the fuel, among other costs. On public transportation, you simply just pay the fare.",
+   "Just carry myself and my tiny baggage. I occupy the least space, which is actually wherever I happened to be standing or sitting, which contributes to my baggage being very economical and lighter to carry. If ever there would be untoward incidents while in transit, I'd always be assured that I only have myself to worry about, which is unlike when you're in your car. If an accident happens while you are in your car, you will be doubly aggravated because you will have to keep tabs on things other than yourself (who, by then, may be extremely anxious or even, may the Lord forbid, in a worst situation).",
+   "I am confident that I contribute more to efforts in sustaining and keeping a much cleaner environment. Motorists always have to consider that they actually are contributing more to accumulated environmental damage when they use fossil-sourced fuel for their cars. Those who are concerned about the environment, especially policymakers, leaders and managers, might as well heed this by taking the chance to take public transportation if time allows them. Their followers will eventually get the message: you'll be contributing more to saving what's left of our habitat by keeping away from using less of the natural resources.",
+   "I get the chance to do my exercises walking from my place to the bus stand (or the subway station, or the ferry station). I actually feel a much healthier me whenever I take public transportation."
+  ],
+  "zh": [
+   "当我乘坐公交车的时候，我总是能看到一般人的客观看法。这与那些以盈利为目的的媒体所描绘的可不一样。我遇到了一些真实、可信的人，他们和我有着相同的关注点。无论是在公交车上，还是在火车上，甚至在出租车上，我都与司机一路搭载着的其他乘客分享我的观点，我确信大多数人对我都是很好，例如，他们不会故意地伤害我，尽管以前有几次碰到坏人的残酷经历。",
+   "当人们乘坐公交车时，一般总是尽可能地表现得有礼貌又恭敬。这正是我们大家被我们的父母，长辈所教育的。在公众场合我们需要做最好的自己。看到健壮的小伙子给老弱病残孕让座是一件很伟大的经历，我甚至看到有女士也主动起来让座位。我看到有人在他们的座位上稍微挪一挪,只是为了跟其他需要座位的人一起坐。我看到人们彼此有说有笑。当我在公交车或是火车上时候，感到很有人间温情。我看到人们与共同乘车的乘客发自内心的愉快的行为，我意识到这是需要多大勇气才能做到的事情，尤其是在这些困难时期。",
+   "我总是找机会省钱，而且最近这些天我还真省下了些零钱。若你居住在像纽约这样的地铁和公交都很便利的一个大城市里，这尤其是真理。我算了一笔账:如果你跟我一样是住在纽约市的斯坦恩岛(Staten Island),乘坐地铁和公交,再加上渡船，也会比你自己开车去那些你常去的地方便宜。你省下停车费、通行收费、保险费、修理维护费、机动车道费用、燃油费,等等其他费用。而乘坐公交，你只需买票就好了。",
+   "我独自一人，背个小包。无论是站着还是坐着，我只占据很小一点空间,真的，这是因为我的包包很实用而且轻便。如果交通运载中不幸出现什么事故，我可以总是确保我仅仅需要担心自身的人身安全,如果你是在你自己的小轿车里情况就不同了。如果你在私家车里发生了事故，你的忧虑会增多,因为你除了考虑自身安全外,还得密切关注其他方面的事情(那个时候，你可能极端焦虑，亦或甚至于陷入更糟糕的困境，但愿这种事情不要发生。)",
+   "我很自信地说，我为维持和保护一个更洁净的环境做出了不少努力。当机动车驾驶员使用化石燃料给他们的车加油的时候,他们总是不得不认为他们给环境带来了很多破坏。那些担心环境问题的人士，尤其是政策制定者，领导和经理，可能也会在时间允许的情况下注意这方面，也去乘坐公交车。他们的追随者最终也得到这样的讯息:尽量减少使用自然资源，以此来更好地拯救我们的生活栖息地。",
+   "当我从住处走到公交站(或是地铁站，亦或是渡轮码头)的时候，我得到了一次锻炼身体的机会。乘坐公共交通让我真的感觉自己更加健康。"
+  ],
+  "vocab": [
+   {
+    "w": "advantage",
+    "ph": "[ədˈvɑːntɪdʒ]",
+    "pos": "n.",
+    "d": "有利条件；有利因素；优势"
+   },
+   {
+    "w": "authentic",
+    "ph": "[ɔːˈθentɪk]",
+    "pos": "adj.",
+    "d": "真实的；真正的"
+   },
+   {
+    "w": "assurance",
+    "ph": "[əˈʃʊərəns]",
+    "pos": "n.",
+    "d": "保证；担保"
+   },
+   {
+    "w": "intentionally",
+    "ph": "[ɪnˈtenʃənəli]",
+    "pos": "adv.",
+    "d": "有意地；故意地"
+   },
+   {
+    "w": "harsh",
+    "ph": "[hɑːʃ]",
+    "pos": "adj.",
+    "d": "残酷的；严酷的；严厉的"
+   },
+   {
+    "w": "respectfully",
+    "ph": "[rɪˈspektfəli]",
+    "pos": "adv.",
+    "d": "恭敬地"
+   },
+   {
+    "w": "able-bodied",
+    "ph": "[ˌeɪbl ˈbɒdid]",
+    "pos": "adj.",
+    "d": "健康的；健壮的"
+   },
+   {
+    "w": "warmth",
+    "ph": "[wɔːmθ]",
+    "pos": "n.",
+    "d": "热情；友情"
+   },
+   {
+    "w": "guts",
+    "ph": "[ɡʌts]",
+    "pos": "n.",
+    "d": "勇气；胆量；决心；毅力"
+   },
+   {
+    "w": "particularly",
+    "ph": "[pəˈtɪkjələli]",
+    "pos": "adv.",
+    "d": "特别；尤其"
+   },
+   {
+    "w": "ferry",
+    "ph": "[ˈferi]",
+    "pos": "n.",
+    "d": "渡船"
+   },
+   {
+    "w": "destination",
+    "ph": "[ˌdestɪˈneɪʃn]",
+    "pos": "n.",
+    "d": "目的地；终点"
+   },
+   {
+    "w": "maintenance",
+    "ph": "[ˈmeɪntənəns]",
+    "pos": "n.",
+    "d": "维护；保养"
+   },
+   {
+    "w": "economical",
+    "ph": "[ˌiːkəˈnɒmɪkl]",
+    "pos": "adj.",
+    "d": "节俭的；节约的；简洁的"
+   },
+   {
+    "w": "untoward",
+    "ph": "[ˌʌntəˈwɔːd]",
+    "pos": "adj.",
+    "d": "异常的；意外的；棘手的；不幸的"
+   },
+   {
+    "w": "incident",
+    "ph": "[ˈɪnsɪdənt]",
+    "pos": "n.",
+    "d": "发生的事情（尤指不寻常的或讨厌的）"
+   },
+   {
+    "w": "transit",
+    "ph": "[ˈtrænzɪt]",
+    "pos": "n.",
+    "d": "运输；运送；搬运；载运"
+   },
+   {
+    "w": "aggravate",
+    "ph": "[ˈæɡrəveɪt]",
+    "pos": "v.",
+    "d": "使严重；使恶化"
+   },
+   {
+    "w": "push",
+    "ph": "[pʊʃ]",
+    "pos": "n.",
+    "d": "矢志的追求；坚定的努力"
+   },
+   {
+    "w": "sustain",
+    "ph": "[səˈsteɪn]",
+    "pos": "v.",
+    "d": "使保持；使稳定持续"
+   },
+   {
+    "w": "accumulate",
+    "ph": "[əˈkjuːmjəleɪt]",
+    "pos": "v.",
+    "d": "积累；积聚"
+   },
+   {
+    "w": "heed",
+    "ph": "[hiːd]",
+    "pos": "v.",
+    "d": "留心；注意；听从（劝告或警告）"
+   },
+   {
+    "w": "habitat",
+    "ph": "[ˈhæbɪtæt]",
+    "pos": "n.",
+    "d": "（动植物的）生活环境，栖息地"
+   },
+   {
+    "w": "stand",
+    "ph": "[stænd]",
+    "pos": "n.",
+    "d": "停车处；站"
+   },
+   {
+    "w": "respect",
+    "ph": "[rɪˈspekt]",
+    "pos": "n.",
+    "d": "尊敬；敬意；尊重"
+   },
+   {
+    "w": "polite",
+    "ph": "[pəˈlaɪt]",
+    "pos": "adj.",
+    "d": "有礼貌的；客气的"
+   },
+   {
+    "w": "elderly",
+    "ph": "[ˈeldəli]",
+    "pos": "adj.",
+    "d": "年纪较大的；上了年纪的"
+   },
+   {
+    "w": "disabled",
+    "ph": "[dɪsˈeɪbld]",
+    "pos": "adj.",
+    "d": "丧失能力的；有残疾的"
+   },
+   {
+    "w": "pregnant",
+    "ph": "[ˈpreɡnənt]",
+    "pos": "adj.",
+    "d": "怀孕的；妊娠的"
+   },
+   {
+    "w": "genuinely",
+    "ph": "[ˈdʒenjuɪnli]",
+    "pos": "adv.",
+    "d": "真正地；真诚地"
+   },
+   {
+    "w": "motorist",
+    "ph": "[ˈməʊtərɪst]",
+    "pos": "n.",
+    "d": "驾车者；开车的人"
+   },
+   {
+    "w": "fossil",
+    "ph": "[ˈfɒsl]",
+    "pos": "n.",
+    "d": "化石"
+   }
+  ]
+ },
+ "B十一A": {
+  "title_en": "Cyberlove",
+  "title_zh": "网络爱情",
+  "en": [
+   "Thanks to the late 20th century technology, Maria of Denmark and Martijin of Holland met on a chatline. For months they've talked and sent letters to each other with the help of their computers as they found themselves falling head over heels in love. It was then that they decided to meet in the real, not only the virtual, world. It was not easy to arrange as the young man and his lady were separated by 700 very real kilometers, but the date was a success and Maria and Martijn have been living together happily ever since. They've created a home page to let the world know how they've found happiness via the Internet and introduce couples who've met under similar circumstances.",
+   "Throughout history men and women had used a variety of means to find each other. Internet romance, according to some, is a bizarre method, and to others it is a natural way for the 90's to meet potential mates.",
+   "Romances formed on the internet follow a characteristic script. The development of emotional intimacy is a long process, sometimes taking several months. \"Love at first byte\" is rare although there are examples. The initial light exchanges, whether by e-mail or in chat rooms, are generally followed by increasingly self-revealing topics, and then after a while, the two strangers perceive each other as a true friend. Hearts open and an avalanche of e-mail crosses cyberspace carrying literary quality, and electronic messages are even enhanced with verses and virtual gifts (flowers, kisses, animated pictures). Could any heart with romantic inclinations resist? When you reach for the mouse with sweaty palms and butterflies in the stomach to look in the in-box for new mail - there's just no way to escape the fact - love has arrived.",
+   "How does a cyber romance vary from a real life romance? Perhaps one significant difference is that communication plays such a large part. Words that convey feelings have enormous effect. While before a real date we fix our hair and our clothes, on the internet we polish our intellect, imagination and personality. In essence, the sequence is reversed - first we show our inner beauty and only after it had won victory does the veil fall off the physical vehicle of that personality at the time of that first meeting in person.",
+   "It is a popular topic in cyberspace to debate whether or not true love can develop merely on an intellectual level, without physical attraction or the familiarity of the other's appearance? To put it another way: is the physical appearance of the man or woman play a part in the relationship if, through the exchange of thoughts and feelings, they already fell in love?",
+   "Many say it is against the nature of love to be deprive...of... the sense of sight, the look, the movement, and the body language being present. There are those, of course, who favor Internet relationships claiming that the intensity of the emotional relationship that develops in such a way is superior to the mere stirring of the flesh.",
+   "Whatever the opinion may be on cyber love - it must be said in favor of the internet that it puts people in touch with those who they otherwise would never have met. I would never have suspected that the first person I met by e-mail would be a German chimney sweeper, with whom, after a year of correspondence, albeit not romantic, a common interest still exists.",
+   "It is silly to perceive the Net as a demon, when we determine how we meet its challenges. While there are those who can use the Net to their advantage extracting useful information, there are those who become addicts losing common sense, hopping from chat room to chat room, writing piles of e-mails full of lies to chosen victims, and whose virtual reality, the flirtations, become part of their everyday lives, as if a disease. One thing is true - the Net is very addictive. According to the confession of a multiple substance addict, it was easier to give up cocaine than the IRC（short for Internet Relay Chat）.",
+   "In any case, keep your eyes open off-line as well. Turn off the machine and go to a dance or a club, because most women still expect to be courted in a real, old-fashioned, and romantic way."
+  ],
+  "zh": [
+   "要感谢20世纪晚期的技术发展，丹麦的玛利亚和荷兰的马迪金在网络聊天室相遇了。几个月以来，在电脑的帮助下，他们聊天，给彼此发信，发现已彻底地爱上了对方。就是在那个时候他们决定在真实的世界里见面，而不只是在虚拟世界里。这可不是一件容易安排的事情，因为这年轻人和他女朋友真实生活中相距700多公里，但是约会很成功，此后玛利亚和马迪金快乐地生活在一起了。他们通过互联网创建了一个主页，让世界知道他们如何通过网络找到了幸福，并且介绍了情况和他们类似的恋人。",
+   "自历史以来男人和女人就使用各种各样的方式来寻找彼此。网恋，据某些人说，是一种很异乎寻常的方式，但对于另外一些人来讲，它是一种很自然的方式让90年代的人们遇见潜在的伴侣。",
+   "网上的恋情有一定的特点可循。情感上的亲密性的发展是一个长期的过程，有时候需要好几个月的时间。尽管有\"一见钟情\"的例子，但这毕竟还是比较少见的。不管是通过电子邮件还是聊天室,最初是简单的交流，然后是越来越多的自我表露的话题，过了一段时间之后，两个陌生人把彼此当成了真正的朋友。打开心扉，如雪崩般的带有诗情画意的电子邮件在网络空间里来回穿梭，电子邮件因附有了诗和电子礼物(花束，亲吻，动画图案)而得到了提升。那颗浪漫的心能够拒绝吗？当你把汗津津的手掌放到鼠标上，心里七上八下地看着收件箱里的新邮件的时候------你没有办法逃避一个现实------爱情已经来了。",
+   "网络上的恋情和真实生活中的爱情有什么不一样呢？可能一个很大的区别就是交流沟通在发挥着很大的作用。带有情感的文字能产生巨大的影响。然而当在现实生活中的约会之前，我们做头发，穿衣打扮，而在网络上我们修饰自己的智慧，想象力和性格特点。其实顺序是相反的，我们先展示了内在美，只有在内在美赢得胜利之后，第一次见面时，外在的东西才展露出来。",
+   "在聊天室有一个很热门的话题，就是讨论真爱是否只能在理智层面上发展，没有生理吸引力或是其他的外表的熟悉。换句话说:如果，通过思想和情感的交流，他们已经坠入爱河，那么，男人或是女人外表特征在两性关系中是否还起作用？",
+   "很多人说剥夺了感官上,视觉，动作,和表现出来的肢体语言，违背了爱情的本质。当然，有那么些人更喜欢网恋，他们认为由这种方式发展起来的感情关系的紧张强度远比仅仅有肉欲的关系要优越。",
+   "不管对于网恋持什么样的观点，必须得支持互联网，它把根本从未见过的人们聚在一块儿联系起来。我从不怀疑，我通过电子邮件遇到的第一个人竟是一个德国的烟囱清扫工，和他，经过了一年的通信联系，虽然不是特别浪漫，但是我们仍然存有一个共同的兴趣点。",
+   "当我们决定我们如何面对网络的挑战时，把它看成恶魔是很愚蠢的。然而有些人能利用网络并从中提取有用信息，而有些人却沉溺于此，失去常理常识，从一个聊天室蹦到另一个聊天室，写一大堆充满谎言的电子邮件，来选择受害者，在他们的虚拟现实里，调情，成为日常生活的一部分，就好像一种疾病。有一点是确信无疑的------网络非常容易使人着迷。根据很多毒品成瘾者的坦白，戒掉可卡因比戒掉网上实时聊天（Internet Relay Chat)的网瘾容易多了。",
+   "无论如何，离线时也要睁大眼睛。关掉机器，去参加舞会或俱乐部吧，因为大多数女人仍然希望被追求的方式是真实的、老式的、浪漫的。"
+  ],
+  "vocab": [
+   {
+    "w": "chatline",
+    "ph": "[ˈtʃætlaɪn]",
+    "pos": "n.",
+    "d": "（消遣性的）热线电话交谈服务"
+   },
+   {
+    "w": "variety",
+    "ph": "[vəˈraɪəti]",
+    "pos": "n.",
+    "d": "（同一事物的）不同种类，多种式样"
+   },
+   {
+    "w": "romance",
+    "ph": "[rəʊˈmæns]",
+    "pos": "n.",
+    "d": "恋爱；爱情"
+   },
+   {
+    "w": "bizarre",
+    "ph": "[bɪˈzɑː(r)]",
+    "pos": "adj.",
+    "d": "极其怪诞的；异乎寻常的"
+   },
+   {
+    "w": "potential",
+    "ph": "[pəˈtenʃl]",
+    "pos": "adj.",
+    "d": "潜在的；可能的"
+   },
+   {
+    "w": "script",
+    "ph": "[skrɪpt]",
+    "pos": "n.",
+    "d": "剧本；广播（或讲话等）稿"
+   },
+   {
+    "w": "intimacy",
+    "ph": "[ˈɪntɪməsi]",
+    "pos": "n.",
+    "d": "亲密；关系密切"
+   },
+   {
+    "w": "initial",
+    "ph": "[ɪˈnɪʃl]",
+    "pos": "adj.",
+    "d": "最初的；开始的"
+   },
+   {
+    "w": "perceive",
+    "ph": "[pəˈsiːv]",
+    "pos": "v.",
+    "d": "将...视为；认为"
+   },
+   {
+    "w": "avalanche",
+    "ph": "[ˈævəlɑːnʃ]",
+    "pos": "n.",
+    "d": "雪崩；山崩"
+   },
+   {
+    "w": "literary",
+    "ph": "[ˈlɪtərəri]",
+    "pos": "adj.",
+    "d": "文学的；文学上的"
+   },
+   {
+    "w": "verse",
+    "ph": "[vɜːs]",
+    "pos": "n.",
+    "d": "诗；韵文"
+   },
+   {
+    "w": "animated",
+    "ph": "[ˈænɪmeɪtɪd]",
+    "pos": "adj.",
+    "d": "栩栩如生的；（似）能活动的"
+   },
+   {
+    "w": "inclination",
+    "ph": "[ˌɪnklɪˈneɪʃn]",
+    "pos": "n.",
+    "d": "倾向；意愿"
+   },
+   {
+    "w": "sweaty",
+    "ph": "[ˈsweti]",
+    "pos": "adj.",
+    "d": "满是汗的；汗津津的"
+   },
+   {
+    "w": "palm",
+    "ph": "[pɑːm]",
+    "pos": "n.",
+    "d": "手掌；手心"
+   },
+   {
+    "w": "vary",
+    "ph": "[ˈveəri]",
+    "pos": "v.",
+    "d": "相异；不同"
+   },
+   {
+    "w": "convey",
+    "ph": "[kənˈveɪ]",
+    "pos": "v.",
+    "d": "表达，传递（思想、感情等）"
+   },
+   {
+    "w": "polish",
+    "ph": "[ˈpɒlɪʃ]",
+    "pos": "v.",
+    "d": "修改；润饰；润色"
+   },
+   {
+    "w": "intellect",
+    "ph": "[ˈɪntəlekt]",
+    "pos": "n.",
+    "d": "（尤指高等的）智力，思维逻辑领悟力"
+   },
+   {
+    "w": "personality",
+    "ph": "[ˌpɜːsəˈnæləti]",
+    "pos": "n.",
+    "d": "性格；个性；人格"
+   },
+   {
+    "w": "sequence",
+    "ph": "[ˈsiːkwəns]",
+    "pos": "n.",
+    "d": "顺序；次序"
+   },
+   {
+    "w": "reverse",
+    "ph": "[rɪˈvɜːs]",
+    "pos": "v.",
+    "d": "颠倒；彻底转变；使完全相反"
+   },
+   {
+    "w": "veil",
+    "ph": "[veɪl]",
+    "pos": "v.",
+    "d": "掩饰；掩盖"
+   },
+   {
+    "w": "intellectual",
+    "ph": "[ˌɪntəˈlektʃuəl]",
+    "pos": "adj.",
+    "d": "智力的；脑力的；理智的"
+   },
+   {
+    "w": "familiarity",
+    "ph": "[fəˌmɪliˈærəti]",
+    "pos": "n.",
+    "d": "熟悉；通晓"
+   },
+   {
+    "w": "appearance",
+    "ph": "[əˈpɪərəns]",
+    "pos": "n.",
+    "d": "外貌；外表"
+   },
+   {
+    "w": "intensity",
+    "ph": "[ɪnˈtensəti]",
+    "pos": "n.",
+    "d": "强烈；紧张；剧烈"
+   },
+   {
+    "w": "stirring",
+    "ph": "[ˈstɜːrɪŋ]",
+    "pos": "n.",
+    "d": "（感情、想法或发展的）开始，出现，萌发"
+   },
+   {
+    "w": "flesh",
+    "ph": "[fleʃ]",
+    "pos": "n.",
+    "d": "（动物或人的）肉"
+   },
+   {
+    "w": "suspect",
+    "ph": "[səˈspekt]",
+    "pos": "v.",
+    "d": "疑有，觉得（尤指坏事可能属实或发生）"
+   },
+   {
+    "w": "correspondence",
+    "ph": "[ˌkɒrəˈspɒndəns]",
+    "pos": "n.",
+    "d": "通信；通信联系"
+   },
+   {
+    "w": "albeit",
+    "ph": "[ˌɔːlˈbiːɪt]",
+    "pos": "conj.",
+    "d": "尽管；虽然"
+   },
+   {
+    "w": "demon",
+    "ph": "[ˈdiːmən]",
+    "pos": "n.",
+    "d": "恶魔；魔鬼"
+   },
+   {
+    "w": "determine",
+    "ph": "[dɪˈtɜːmɪn]",
+    "pos": "v.",
+    "d": "决定"
+   },
+   {
+    "w": "extract",
+    "ph": "[ˈekstrækt]",
+    "pos": "v.",
+    "d": "选取；摘录；录"
+   },
+   {
+    "w": "addict",
+    "ph": "[ˈædɪkt]",
+    "pos": "n.",
+    "d": "对...入迷的人"
+   },
+   {
+    "w": "hop",
+    "ph": "[hɒp]",
+    "pos": "v.",
+    "d": "突然快速去某处"
+   },
+   {
+    "w": "flirtation",
+    "ph": "[flɜːˈteɪʃn]",
+    "pos": "n.",
+    "d": "调情"
+   },
+   {
+    "w": "addictive",
+    "ph": "[əˈdɪktɪv]",
+    "pos": "adj.",
+    "d": "使人入迷的"
+   },
+   {
+    "w": "confession",
+    "ph": "[kənˈfeʃn]",
+    "pos": "n.",
+    "d": "认罪；供认；坦白"
+   },
+   {
+    "w": "multiple",
+    "ph": "[ˈmʌltɪpl]",
+    "pos": "adj.",
+    "d": "数量多的；多种多样的"
+   },
+   {
+    "w": "court",
+    "ph": "[kɔːt]",
+    "pos": "v.",
+    "d": "（男子向女子）求爱，追求"
+   }
+  ]
+ },
+ "B十一B": {
+  "title_en": "The Impact of the Internet on Society",
+  "title_zh": "互联网对社会的影响",
+  "en": [
+   "The Internet has had a profound effect on society over the last two decades. Although it began as a government operation, over time this innovative technology eventually evolved into a public novelty. Looking at society today, one may find that the situation has certainly evolved. For many, the Internet has become an essential for daily living, no longer the fun novelty it was 10 years ago. Even a decade ago if you were to think about whether or not the Internet had significant impact on society, the answer would likely have been probably not. While the Net may have been considered a neat innovation, it was not like anyone \"needed\" it.",
+   "However, over time this perception has changed for many individuals in society. The Internet has become, for the most part, an absolute necessity, either by requirement or by desire. Going online has become as natural as doing other daily tasks people have traditionally done. People take it for granted that the Internet will be available, and dependency on being connected has become the norm. Both businesses and individuals alike depend upon the routine availability of the Internet. Due to the fact that many businesses, government agency and other organizations have navigated to the online environment, generally people require consistent access, or 24/7 (24hours a day, 7 days a week) access, if you will.",
+   "In many ways the Internet has had a very positive effect on society. It has improved communication, simplifyied handling tasks and errands, offered huge convenience, enabled faster processing, and provided more options, all of which have freed more time to do other things.",
+   "Yet, interestingly enough the Internet has, in some ways, had negative effects. The quality of communication has declined; people are impatient because they have become accustomed to instant gratification, and using the Internet also takes up a lot of time. As websites such as Facebook and other socially based interactions increase in usage, many hours a day are consumed as people keep up with their various networks, taking away from other activities.",
+   "When looking at it from the latter perspective, one may wonder whether or not the Internet has truly benefited society. realistically, as with anything else, the Internet has its pros and cons. Tools such as e-mail and instant messaging have become the standard; social networks are quickly evolving into the next level of communication, and people enjoy their constant access. In this respect the benefits of the Internet are tremendous. This is not only evidenced by the many activities people engage in when they connect to the Internet, but also by the continuous progression and development of mobile devices such as smartphones.",
+   "Society has evolved to the point where people expect and rely on readily available information. People also expect to receive rapid responses when doing business and personal tasks. The Internet makes this possible. Many of the things that society takes for granted nowadays are all made possible by the development of the Internet.",
+   "What kind of an impact has the Internet had on society? Wrapped up in the advantages and disadvantages one thing is for certain: the Internet has had a significant effect on society. To imagine the impact all one has to do is try to envision the consequences if the Internet was suddenly removed from society. Imagine a world where the Internet was unavailable. How would it affect you? Looking at it from this respect, for many it likely brings to light just how reliant and dependent society has become on the Internet and it would be extremely hard to turn back the clock."
+  ],
+  "zh": [
+   "近二十几年以来，互联网对社会产生了深远的影响。尽管它开始是由政府运营的，随着时间的推移，这项革新的技术最终发展演变到公共领域。看看如今的社会，你会发现情况早就已经变化了。对于大多数人来说，互联网早已成为日常生活中非常必不可少的东西了，而不再是像它10年前那样是个新奇玩意了。甚至是10年前，如果你那时候设想一下互联网是否会对社会产生重大的影响，答案可能都不见得是肯定的。然而网络可能已经被认为是个整洁的创新，并不是每个人都\"需要\"它。",
+   "但是，随着时间的推移，社会上大多数人的看法都发生了变化。在很大程度上，网络已经变成为一个绝对的必需品，要么是必要条件要么是心里渴望。去上网已经成为一件很自然的事情，就跟按照惯例做其他日常的事情一样。人们想当然的认为有网络可以上，而且依赖这种联系方式成为很正常的事情。企业和个人都依赖网络的常规可用性。由于实际上很多企业，政府机构，和其他组织都在网络环境里有导航，一般人们需要一贯地可以有网络可用，或者说是24小时7天不间断的可以上网，如果你想这样的话。",
+   "从很多方面来讲互联网对社会产生了很积极的作用。它改善了人们之间的沟通交流，将处理任务和差事简化了，提供了很大的便捷，能够更快地处理各种程序和提供更多的选择，所有这些都释放了很多时间来做其他的事情。",
+   "然而，从某种程度上讲，快速发展的网络也有一些负面影响。交流质量下降了；人们变得不太有耐心了，因为人们变得习惯于快速地被满足，而且使用网络也是占用了很多时间。一些网站使用量大增，比如脸谱和其他社交网站。人们每天花很多时间忙于各种网络联系，占用了其他活动的时间。",
+   "从后一种观点来看，你可能会好奇想知道网络是不是真的对社会有益处。实事求是地讲，和其他事情一样，网络也是有它的利处和弊端。比如，像电子邮件和短消息这些工具，已经成为标准了；社交网络正在向交流沟通的下一阶段快速地发展，而且人们很享受他们能够长期的在线上网。在这方面，互联网的益处是极大的。人们利用互联网所从事的种种活动，以及移动设备比如智能手机的持续进步和发展都能证明了这一点。",
+   "社会已经发展到人们期望并且依赖触手可得信息的地步。人们也希望在工作和个人事务上都能快速的接受到回应。互联网让这成为可能。现如今，社会所认为是理所当然的很多事情都是由于互联网的发展才使之成为可能的。",
+   "互联网到底对社会产生了怎样的影响呢？总结一下它的优势和劣势，有一点是可以肯定的：互联网对社会已经产生了很重要的深远的影响。如果突然把互联网从社会中移除掉的话，想象一下这对所有人是怎样的后果呢。设想一下没有互联网的地方会是一个怎么样的世界。那会给你带来怎么样的影响呢？从这方面来看，对于大多数人来说，它可能昭示出了社会已经变得是多么的依赖互联网了，而且如果时光回转那会变得多么困难。"
+  ],
+  "vocab": [
+   {
+    "w": "innovative",
+    "ph": "[ˈɪnəveɪtɪv]",
+    "pos": "adj.",
+    "d": "革新的；创新的"
+   },
+   {
+    "w": "evolve",
+    "ph": "[ɪˈvɒlv]",
+    "pos": "v.",
+    "d": "（使）逐渐形成，逐步发展"
+   },
+   {
+    "w": "novelty",
+    "ph": "[ˈnɒvlti]",
+    "pos": "n.",
+    "d": "新奇的事物（或人、环境）"
+   },
+   {
+    "w": "essential",
+    "ph": "[ɪˈsenʃl]",
+    "pos": "n.",
+    "d": "必不可少的东西；必需品"
+   },
+   {
+    "w": "perception",
+    "ph": "[pəˈsepʃn]",
+    "pos": "n.",
+    "d": "看法；见解"
+   },
+   {
+    "w": "traditionally",
+    "ph": "[trəˈdɪʃənəli]",
+    "pos": "adv.",
+    "d": "传统上；照惯例"
+   },
+   {
+    "w": "dependency",
+    "ph": "[dɪˈpendənsi]",
+    "pos": "n.",
+    "d": "（尤指不正常或不必要的）依靠，依赖"
+   },
+   {
+    "w": "norm",
+    "ph": "[nɔːm]",
+    "pos": "n.",
+    "d": "常态；正常行为"
+   },
+   {
+    "w": "routine",
+    "ph": "[ruːˈtiːn]",
+    "pos": "adj.",
+    "d": "常规的；例行公事的；日常的"
+   },
+   {
+    "w": "availability",
+    "ph": "[əˌveɪləˈbɪləti]",
+    "pos": "n.",
+    "d": "可用；可得到"
+   },
+   {
+    "w": "agency",
+    "ph": "[ˈeɪdʒənsi]",
+    "pos": "n.",
+    "d": "（政府的）专门机构"
+   },
+   {
+    "w": "navigate",
+    "ph": "[ˈnævɪɡeɪt]",
+    "pos": "v.",
+    "d": "（在因特网或网站上）导航"
+   },
+   {
+    "w": "access",
+    "ph": "[ˈækses]",
+    "pos": "n.",
+    "d": "通道；通路；入径"
+   },
+   {
+    "w": "simplify",
+    "ph": "[ˈsɪmplɪfaɪ]",
+    "pos": "v.",
+    "d": "使简化；使简易"
+   },
+   {
+    "w": "errand",
+    "ph": "[ˈerənd]",
+    "pos": "n.",
+    "d": "差使；差事"
+   },
+   {
+    "w": "process",
+    "ph": "[ˈprəʊses]",
+    "pos": "v.",
+    "d": "数据处理"
+   },
+   {
+    "w": "option",
+    "ph": "[ˈɒpʃn]",
+    "pos": "n.",
+    "d": "可选择的事物"
+   },
+   {
+    "w": "decline",
+    "ph": "[dɪˈklaɪn]",
+    "pos": "v.",
+    "d": "减少；下降；衰退"
+   },
+   {
+    "w": "impatient",
+    "ph": "[ɪmˈpeɪʃnt]",
+    "pos": "adj.",
+    "d": "不耐烦的；没有耐心的"
+   },
+   {
+    "w": "gratification",
+    "ph": "[ˌɡrætɪfɪˈkeɪʃn]",
+    "pos": "n.",
+    "d": "满足；满意"
+   },
+   {
+    "w": "interaction",
+    "ph": "[ˌɪntərˈækʃn]",
+    "pos": "n.",
+    "d": "相互作用；相互影响"
+   },
+   {
+    "w": "consume",
+    "ph": "[kənˈsjuːm]",
+    "pos": "v.",
+    "d": "消耗，耗费（燃料、能量、时间等）"
+   },
+   {
+    "w": "realistically",
+    "ph": "[ˌriːəˈlɪstɪkli]",
+    "pos": "adv.",
+    "d": "现实地；实际地"
+   },
+   {
+    "w": "standard",
+    "ph": "[ˈstændəd]",
+    "pos": "n.",
+    "d": "（品质的）标准，水平，规格"
+   },
+   {
+    "w": "tremendous",
+    "ph": "[trəˈmendəs]",
+    "pos": "adj.",
+    "d": "巨大的；极大的"
+   },
+   {
+    "w": "evidence",
+    "ph": "[ˈevɪdəns]",
+    "pos": "n.",
+    "d": "证明；表明"
+   },
+   {
+    "w": "smartphone",
+    "ph": "[ˈsmɑːtfəʊn]",
+    "pos": "n.",
+    "d": "智能手机"
+   },
+   {
+    "w": "envision",
+    "ph": "[ɪnˈvɪʒn]",
+    "pos": "v.",
+    "d": "展望；想象"
+   },
+   {
+    "w": "reliant",
+    "ph": "[rɪˈlaɪənt]",
+    "pos": "adj.",
+    "d": "依赖性的；依靠的"
+   },
+   {
+    "w": "profound",
+    "ph": "[prəˈfaʊnd]",
+    "pos": "adj.",
+    "d": "巨大的；深切的；深远的"
+   },
+   {
+    "w": "operation",
+    "ph": "[ˌɒpəˈreɪʃn]",
+    "pos": "n.",
+    "d": "（有组织的）活动，行动"
+   },
+   {
+    "w": "device",
+    "ph": "[dɪˈvaɪs]",
+    "pos": "n.",
+    "d": "装置；仪器；设备"
+   },
+   {
+    "w": "consequence",
+    "ph": "[ˈkɒnsɪkwəns]",
+    "pos": "n.",
+    "d": "结果；后果"
+   }
+  ]
+ },
+ "B十二A": {
+  "title_en": "Feeling Free",
+  "title_zh": "感觉自由",
+  "en": [
+   "I woke up feeling cranky. I didn't want to do housework, though the laundry was piling up. I didn't want to read the work I brought home from the office. I didn't want to do anything that resembled responsible behavior. It was that kind of day.",
+   "As I drank my morning tea, I thought I felt a headache coming on. Yes, there it was, a dull throb just behind my eyes. Maybe I should go back to bed until it subsided. As I put the dishes in the sink, it seemed that my muscles were beginning to ache. Or was the ache in my joints? That could mean I was coming down with the flu. Everyone I knew had the flu this year. Why should I be the one to escape it? I absolutely should be in bed.",
+   "I shuffled back to bed, wiggled under the covers and shut my eyes. Another couple of hours of sleep would be so nice, but I was already completely awake. I ought to get up. But no, there was that headache and the beginning of a sniffle. Better get the tissues.",
+   "On my way back from the bathroom with a family-sized tissue box, I stopped to grab that big new novel I had bought but had no time to read. I opened the book and settled against the pillows.",
+   "The morning was moving along and so was my reading. Another twenty pages and I was stretching. I should try to crack the report I was working on. I should at least get up and do the wash. What if I was contagious? I certainly didn't want to spread any germs. The wash could wait. My family was resourceful enough to scrounge clothing for the next day.",
+   "Maybe I wasn't actually getting the flu. I didn't really want to be sick. To be truthful, all I wanted was a little time off. I needed to nurture myself away from people, chores, career and the outside world. Did I have to wait to be sick to do that? As a child, the only respite from school or family chores was illness. But I wasn't a child any more. Did I have to manufacture symptoms to provide myself with an excuse? No, I decided, I didn't.",
+   "I talked to myself. Okay, I said, you need a day off. Admit it. Accept it. Toss out the guilt and enjoy a mini-vacation. What would you like to do? Read? You're already doing that. pamper yourself? Take a bubble bath. Be a hermit? Let the machine answer the phone.",
+   "I poured half the bottle of bath gel into the streaming water and added a hearty handful of chamomile bath salts. Then I lit a vanilla-scented candle and gingerly stepped into the bathtub. With a grateful sigh, I immersed myself in my homemade spa. I heard the phone ring somewhere off in the distance and smiled.",
+   "It is funny how the aches subsided in the heat of the tub. They just slipped away with the last of the bubbles down the drain. My head felt just fine, the throb replaced by a sense of well-being.",
+   "By late afternoon, I was back at it, refreshed physically, mentally and emotionally. And rather than feeling helpless, I felt empowered. I had given myself permission to listen and respond to my needs, to care for myself the way I tended to my family. I didn't need the crutch of illness to justify a rest. It was such a simple awareness, but then isn't it the simple things that set us free?"
+  ],
+  "zh": [
+   "我醒来，感觉脾气暴躁。我不想做家务，尽管要洗的衣服堆积了一大堆。我不想读我下班后买的书，我不想做任何看起来像是要负责任的事情。就是这样的一天。",
+   "当我喝早茶的时候，我想我感觉开始头痛了。是的，就是那样，一阵阵疼痛从我的眼后袭来。可能我应该躺回床上直到疼痛消退。当我把盘子放到水槽里的时候，似乎我的肌肉也开始疼痛，或是关节在疼？这可能意味着我感冒了。今年我认识的每一个人都患感冒了。为什么我能成为那个逃掉的人呢？我必须躺床上去。",
+   "我拖着脚蹭到床上，在被子里扭了扭身子，闭上眼睛。再睡上几个小时必定是会极好的，可是我已经完全没有睡意了。我应该起床，但是不行，头痛还开始抽鼻子了。最好拿点纸巾去。",
+   "我拿了家用纸巾盒，从卫生间走回来的路上，我停了一下，把新买的但却一直没时间读的书取来。我翻开书，重新在枕头上躺下。",
+   "早上就这么过去了，而我就在读书。又读二十来页，我伸展了一下身子。我应该试着把我做的那份报告解决掉。我至少应该起床，把衣服洗了去。如果我患了接触性传染病怎么办？我肯定不想传播病菌。衣服可以等会儿再去洗。家人足够有能力找到第二天能穿的衣服。",
+   "可能我没有真的感冒。我真的不想生病。坦白地讲，我想要的只是一点时间可以放松一下。我需要保养一下我自己，不去理会他人，家务活，事业还有外面的世界。难道真得等我生病了才能这样吗？儿时，唯一的不用去上学或是做家务的暂缓就是生病了。但是我已经不是小孩子了。难道我得造假装出生病的症状来给自己提供一个借口吗？不，我决定，我不这样做。",
+   "我跟自己说。好吧，我说，你需要给自己放一天假。认了吧。接受吧。抛掉负罪感，享受一个小假期吧。你想要做点什么呢？读书？你已经读了。精心护理自己一下？洗个泡泡浴。做个隐士？让机器来接电话。",
+   "我将半瓶子护肤凝胶倒入水里，然后又加了一大把甘菊沐浴盐。接下来，我点亮了一盏香草味的蜡烛，小心翼翼地迈进了浴缸。感激地叹了口气，我把自己没入自制的水疗。我听见电话铃声从远处某个地方响起来了，我却笑了。",
+   "在浴缸的热水里，头痛慢慢消失了，这真的是很有意思。它们随着流入排水管的最后一个泡泡也跟着消失了。我的头感觉很好，阵痛被安乐幸福所取代。",
+   "后来那个下午，我就好了，身体上恢复了精力，精神上和情绪上也感到清爽了很多。我感觉增强了能力，而不是感觉无助了。我给了自己倾听并满足自己需求的机会，像照顾家人一样关心一下自己。我并不需要依靠疾病来为得到休息做辩护。这就是一个简单的意识，但是这不就正是让我们放松自己的最简单的事情吗？"
+  ],
+  "vocab": [
+   {
+    "w": "cranky",
+    "ph": "[ˈkræŋki]",
+    "pos": "adj.",
+    "d": "脾气坏的"
+   },
+   {
+    "w": "laundry",
+    "ph": "[ˈlɔːndri]",
+    "pos": "n.",
+    "d": "要（或正在）洗的衣物；刚洗好的衣物"
+   },
+   {
+    "w": "resemble",
+    "ph": "[rɪˈzembl]",
+    "pos": "v.",
+    "d": "看起来像；显得像；像"
+   },
+   {
+    "w": "throb",
+    "ph": "[θrɒb]",
+    "pos": "n.",
+    "d": "（强烈有规律的）跳动；阵阵的疼痛"
+   },
+   {
+    "w": "subside",
+    "ph": "[səbˈsaɪd]",
+    "pos": "v.",
+    "d": "趋于平静；平息；减弱；消退"
+   },
+   {
+    "w": "ache",
+    "ph": "[eɪk]",
+    "pos": "v.",
+    "d": "疼痛；隐痛"
+   },
+   {
+    "w": "joint",
+    "ph": "[dʒɔɪnt]",
+    "pos": "n.",
+    "d": "关节"
+   },
+   {
+    "w": "shuffle",
+    "ph": "[ˈʃʌfl]",
+    "pos": "v.",
+    "d": "拖着脚走"
+   },
+   {
+    "w": "wiggle",
+    "ph": "[ˈwɪɡl]",
+    "pos": "v.",
+    "d": "（使）扭动，摆动，摇动"
+   },
+   {
+    "w": "sniffle",
+    "ph": "[ˈsnɪfl]",
+    "pos": "n.",
+    "d": "抽鼻子（声）"
+   },
+   {
+    "w": "tissue",
+    "ph": "[ˈtɪʃuː]",
+    "pos": "n.",
+    "d": "(尤指用作手帕的)纸巾，手巾纸"
+   },
+   {
+    "w": "pillow",
+    "ph": "[ˈpɪləʊ]",
+    "pos": "n.",
+    "d": "枕头"
+   },
+   {
+    "w": "crack",
+    "ph": "[kræk]",
+    "pos": "v.",
+    "d": "找到解决（难题等的）方法"
+   },
+   {
+    "w": "contagious",
+    "ph": "[kənˈteɪdʒəs]",
+    "pos": "adj.",
+    "d": "患接触性传染病的"
+   },
+   {
+    "w": "germ",
+    "ph": "[dʒɜːm]",
+    "pos": "n.",
+    "d": "微生物；细菌；病菌"
+   },
+   {
+    "w": "resourceful",
+    "ph": "[rɪˈsɔːsfl]",
+    "pos": "adj.",
+    "d": "机敏的；足智多谋的；随机应变的"
+   },
+   {
+    "w": "scrounge",
+    "ph": "[skraʊndʒ]",
+    "pos": "v.",
+    "d": "觅取；搜寻"
+   },
+   {
+    "w": "nurture",
+    "ph": "[ˈnɜːtʃə(r)]",
+    "pos": "v.",
+    "d": "养育；养护；培养"
+   },
+   {
+    "w": "chore",
+    "ph": "[tʃɔː(r)]",
+    "pos": "n.",
+    "d": "令人厌烦的任务、乏味无聊的工作"
+   },
+   {
+    "w": "respite",
+    "ph": "[ˈrespɪt]",
+    "pos": "n.",
+    "d": "暂停；暂缓"
+   },
+   {
+    "w": "manufacture",
+    "ph": "[ˌmænjuˈfæktʃə(r)]",
+    "pos": "v.",
+    "d": "编造；捏造"
+   },
+   {
+    "w": "symptom",
+    "ph": "[ˈsɪmptəm]",
+    "pos": "n.",
+    "d": "症状"
+   },
+   {
+    "w": "pamper",
+    "ph": "[ˈpæmpə(r)]",
+    "pos": "v.",
+    "d": "细心照顾；精心护理；娇惯；纵容"
+   },
+   {
+    "w": "hermit",
+    "ph": "[ˈhɜːmɪt]",
+    "pos": "n.",
+    "d": "隐士；隐修者；遁世者"
+   },
+   {
+    "w": "gel",
+    "ph": "[dʒel]",
+    "pos": "n.",
+    "d": "凝胶，冻胶（尤指用于头发或护肤的产品）"
+   },
+   {
+    "w": "hearty",
+    "ph": "[ˈhɑːti]",
+    "pos": "adj.",
+    "d": "大的；丰盛的"
+   },
+   {
+    "w": "chamomile",
+    "ph": "[ˈkæməmaɪl]",
+    "pos": "n.",
+    "d": "苹果菊；春黄菊；甘菊"
+   },
+   {
+    "w": "vanilla-scented",
+    "ph": "[vəˈnɪlə ˈsentɪd]",
+    "pos": "adj.",
+    "d": "香草味的"
+   },
+   {
+    "w": "gingerly",
+    "ph": "[ˈdʒɪndʒəli]",
+    "pos": "adv.",
+    "d": "谨慎地；小心翼翼地；轻手轻脚地"
+   },
+   {
+    "w": "grateful",
+    "ph": "[ˈɡreɪtfl]",
+    "pos": "adj.",
+    "d": "感激的；表示感谢的"
+   },
+   {
+    "w": "spa",
+    "ph": "[spɑː]",
+    "pos": "n.",
+    "d": "水疗"
+   },
+   {
+    "w": "tub",
+    "ph": "[tʌb]",
+    "pos": "n.",
+    "d": "浴缸；浴盆"
+   },
+   {
+    "w": "drain",
+    "ph": "[dreɪn]",
+    "pos": "n.",
+    "d": "下水道；排水管"
+   },
+   {
+    "w": "refresh",
+    "ph": "[rɪˈfreʃ]",
+    "pos": "v.",
+    "d": "使恢复精力；使凉爽"
+   },
+   {
+    "w": "emotionally",
+    "ph": "[ɪˈməʊʃənəli]",
+    "pos": "adv.",
+    "d": "感情上地；情感上地"
+   },
+   {
+    "w": "empower",
+    "ph": "[ɪmˈpaʊə(r)]",
+    "pos": "v.",
+    "d": "增加（某人的）自主权；使控制局势"
+   },
+   {
+    "w": "permission",
+    "ph": "[pəˈmɪʃn]",
+    "pos": "n.",
+    "d": "准许；许可；批准"
+   },
+   {
+    "w": "justify",
+    "ph": "[ˈdʒʌstɪfaɪ]",
+    "pos": "v.",
+    "d": "对...作出解释；为...辩解（或辩护）"
+   },
+   {
+    "w": "awareness",
+    "ph": "[əˈweənəs]",
+    "pos": "n.",
+    "d": "知道；认识；意识"
+   }
+  ]
+ },
+ "B十二B": {
+  "title_en": "Self-Esteem and Body Image",
+  "title_zh": "自尊和身体形象",
+  "en": [
+   "I'm fat. I'm too skinny. I'd be happy if I were taller, shorter, had curly hair, straight hair, a smaller nose, bigger muscles, longer legs.",
+   "Do any of these statements sound familiar? Are you used to putting yourself down? If so, you're not alone. As a teen, you're going through a ton of changes in your body. And as your body changes, so does your image of yourself. Lots of people have trouble adjusting, and this can affect their self-esteem.",
+   "Why Are Self-Esteem and Body Image Important?",
+   "Self-esteem is all about how much people value themselves, the pride they feel in themselves, and how worthwhile they feel. Self-esteem is important because feeling good about yourself can affect how you act. A person who has high self-esteem will make friends easily, is more in control of his or her behavior, and will enjoy life more. Body image is how someone feels about his or her own physical appearance. For many people, especially those in their early teens, body image can be closely linked to self-esteem. That's because as kids develop into teens, they care more about how others see them.",
+   "What Influences a Person's Self-Esteem?",
+   "Puberty",
+   "Some teens struggle with their self-esteem when they begin puberty because the body goes through many changes. These changes, combined with a natural desire to feel accepted, mean it can be tempting for people to compare themselves with others. They may compare themselves with the people around them or with actors and celebs they see on TV, in movies, or in magazines.",
+   "But it's impossible to measure ourselves against others because the changes that come with puberty are different for everyone. Some people start developing early; others are late bloomers. Some get a temporary layer of fat to prepare for a growth spurt; others fill out permanently, and still others feel like they stay skinny no matter how much they eat. It all depends on how our genes have programmed our bodies to act.",
+   "The changes that come with puberty can affect how both girls and guys feel about themselves. Some girls may feel uncomfortable or embarrassed about their matureing bodies. Others may wish that they were developing faster. Girls may feel pressure to be thin but guys may feel like they don't look big or muscular enough.",
+   "Outside Influences",
+   "It's not just development that affects self-esteem, though. Many other factors like media images of skinny girls and bulked-up guys can influence a person's body image too.",
+   "Family life can sometimes influence self-esteem. Some parents spend more time criticizeing their kids and the way they look than praising them, which can reduce kids' ability to develop good self-esteem.",
+   "People also may experience negative comments and hurtful teasing about the way they look from classmates and peers. Sometimes racial and ethnic prejudice is the source of such comments. Although these often come from ignorance, sometimes they can affect someone's body image and self-esteem.",
+   "Healthy Self-Esteem",
+   "If you have a positive body image, you probably like and accept yourself the way you are. This healthy attitude allows you to explore other aspects of growing up, such as developing good friendships, growing more independent from your parents, and challenging yourself physically and mentally. Developing these parts of yourself can help boost your self-esteem.",
+   "A positive, optimistic attitude can help people develop strong self-esteem. For example, saying, \"Hey, I'm human\" instead of \"Wow, I'm such a loser\" when you've made a mistake, or not blaming others when things don't go as expected.",
+   "Knowing what makes you happy and how to meet your goals can help you feel capable, strong, and in control of your life. A positive attitude and a healthy lifestyle (such as exercising and eating right) are a great combination for building good self-esteem.",
+   "Tips for Improving Your Body Image",
+   "Some people think they need to change how they look or act to feel good about themselves. But actually all you need to do is change the way you see your body and how you think about yourself.",
+   "The first thing to do is recognize that your body is your own, no matter what shape, size, or color it comes in. If you're very worried about your weight or size, check with your doctor to verify that things are OK. But it's no one's business but your own what your body is like. ultimately, you have to be happy with yourself.",
+   "Next, identify which aspects of your appearance you can realistically change and which you can't. Everyone (even the most perfect-seeming celeb) has things about themselves that they can't change and need to accept, like their height, for example, or their shoe size.",
+   "If there are things about yourself that you want to change and can (such as how fit you are), do this by making goals for yourself. For example, if you want to get fit, make a plan to exercise every day and eat nutritious foods. Then keep track of your progress until you reach your goal. Meeting a challenge you set for yourself is a great way to boost self-esteem!"
+  ],
+  "zh": [
+   "我很胖。我瘦得皮包骨头。我会更高兴，如果我更高，或是矮点，或是做个卷发，或是留个直发，或是有个小鼻子，或是肌肉更发达些，或是腿再长点儿。",
+   "这些话听起来是不是很耳熟啊？你是否在过去当众出过丑？如果是，那你就不孤独。作为一个青少年，你在身体上要经历很多的改变。而且随着你的身体变化，你的形象也会改变。很多人都调整不过来，而且这会影响到他们的自尊心。",
+   "为什么自尊心与身体形象非常重要？",
+   "自尊心是指人们如何评价自己，对自身的自豪感，对自身价值的感觉。自尊心是非常重要的，这是因为自我感觉良好会影响到你的行为。一个有很强自尊心的人将会很容易交到朋友，有很好的自控能力，能更好地享受生活。",
+   "身体形象是人们对自己的身体外表的自我感觉。对于大多数人来说，尤其是那些青少年，身体形象与自尊心有着紧密的联系。这是因为当小孩子成长到青少年的时候，他们更加关心他人是如何看待他们的。",
+   "什么因素影响一个人的自尊心呢？",
+   "青春期",
+   "当一些青少年进入青春期的时候，他们便与自己的自尊心做斗争，这是因为身体经历许多变化。这些改变，与自身渴望感觉到被接受结合在一起，这意味着，它可能吸引人们与他人做对比。他们可能把自己和周围的人们或是在电视电影杂志上看到的演员和名人做比较。",
+   "但是通过与他人对比来进行自我衡量是不可能的，因为每个人在青春期的改变都是不一样的。有些人开始的比较早，有些比较晚熟。有些人暂时地长了些脂肪，来准备更快的成长，而有些人永久性的长胖了，还有些人无论吃多少都还那么瘦。这都由我们的基因来决定身体将如何成长。",
+   "伴随青春期而来的这些变化，可以影响女孩们和男孩们的自我感觉。有些女孩子可能觉得不舒服或是对她们自己日益成熟的身体感到尴尬难为情。还有些可能希望他们长得快一点。女孩可能对苗条感到有压力，而男孩可能觉得他们看起来不那么高大或是肌肉不够发达。",
+   "外部因素",
+   "尽管，并不是只有成长影响自尊心。还有很多其他因素（比如媒体上瘦瘦的女孩和高大的男孩的形象）也都会影响一个人的身体形象。",
+   "家庭生活有时候会影响自尊心。相对于夸奖孩子来说，有些父母花更多时间来批评指责孩子的外表，这会削弱孩子塑造良好自尊心的能力。",
+   "关于人们的外表，人们也可能经历一些来自同学或是同辈人的负面的评论或是伤自尊的戏弄。有时候种族歧视和民族偏见也是这些评论的来源。尽管这些通常是由于无知，但是有时候他们确实对人们的身体形象和自尊心产生一定的作用。",
+   "健康的自尊心",
+   "如果你对身体形象有一个积极的态度，你可能喜欢或是接受你自己的样子。这种健康的态度可以让你探寻成长过程中的其他方面，比如，发展良好的友谊，锻炼自己离开父母的独立性，还有挑战自己的身体和心智。发展这些部分可以帮助你增强自尊心。",
+   "一个积极的乐观的态度可以帮助人们发展强烈的自尊心。举个例子，当你做错事犯错误的时候，你说，\"嗨，我是个人物\"，而不是说\"哦，我是个失败者\"，亦者，当事情不如你预期的时候，不要责备别人。",
+   "懂得是什么让你开心，如何达到你的目标，这能够让你感觉自己是有才能的，强大的，而且是能够掌控自己的人生的。一个积极的态度和一种健康的生活习惯（比如锻炼身体，合理饮食）对于塑造良好的自尊心都是很好的。",
+   "改善你的身体形象的小贴士",
+   "一些人认为他们需要改变自己的形象或是行为来让自己感觉更愉快，但是，实际上你所需要的是改变你看待自己身体的方式，以及你对自己的认识。",
+   "你要做的第一件事情就是认同你的自身，无论它是什么形状，尺寸，或是颜色。如果你非常担心自己的体重或是身高，与你的医生核查一下，来核实是否有问题。但是，你自身怎么样，这不是其他人的事情而是你自己的事情。最终，你不得不对自身感到高兴。",
+   "接下来，明确你外表的哪些方面是你可以实际上可以改变的，哪些是不能变的。每一个人（即便是看起来完美无缺的明星）都有他们自己无法改变而且必须接受的地方，比如身高，或是他们的鞋号。",
+   "如果有些地方是你想要改变而且可以改变的（比方说你的健康程度），那么就给你自己设立目标来完成它。举例来说，如果你想要变的更健康，制定一个计划，每天锻炼身体，吃有营养的食物。然后跟踪自己的进度，直到你达到目标。迎接你自己给自己下的挑战，这是一个增强自己自尊心的很好的方法！"
+  ],
+  "vocab": [
+   {
+    "w": "skinny",
+    "ph": "[ˈskɪni]",
+    "pos": "adj.",
+    "d": "极瘦的；干瘦的；皮包骨头的"
+   },
+   {
+    "w": "curly",
+    "ph": "[ˈkɜːli]",
+    "pos": "adj.",
+    "d": "鬈发（或毛）的；卷曲状的"
+   },
+   {
+    "w": "adjust",
+    "ph": "[əˈdʒʌst]",
+    "pos": "v.",
+    "d": "适应；习惯"
+   },
+   {
+    "w": "worthwhile",
+    "ph": "[ˌwɜːθˈwaɪl]",
+    "pos": "adj.",
+    "d": "重要的；令人愉快的；有趣的；得花时间（或花钱、努力等）的"
+   },
+   {
+    "w": "puberty",
+    "ph": "[ˈpjuːbəti]",
+    "pos": "n.",
+    "d": "青春期"
+   },
+   {
+    "w": "tempting",
+    "ph": "[ˈtemptɪŋ]",
+    "pos": "adj.",
+    "d": "吸引人的；诱人的；有吸引力的"
+   },
+   {
+    "w": "celeb",
+    "ph": "[səˈleb]",
+    "pos": "n.",
+    "d": "名人（celebrity的缩写）"
+   },
+   {
+    "w": "bloomer",
+    "ph": "[ˈbluːmə(r)]",
+    "pos": "n.",
+    "d": "完全成熟的人"
+   },
+   {
+    "w": "temporary",
+    "ph": "[ˈtemprəri]",
+    "pos": "adj.",
+    "d": "短暂的；暂时的；临时的"
+   },
+   {
+    "w": "spurt",
+    "ph": "[spɜːt]",
+    "pos": "n.",
+    "d": "（速度、干劲、活动或感情的）短时激增，迸发"
+   },
+   {
+    "w": "permanently",
+    "ph": "[ˈpɜːmənəntli]",
+    "pos": "adv.",
+    "d": "永久地；永恒地；长久地"
+   },
+   {
+    "w": "gene",
+    "ph": "[dʒiːn]",
+    "pos": "n.",
+    "d": "基因"
+   },
+   {
+    "w": "embarrassed",
+    "ph": "[ɪmˈbærəst]",
+    "pos": "adj.",
+    "d": "（人或行为）（尤指在社交场合）窘迫的，尴尬的，害羞的"
+   },
+   {
+    "w": "mature",
+    "ph": "[məˈtʃʊə(r)]",
+    "pos": "v.",
+    "d": "成熟；长成"
+   },
+   {
+    "w": "bulked-up",
+    "ph": "[bʌlkt ʌp]",
+    "pos": "adj.",
+    "d": "胀大的；发起来的"
+   },
+   {
+    "w": "influence",
+    "ph": "[ˈɪnfluəns]",
+    "pos": "v.",
+    "d": "影响；对...起作用"
+   },
+   {
+    "w": "criticize",
+    "ph": "[ˈkrɪtɪsaɪz]",
+    "pos": "v.",
+    "d": "批评；批判；挑剔；指责"
+   },
+   {
+    "w": "hurtful",
+    "ph": "[ˈhɜːtfl]",
+    "pos": "adj.",
+    "d": "感情的；伤害自尊的"
+   },
+   {
+    "w": "peer",
+    "ph": "[pɪə(r)]",
+    "pos": "n.",
+    "d": "身份（或地位）相同的人；同龄人；同辈"
+   },
+   {
+    "w": "racial",
+    "ph": "[ˈreɪʃl]",
+    "pos": "adj.",
+    "d": "种族的；种族间的"
+   },
+   {
+    "w": "ethnic",
+    "ph": "[ˈeθnɪk]",
+    "pos": "adj.",
+    "d": "种族的；民族的"
+   },
+   {
+    "w": "prejudice",
+    "ph": "[ˈpredʒudɪs]",
+    "pos": "n.",
+    "d": "偏见；成见"
+   },
+   {
+    "w": "ignorance",
+    "ph": "[ˈɪɡnərəns]",
+    "pos": "n.",
+    "d": "无知"
+   },
+   {
+    "w": "independent",
+    "ph": "[ˌɪndɪˈpendənt]",
+    "pos": "adj.",
+    "d": "自立的；自食其力的"
+   },
+   {
+    "w": "boost",
+    "ph": "[buːst]",
+    "pos": "v.",
+    "d": "使增长；使兴旺"
+   },
+   {
+    "w": "optimistic",
+    "ph": "[ˌɒptɪˈmɪstɪk]",
+    "pos": "adj.",
+    "d": "乐观的；抱乐观看法的"
+   },
+   {
+    "w": "capable",
+    "ph": "[ˈkeɪpəbl]",
+    "pos": "adj.",
+    "d": "有能力的；有才能的"
+   },
+   {
+    "w": "lifestyle",
+    "ph": "[ˈlaɪfstaɪl]",
+    "pos": "n.",
+    "d": "生活方式；工作方式"
+   },
+   {
+    "w": "combination",
+    "ph": "[ˌkɒmbɪˈneɪʃn]",
+    "pos": "n.",
+    "d": "结合体；联合体；混合体"
+   },
+   {
+    "w": "verify",
+    "ph": "[ˈverɪfaɪ]",
+    "pos": "v.",
+    "d": "核实；查对；核准"
+   },
+   {
+    "w": "ultimately",
+    "ph": "[ˈʌltɪmətli]",
+    "pos": "adv.",
+    "d": "最终；最后；终归"
+   },
+   {
+    "w": "nutritious",
+    "ph": "[njuˈtrɪʃəs]",
+    "pos": "adj.",
+    "d": "有营养的；营养丰富的"
+   }
+  ]
+ }
+}

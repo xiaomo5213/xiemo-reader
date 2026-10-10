@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="满街的广告牌">
+<title>满街的广告牌</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="835.0" cy="160.0" r="44.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="144.0" cy="128.0" r="32.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="877.0" cy="391.0" r="16.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="258.0" cy="103.0" rx="49.2" ry="27.8" fill="#ffffff"/><ellipse cx="217.3" cy="111.6" rx="32.1" ry="21.4" fill="#ffffff"/><ellipse cx="300.8" cy="111.6" rx="34.2" ry="22.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="723.0" cy="140.0" rx="36.4" ry="20.6" fill="#ffffff"/><ellipse cx="692.9" cy="146.3" rx="23.7" ry="15.8" fill="#ffffff"/><ellipse cx="754.7" cy="146.3" rx="25.3" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="160.0" width="380.0" height="180.0" rx="8.0" fill="#ffffff" stroke="#e0822f" stroke-width="6"/>
+<rect x="320.0" y="180.0" width="340.0" height="60.0" rx="6.0" fill="#e0822f"/>
+<rect x="336.0" y="196.0" width="180.0" height="12.0" rx="6.0" fill="#ffffff" opacity="0.85"/>
+<rect x="336.0" y="218.0" width="120.0" height="10.0" rx="5.0" fill="#ffffff" opacity="0.7"/>
+<circle cx="600.0" cy="216.0" r="30.0" fill="#17a67a"/>
+<rect x="320.0" y="264.0" width="200.0" height="12.0" rx="6.0" fill="#f7dcb6"/>
+<rect x="320.0" y="292.0" width="260.0" height="12.0" rx="6.0" fill="#f7dcb6"/>
+<rect x="320.0" y="318.0" width="150.0" height="12.0" rx="6.0" fill="#f7dcb6"/>
+<rect x="400.0" y="340.0" width="14.0" height="90.0" rx="5.0" fill="#b25f1c"/>
+<rect x="566.0" y="340.0" width="14.0" height="90.0" rx="5.0" fill="#b25f1c"/>
+<rect x="186.3" y="407.8" width="10.1" height="20.2" rx="5.0" fill="#e0822f"/>
+<rect x="203.6" y="407.8" width="10.1" height="20.2" rx="5.0" fill="#e0822f"/>
+<rect x="171.9" y="364.6" width="8.6" height="40.3" rx="4.3" fill="#f7dcb6"/>
+<rect x="219.4" y="364.6" width="8.6" height="40.3" rx="4.3" fill="#f7dcb6"/>
+<rect x="179.8" y="358.9" width="40.3" height="54.7" rx="11.5" fill="#f7dcb6"/>
+<circle cx="200.0" cy="338.0" r="19.4" fill="#f8d3ae"/>
+<rect x="735.2" y="406.2" width="10.9" height="21.8" rx="5.5" fill="#b25f1c"/>
+<rect x="753.9" y="406.2" width="10.9" height="21.8" rx="5.5" fill="#b25f1c"/>
+<rect x="719.6" y="359.4" width="9.4" height="43.7" rx="4.7" fill="#17a67a"/>
+<rect x="771.1" y="359.4" width="9.4" height="43.7" rx="4.7" fill="#17a67a"/>
+<rect x="728.2" y="353.1" width="43.7" height="59.3" rx="12.5" fill="#17a67a"/>
+<circle cx="750.0" cy="330.5" r="21.1" fill="#f8d3ae"/>
+<rect x="120.0" y="424.0" width="720.0" height="12.0" rx="6.0" fill="#b25f1c"/>
+<path d="M 437 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 115 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 802 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

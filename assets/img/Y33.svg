@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="电子邮件的三种类型">
+<title>电子邮件的三种类型</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2f8fd"/><stop offset="1" stop-color="#e4eef9"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="835.0" cy="160.0" r="44.0" fill="#cfe0f2" opacity="0.55"/>
+<circle cx="144.0" cy="128.0" r="32.0" fill="#cfe0f2" opacity="0.45"/>
+<circle cx="877.0" cy="391.0" r="16.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="258.0" cy="103.0" rx="49.2" ry="27.8" fill="#ffffff"/><ellipse cx="217.3" cy="111.6" rx="32.1" ry="21.4" fill="#ffffff"/><ellipse cx="300.8" cy="111.6" rx="34.2" ry="22.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="723.0" cy="140.0" rx="36.4" ry="20.6" fill="#ffffff"/><ellipse cx="692.9" cy="146.3" rx="23.7" ry="15.8" fill="#ffffff"/><ellipse cx="754.7" cy="146.3" rx="25.3" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#cfe0f2" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#2f6fb5" stroke-width="3" opacity="0.35"/>
+<rect x="160.0" y="190.0" width="180.0" height="120.0" rx="8.0" fill="#ffffff" stroke="#2f6fb5" stroke-width="5"/>
+<path d="M 160.0 190.0 L 250.0 254.0 L 340.0 190.0" fill="none" stroke="#2f6fb5" stroke-width="5"/>
+<rect x="366.5" y="141.0" width="207.0" height="138.0" rx="8.0" fill="#ffffff" stroke="#17a67a" stroke-width="5"/>
+<path d="M 366.5 141.0 L 470.0 214.6 L 573.5 141.0" fill="none" stroke="#17a67a" stroke-width="5"/>
+<rect x="609.0" y="208.0" width="162.0" height="108.0" rx="8.0" fill="#ffffff" stroke="#2f6fb5" stroke-width="5"/>
+<path d="M 609.0 208.0 L 690.0 265.6 L 771.0 208.0" fill="none" stroke="#2f6fb5" stroke-width="5"/>
+<line x1="700.0" y1="150.0" x2="830.0" y2="150.0" stroke="#1e4d83" stroke-width="8.0" stroke-linecap="round"/>
+<path d="M 830 150 l -34 -22 l 0 44 Z" fill="#1e4d83"/>
+<circle cx="180.0" cy="380.0" r="16.0" fill="#17a67a" opacity="0.7"/>
+<circle cx="820.0" cy="380.0" r="20.0" fill="#17a67a" opacity="0.7"/>
+<path d="M 437 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 115 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 802 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="公共交通的重要性">
+<title>公共交通的重要性</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3fbf8"/><stop offset="1" stop-color="#e6f6ef"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="819.0" cy="103.0" r="51.0" fill="#c4e8da" opacity="0.55"/>
+<circle cx="184.0" cy="194.0" r="40.0" fill="#c4e8da" opacity="0.45"/>
+<circle cx="811.0" cy="353.0" r="19.0" fill="#e0913c" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="252.0" cy="108.0" rx="46.8" ry="26.4" fill="#ffffff"/><ellipse cx="213.3" cy="116.1" rx="30.5" ry="20.3" fill="#ffffff"/><ellipse cx="292.7" cy="116.1" rx="32.6" ry="21.4" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="778.0" cy="142.0" rx="36.4" ry="20.6" fill="#ffffff"/><ellipse cx="747.9" cy="148.3" rx="23.8" ry="15.8" fill="#ffffff"/><ellipse cx="809.7" cy="148.3" rx="25.3" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#c4e8da" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#17a67a" stroke-width="3" opacity="0.35"/>
+<rect x="320.0" y="250.0" width="400.0" height="150.0" rx="16.0" fill="#17a67a"/>
+<rect x="340.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="454.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="568.0" y="272.0" width="100.0" height="62.0" rx="8.0" fill="#eaf6fb"/>
+<rect x="340.0" y="350.0" width="328.0" height="26.0" rx="6.0" fill="#0f7d5c"/>
+<circle cx="398.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="398.0" cy="416.0" r="15.0" fill="#c4e8da"/>
+<circle cx="672.0" cy="416.0" r="34.0" fill="#3b4a52"/>
+<circle cx="672.0" cy="416.0" r="15.0" fill="#c4e8da"/>
+<rect x="760.0" y="300.0" width="12.0" height="60.0" rx="4.0" fill="#0f7d5c"/>
+<rect x="240.0" y="200.0" width="12.0" height="230.0" rx="4.0" fill="#0f7d5c"/>
+<rect x="190.0" y="190.0" width="112.0" height="62.0" rx="8.0" fill="#e0913c"/>
+<rect x="204.0" y="206.0" width="84.0" height="8.0" rx="4.0" fill="#ffffff"/>
+<rect x="204.0" y="224.0" width="60.0" height="8.0" rx="4.0" fill="#ffffff"/>
+<rect x="743.9" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="764.2" y="404.2" width="11.9" height="23.8" rx="6.0" fill="#b25f1c"/>
+<rect x="726.9" y="353.2" width="10.2" height="47.6" rx="5.1" fill="#e0913c"/>
+<rect x="783.0" y="353.2" width="10.2" height="47.6" rx="5.1" fill="#e0913c"/>
+<rect x="736.2" y="346.4" width="47.6" height="64.6" rx="13.6" fill="#e0913c"/>
+<circle cx="760.0" cy="321.8" r="22.9" fill="#f8d3ae"/>
+<path d="M 219 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 889 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 288 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#17a67a" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

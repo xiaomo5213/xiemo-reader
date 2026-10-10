@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="糟糕的早晨与情绪">
+<title>糟糕的早晨与情绪</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="827.0" cy="145.0" r="45.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="161.0" cy="155.0" r="28.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="856.0" cy="392.0" r="21.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="271.0" cy="115.0" rx="46.6" ry="26.4" fill="#ffffff"/><ellipse cx="232.5" cy="123.1" rx="30.4" ry="20.3" fill="#ffffff"/><ellipse cx="311.6" cy="123.1" rx="32.4" ry="21.3" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="703.0" cy="144.0" rx="35.5" ry="20.1" fill="#ffffff"/><ellipse cx="673.7" cy="150.2" rx="23.2" ry="15.4" fill="#ffffff"/><ellipse cx="733.9" cy="150.2" rx="24.7" ry="16.2" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="300.0" y="210.0" width="250.0" height="210.0" rx="14.0" fill="#ffffff" stroke="#e0822f" stroke-width="5"/>
+<rect x="300.0" y="210.0" width="250.0" height="44.0" rx="14.0" fill="#e0822f"/>
+<rect x="300.0" y="238.0" width="250.0" height="16.0" rx="0.0" fill="#e0822f"/>
+<rect x="322.0" y="274.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="380.0" y="274.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="438.0" y="274.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="496.0" y="274.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="322.0" y="320.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="380.0" y="320.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="438.0" y="320.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="496.0" y="320.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="322.0" y="366.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="380.0" y="366.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="438.0" y="366.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<rect x="496.0" y="366.0" width="40.0" height="30.0" rx="5.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="438.0" cy="320.0" r="20.0" fill="none" stroke="#17a67a" stroke-width="5"/>
+<g opacity="0.95"><ellipse cx="660.0" cy="196.0" rx="52.9" ry="29.9" fill="#9fb0bd"/><ellipse cx="616.3" cy="205.2" rx="34.5" ry="23.0" fill="#9fb0bd"/><ellipse cx="706.0" cy="205.2" rx="36.8" ry="24.1" fill="#9fb0bd"/></g>
+<g opacity="0.80"><ellipse cx="770.0" cy="236.0" rx="41.4" ry="23.4" fill="#9fb0bd"/><ellipse cx="735.8" cy="243.2" rx="27.0" ry="18.0" fill="#9fb0bd"/><ellipse cx="806.0" cy="243.2" rx="28.8" ry="18.9" fill="#9fb0bd"/></g>
+<line x1="624.0" y1="250.0" x2="616.0" y2="292.0" stroke="#7fa7c4" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="664.0" y1="268.0" x2="656.0" y2="310.0" stroke="#7fa7c4" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="704.0" y1="250.0" x2="696.0" y2="292.0" stroke="#7fa7c4" stroke-width="6.0" stroke-linecap="round"/>
+<line x1="744.0" y1="268.0" x2="736.0" y2="310.0" stroke="#7fa7c4" stroke-width="6.0" stroke-linecap="round"/>
+<rect x="180.0" y="356.0" width="84.0" height="72.0" rx="10.0" fill="#ffffff" stroke="#17a67a" stroke-width="4"/>
+<path d="M 264 372 q 26 4 26 22 q 0 18 -26 20" fill="none" stroke="#17a67a" stroke-width="6"/>
+<path d="M 202 340 q 8 -18 0 -34 M 226 340 q 8 -18 0 -34" fill="none" stroke="#c0cbd2" stroke-width="4"/>
+<path d="M 870 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 839 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 213 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

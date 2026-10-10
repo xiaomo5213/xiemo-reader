@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="金钱在生活中的重要性">
+<title>金钱在生活中的重要性</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2f8fd"/><stop offset="1" stop-color="#e4eef9"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="746.0" cy="107.0" r="44.0" fill="#cfe0f2" opacity="0.55"/>
+<circle cx="194.0" cy="121.0" r="25.0" fill="#cfe0f2" opacity="0.45"/>
+<circle cx="826.0" cy="361.0" r="22.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="191.0" cy="108.0" rx="38.3" ry="21.6" fill="#ffffff"/><ellipse cx="159.4" cy="114.7" rx="25.0" ry="16.7" fill="#ffffff"/><ellipse cx="224.3" cy="114.7" rx="26.6" ry="17.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="663.0" cy="137.0" rx="36.5" ry="20.6" fill="#ffffff"/><ellipse cx="632.9" cy="143.3" rx="23.8" ry="15.9" fill="#ffffff"/><ellipse cx="694.7" cy="143.3" rx="25.4" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#cfe0f2" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#2f6fb5" stroke-width="3" opacity="0.35"/>
+<rect x="460.0" y="200.0" width="20.0" height="200.0" rx="8.0" fill="#1e4d83"/>
+<rect x="330.0" y="210.0" width="280.0" height="16.0" rx="8.0" fill="#1e4d83"/>
+<line x1="340.0" y1="218.0" x2="340.0" y2="290.0" stroke="#2f6fb5" stroke-width="5.0" stroke-linecap="round"/>
+<line x1="600.0" y1="218.0" x2="600.0" y2="290.0" stroke="#2f6fb5" stroke-width="5.0" stroke-linecap="round"/>
+<path d="M 280 290 q 60 56 120 0 Z" fill="#cfe0f2" stroke="#2f6fb5" stroke-width="5"/>
+<path d="M 540 290 q 60 56 120 0 Z" fill="#cfe0f2" stroke="#2f6fb5" stroke-width="5"/>
+<circle cx="340.0" cy="268.0" r="30.0" fill="#fbe4c2" stroke="#17a67a" stroke-width="3"/>
+<line x1="327.4" y1="259.0" x2="340.0" y2="268.0" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="352.6" y1="259.0" x2="340.0" y2="268.0" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="340.0" y1="268.0" x2="340.0" y2="280.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="327.4" y1="271.6" x2="352.6" y2="271.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="327.4" y1="283.6" x2="352.6" y2="283.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="600.0" cy="258.0" r="30.0" fill="#fbe4c2" stroke="#17a67a" stroke-width="3"/>
+<line x1="587.4" y1="249.0" x2="600.0" y2="258.0" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="612.6" y1="249.0" x2="600.0" y2="258.0" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="600.0" y1="258.0" x2="600.0" y2="270.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="587.4" y1="261.6" x2="612.6" y2="261.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/><line x1="587.4" y1="273.6" x2="612.6" y2="273.6" stroke="#17a67a" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="480.0" cy="180.0" r="16.0" fill="#17a67a"/>
+<path d="M 847 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 596 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 160 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#2f6fb5" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

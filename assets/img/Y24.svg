@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="人们如何看待金钱">
+<title>人们如何看待金钱</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f5fc"/><stop offset="1" stop-color="#ece5f7"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="835.0" cy="160.0" r="44.0" fill="#ded3f0" opacity="0.55"/>
+<circle cx="144.0" cy="128.0" r="32.0" fill="#ded3f0" opacity="0.45"/>
+<circle cx="877.0" cy="391.0" r="16.0" fill="#e0822f" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="258.0" cy="103.0" rx="49.2" ry="27.8" fill="#ffffff"/><ellipse cx="217.3" cy="111.6" rx="32.1" ry="21.4" fill="#ffffff"/><ellipse cx="300.8" cy="111.6" rx="34.2" ry="22.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="723.0" cy="140.0" rx="36.4" ry="20.6" fill="#ffffff"/><ellipse cx="692.9" cy="146.3" rx="23.7" ry="15.8" fill="#ffffff"/><ellipse cx="754.7" cy="146.3" rx="25.3" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#ded3f0" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#7b5ea7" stroke-width="3" opacity="0.35"/>
+<rect x="460.0" y="200.0" width="20.0" height="200.0" rx="8.0" fill="#5a4180"/>
+<rect x="330.0" y="210.0" width="280.0" height="16.0" rx="8.0" fill="#5a4180"/>
+<line x1="340.0" y1="218.0" x2="340.0" y2="290.0" stroke="#7b5ea7" stroke-width="5.0" stroke-linecap="round"/>
+<line x1="600.0" y1="218.0" x2="600.0" y2="290.0" stroke="#7b5ea7" stroke-width="5.0" stroke-linecap="round"/>
+<path d="M 280 290 q 60 56 120 0 Z" fill="#ded3f0" stroke="#7b5ea7" stroke-width="5"/>
+<path d="M 540 290 q 60 56 120 0 Z" fill="#ded3f0" stroke="#7b5ea7" stroke-width="5"/>
+<circle cx="340.0" cy="268.0" r="30.0" fill="#fbe4c2" stroke="#e0822f" stroke-width="3"/>
+<line x1="327.4" y1="259.0" x2="340.0" y2="268.0" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="352.6" y1="259.0" x2="340.0" y2="268.0" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="340.0" y1="268.0" x2="340.0" y2="280.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="327.4" y1="271.6" x2="352.6" y2="271.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="327.4" y1="283.6" x2="352.6" y2="283.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="600.0" cy="258.0" r="30.0" fill="#fbe4c2" stroke="#e0822f" stroke-width="3"/>
+<line x1="587.4" y1="249.0" x2="600.0" y2="258.0" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="612.6" y1="249.0" x2="600.0" y2="258.0" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="600.0" y1="258.0" x2="600.0" y2="270.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="587.4" y1="261.6" x2="612.6" y2="261.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/><line x1="587.4" y1="273.6" x2="612.6" y2="273.6" stroke="#e0822f" stroke-width="3.0" stroke-linecap="round"/>
+<circle cx="480.0" cy="180.0" r="16.0" fill="#e0822f"/>
+<path d="M 437 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 115 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 802 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#7b5ea7" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>

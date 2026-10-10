@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" role="img" aria-label="把爱带进工作">
+<title>把爱带进工作</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdf8f1"/><stop offset="1" stop-color="#faeddb"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#bg)"/>
+<circle cx="835.0" cy="160.0" r="44.0" fill="#f7dcb6" opacity="0.55"/>
+<circle cx="144.0" cy="128.0" r="32.0" fill="#f7dcb6" opacity="0.45"/>
+<circle cx="877.0" cy="391.0" r="16.0" fill="#17a67a" opacity="0.28"/>
+<g opacity="0.85"><ellipse cx="258.0" cy="103.0" rx="49.2" ry="27.8" fill="#ffffff"/><ellipse cx="217.3" cy="111.6" rx="32.1" ry="21.4" fill="#ffffff"/><ellipse cx="300.8" cy="111.6" rx="34.2" ry="22.5" fill="#ffffff"/></g>
+<g opacity="0.80"><ellipse cx="723.0" cy="140.0" rx="36.4" ry="20.6" fill="#ffffff"/><ellipse cx="692.9" cy="146.3" rx="23.7" ry="15.8" fill="#ffffff"/><ellipse cx="754.7" cy="146.3" rx="25.3" ry="16.6" fill="#ffffff"/></g>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424 L 960 540 L 0 540 Z" fill="#f7dcb6" opacity="0.75"/>
+<path d="M 0 434 C 220 410 380 448 560 430 C 720 414 840 442 960 424" fill="none" stroke="#e0822f" stroke-width="3" opacity="0.35"/>
+<rect x="250.0" y="372.0" width="460.0" height="18.0" rx="6.0" fill="#b25f1c"/>
+<rect x="288.0" y="390.0" width="16.0" height="40.0" rx="5.0" fill="#b25f1c"/>
+<rect x="656.0" y="390.0" width="16.0" height="40.0" rx="5.0" fill="#b25f1c"/>
+<rect x="392.0" y="246.0" width="176.0" height="116.0" rx="10.0" fill="#ffffff" stroke="#e0822f" stroke-width="5"/>
+<rect x="462.0" y="362.0" width="36.0" height="12.0" rx="4.0" fill="#e0822f"/>
+<rect x="408.0" y="262.0" width="144.0" height="12.0" rx="6.0" fill="#f7dcb6"/>
+<rect x="408.0" y="286.0" width="110.0" height="9.0" rx="4.5" fill="#f7dcb6" opacity="0.8"/>
+<rect x="408.0" y="304.0" width="130.0" height="9.0" rx="4.5" fill="#f7dcb6" opacity="0.8"/>
+<rect x="408.0" y="322.0" width="84.0" height="9.0" rx="4.5" fill="#f7dcb6" opacity="0.8"/>
+<rect x="682.5" y="402.2" width="12.9" height="25.8" rx="6.4" fill="#b25f1c"/>
+<rect x="704.6" y="402.2" width="12.9" height="25.8" rx="6.4" fill="#b25f1c"/>
+<rect x="663.2" y="352.6" width="20.2" height="11.0" rx="5.5" fill="#e0822f"/>
+<rect x="716.6" y="352.6" width="20.2" height="11.0" rx="5.5" fill="#e0822f"/>
+<rect x="674.2" y="339.7" width="51.5" height="69.9" rx="14.7" fill="#e0822f"/>
+<circle cx="700.0" cy="313.0" r="24.8" fill="#f8d3ae"/>
+<rect x="300.0" y="340.0" width="40.0" height="32.0" rx="6.0" fill="#ffffff" stroke="#17a67a" stroke-width="4"/>
+<path d="M 320.0 335.8 C 307.6 323.4 295.2 335.8 295.2 345.1 C 295.2 355.6 307.6 363.1 320.0 371.8 C 332.4 363.1 344.8 355.6 344.8 345.1 C 344.8 335.8 332.4 323.4 320.0 335.8 Z" fill="#17a67a"/>
+<path d="M 437 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 115 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+<path d="M 802 540 q 10 -26 22 -4 q 12 -30 24 4" fill="none" stroke="#e0822f" stroke-width="5" opacity="0.35" stroke-linecap="round"/>
+</svg>
