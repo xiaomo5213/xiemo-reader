@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17a67a">
+<meta name="description" content="自考英语（专升本）13000 押题库短文精读：75 篇原文 + 全译文，点词查义、发音、生词本">
+<title>撷墨 · 押题库短文精读（英语专升本 13000）</title>
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+
+<div class="app">
+
+  <!-- ============ 顶栏 ============ -->
+  <header class="topbar">
+    <button class="iconbtn btn-menu" id="btnMenu" title="目录">☰</button>
+    <div class="brand">
+      <span class="logo">墨</span>
+      <span>押题库短文精读<small>英语（专升本）· 13000</small></span>
+    </div>
+
+    <div class="search">
+      <span class="ico">🔍</span>
+      <input id="q" type="search" placeholder="搜索篇号 / 主题 / 标题…" autocomplete="off">
+    </div>
+
+    <div class="filters" id="chips"></div>
+
+    <span class="spacer"></span>
+
+    <button class="btn-wordbook" id="btnWb">📒 生词本 <span class="badge" id="wbBadge">0</span></button>
+  </header>
+
+  <!-- ============ 主体 ============ -->
+  <div class="main">
+
+    <aside class="side" id="side">
+      <div class="side-hd">
+        <div class="t">
+          <span>篇目 · <b id="cntShown">0</b> 篇</span>
+          <span id="cntDone">已读 0 / 0 · 0%</span>
+        </div>
+        <div class="pbar"><i id="pbarFill" style="width:0"></i></div>
+      </div>
+      <div class="plist" id="plist"></div>
+    </aside>
+    <div class="side-mask" id="sideMask"></div>
+
+    <section class="reader" id="reader">
+      <div class="rwrap" id="rwrap">
+        <div class="loading">正在加载短文数据…</div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ============ 移动端底部导航 ============ -->
+  <nav class="tabbar" id="tabbar">
+    <button data-tab="list"><span class="ic">☰</span>目录</button>
+    <button data-tab="read" class="on"><span class="ic">📖</span>阅读</button>
+    <button data-tab="wb"><span class="ic">📒</span>生词本<span class="badge" id="wbBadge2">0</span></button>
+  </nav>
+
+</div>
+
+<!-- ============ 单词弹窗 ============ -->
+<div class="mask" id="mask">
+  <div class="pop" id="pop">
+    <div class="ph">
+      <div class="word" id="pWord">—</div>
+      <div class="phn" id="pPhn"></div>
+      <button class="close" id="pClose" title="关闭">×</button>
+    </div>
+    <div class="pb">
+      <div class="def" id="pDef"></div>
+      <div class="ctx" id="pCtx"></div>
+      <div class="acts">
+        <button class="btn-sound" id="pUk">🔊 英音</button>
+        <button class="btn-sound" id="pUs">🔊 美音</button>
+        <button class="btn-add" id="pAdd">＋ 加入生词本</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ============ 生词本 ============ -->
+<div class="wb" id="wbPage">
+  <div class="wb-hd">
+    <button class="iconbtn" id="wbBack" title="返回">←</button>
+    <h2>我的生词本</h2>
+    <span class="cnt" id="wbCnt"></span>
+    <span class="spacer"></span>
+    <div class="tools">
+      <button class="mini" id="wbHide">遮住释义</button>
+      <button class="mini" id="wbSpeak">连读发音</button>
+      <button class="mini" id="wbExport">导出</button>
+      <button class="mini" id="wbClear">清空</button>
+    </div>
+  </div>
+  <div class="wb-body">
+    <div class="wbwrap" id="wbList"></div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="assets/js/dict.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

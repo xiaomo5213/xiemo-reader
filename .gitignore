@@ -1,0 +1,9 @@
+# 数据与静态资源都要上传，这里只忽略临时文件
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+tools/_tmp/
